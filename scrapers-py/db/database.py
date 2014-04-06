@@ -31,7 +31,13 @@ class Storage(object):
         except Exception, e:
             print e
 
-
+    def insert(self, table_name, data):
+        self.connect()
+        table = meta.tables[table_name]
+        query = sqlalchemy.insert(table, data)
+        print query
+        self.execute(query)
+        self.disconnect()
 
 if __name__ == "__main__":
 
