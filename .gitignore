@@ -4,6 +4,8 @@
 *.class
 bin/
 
+*.zip
+
 *.iml
 
 #LaTeX ignored files
