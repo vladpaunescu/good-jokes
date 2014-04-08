@@ -4,19 +4,24 @@
 """
 import json
 import os
+from sets import Set
 
 import urllib2
 from lxml import etree
 
 # user imports
 import sqlalchemy
+from sqlalchemy.sql.elements import and_
 from db.database import Storage, meta
 
 import constants
+from html_text_extractor import HtmlTextExtractor
+
 
 class JokesScraper:
     def __init__(self):
         self.storage = Storage()
+        self.jokes_set = Set()
 
     def get_jokes(self):
         categories = self.get_categories()
@@ -66,7 +71,7 @@ class JokesScraper:
         for joke in jokes:
             joke_data = self.process_joke(joke.attrib['href'])
             if joke_data:
-                self.update_joke_in_db(joke_data, category)
+                self.save_joke_to_db(joke_data, category)
 
     def process_joke(self, url):
         req = urllib2.Request(url=url,
@@ -79,12 +84,15 @@ class JokesScraper:
 
         title = tree.xpath(constants.TITLE_SELECTOR)
         content = tree.xpath(constants.CONTENT_SELECTOR)
+        text_extractor = HtmlTextExtractor(content)
+        content_text = text_extractor.extract_text()
         rating = tree.xpath(constants.RATING_SELECTOR)
         votes = tree.xpath(constants.VOTES_SELECTOR)
         comments_count = tree.xpath(constants.COMMENTS_SELECTOR)
-        if title and content and rating and votes:
+        likes = 0 # self.fb_social_plugin_get_likes(tree, url)
+        if title and content_text and rating and votes:
             print title[0].text
-            print content[0].text
+            print content_text
             print rating[0].text
             print votes[0].text
             if comments_count:
@@ -97,10 +105,10 @@ class JokesScraper:
             print count
 
             return {"title" : title[0].text,
-                    "content" : content[0].text,
-                    "rating" : rating[0].text,
+                    "content" : content_text,
                     "rating" : rating[0].text,
                     "votes" : votes[0].text,
+                    "likes": likes,
                     'url' : url,
                     "comments_count" : count}
 
@@ -108,12 +116,42 @@ class JokesScraper:
 
         #self.get_comments(url)
 
-    def update_joke_in_db(self, joke_data, category):
+    def fb_social_plugin_get_likes(self, tree, joke_url):
+        # TODO
+        likes = tree.xpath("/html//div[@data-href='" + joke_url + "']")
+        print likes
+        if likes:
+            print likes[0].attrib
+            print "Requesting to facebook " +  likes[0].attrib['fb-iframe-plugin-query']
+            url =  likes[0].attrib['fb-iframe-plugin-query']
+            req = urllib2.Request(url=url,
+                            headers={'User-Agent': constants.USER_AGENT})
+
+            response = urllib2.urlopen(req)
+            html_parser = etree.HTMLParser()
+            tree = etree.parse(response, html_parser)
+            likes_count = tree.xpath("/html//span[@class='pluginCountTextDisconnected']")
+            if likes_count:
+                print "Likes " + likes_count[0].text
+                count = likes_count[0].text
+            else:
+                count = 0
+            print count
+            return count
+
+    def save_joke_to_db(self, joke_data, category):
         joke_id = self.get_joke_id(joke_data['title'])
         if joke_id is None:
             print "New Joke. Inserting into db"
             self.insert_joke_in_db(joke_data)
-        self.add_joke_to_category(joke_data, category)
+        elif joke_data['title'] not in self.jokes_set:
+            print "New scanning of joke"
+            self.update_joke_in_db(joke_id, joke_data)
+            self.jokes_set.add(joke_data['title'])
+
+        if not self.joke_in_category(joke_id, category):
+            print "Joke not present in category " + category['name']
+            self.add_joke_to_category(joke_data, category)
 
     def get_joke_id(self, joke_title):
         print "Getting joke id"
@@ -129,6 +167,30 @@ class JokesScraper:
 
     def insert_joke_in_db(self, data):
         self.storage.insert('jokes', data)
+
+    def update_joke_in_db(self, joke_id, joke_data):
+        self.storage.connect()
+        jokes = meta.tables['jokes']
+        query = sqlalchemy.update(jokes).where(jokes.c.id==joke_id).values(joke_data)
+        print query
+        self.storage.execute(query)
+        self.storage.disconnect()
+
+    def joke_in_category(self, joke_id, category):
+        self.storage.connect()
+        jokes_categories = meta.tables['jokes_categories']
+        query = sqlalchemy.select([jokes_categories.c.id]).where(
+              and_(
+                jokes_categories.c.joke_id == joke_id,
+                jokes_categories.c.subcategory_id == category['id']
+            )
+        )
+        results = self.storage.execute(query)
+        self.storage.disconnect()
+        for result in results:
+            print result["id"]
+            return True
+        return False
 
     def add_joke_to_category(self, joke_data, category):
         joke_id = self.get_joke_id(joke_data['title'])
@@ -158,10 +220,6 @@ class JokesScraper:
         #     print author.text
         #     print timestamp.text
         #     print content.text
-
-
-
-
 
     def save_json(self, json_resp):
         self.create_directory()
@@ -212,14 +270,6 @@ class JokesScraper:
             storage.execute(query)
 
         storage.disconnect()
-
-
-    def create_directory(self):
-        print "Creating directory for {0}".format(self.domain_id)
-        dirs = u"{0}/json".format(self.path)
-        self.print_unicode(dirs)
-        if not os.path.exists(dirs):
-            os.makedirs(dirs)
 
     def print_unicode(self, string):
         try:

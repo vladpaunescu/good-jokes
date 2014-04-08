@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+    <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+    <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/jokes?zeroDateTimeBehavior=convertToNull&amp;charset=utf8&amp;use_unicode=1</property>
+    <property name="hibernate.connection.username">root</property>
+    <property name="hibernate.connection.password">student</property>
+    <mapping resource="ro/pub/cti/jokes/analyzer/db/Subcategories.hbm.xml"/>
+    <mapping resource="ro/pub/cti/jokes/analyzer/db/Comments.hbm.xml"/>
+    <mapping resource="ro/pub/cti/jokes/analyzer/db/JokesCategories.hbm.xml"/>
+    <mapping resource="ro/pub/cti/jokes/analyzer/db/Categories.hbm.xml"/>
+    <mapping resource="ro/pub/cti/jokes/analyzer/db/Jokes.hbm.xml"/>
+  </session-factory>
+</hibernate-configuration>

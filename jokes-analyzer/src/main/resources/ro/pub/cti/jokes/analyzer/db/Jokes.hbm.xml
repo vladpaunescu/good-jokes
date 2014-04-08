@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Apr 9, 2014 12:57:17 AM by Hibernate Tools 3.6.0 -->
+<hibernate-mapping>
+    <class name="ro.pub.cti.jokes.analyzer.db.Jokes" table="jokes" catalog="jokes">
+        <id name="id" type="java.lang.Integer">
+            <column name="id" />
+            <generator class="identity" />
+        </id>
+        <property name="title" type="string">
+            <column name="title" length="512" />
+        </property>
+        <property name="content" type="string">
+            <column name="content" length="65535" />
+        </property>
+        <property name="rating" type="java.lang.Float">
+            <column name="rating" precision="12" scale="0" />
+        </property>
+        <property name="votes" type="java.lang.Integer">
+            <column name="votes" />
+        </property>
+        <property name="likes" type="java.lang.Integer">
+            <column name="likes" />
+        </property>
+        <property name="url" type="string">
+            <column name="url" length="512" />
+        </property>
+        <property name="commentsCount" type="java.lang.Integer">
+            <column name="comments_count" />
+        </property>
+        <set name="commentses" table="comments" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="joke_id" />
+            </key>
+            <one-to-many class="ro.pub.cti.jokes.analyzer.db.Comments" />
+        </set>
+        <set name="jokesCategorieses" table="jokes_categories" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="joke_id" not-null="true" />
+            </key>
+            <one-to-many class="ro.pub.cti.jokes.analyzer.db.JokesCategories" />
+        </set>
+    </class>
+</hibernate-mapping>

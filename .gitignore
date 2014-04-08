@@ -5,6 +5,7 @@
 bin/
 
 *.zip
+*.jar
 
 *.iml
 
@@ -33,3 +34,4 @@ bin/
 *.mtc1
 *.out
 *.synctex.gz
+/jokes-analyzer/target/
