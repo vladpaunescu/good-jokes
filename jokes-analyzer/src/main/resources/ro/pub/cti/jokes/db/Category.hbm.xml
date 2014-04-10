@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
 "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
-<!-- Generated Apr 9, 2014 12:57:17 AM by Hibernate Tools 3.6.0 -->
+<!-- Generated Apr 11, 2014 12:08:35 AM by Hibernate Tools 3.6.0 -->
 <hibernate-mapping>
-    <class name="ro.pub.cti.jokes.analyzer.db.Categories" table="categories" catalog="jokes">
+    <class name="ro.pub.cti.jokes.db.Category" table="category" catalog="jokes">
         <id name="id" type="java.lang.Integer">
             <column name="id" />
             <generator class="identity" />
@@ -14,11 +14,11 @@
         <property name="url" type="string">
             <column name="url" length="512" />
         </property>
-        <set name="subcategorieses" table="subcategories" inverse="true" lazy="true" fetch="select">
+        <set name="subcategories" table="subcategory" inverse="true" lazy="true" fetch="select">
             <key>
                 <column name="category_id" not-null="true" />
             </key>
-            <one-to-many class="ro.pub.cti.jokes.analyzer.db.Subcategories" />
+            <one-to-many class="ro.pub.cti.jokes.db.Subcategory" />
         </set>
     </class>
 </hibernate-mapping>

@@ -156,7 +156,7 @@ class JokesScraper:
     def get_joke_id(self, joke_title):
         print "Getting joke id"
         self.storage.connect()
-        jokes = meta.tables['jokes']
+        jokes = meta.tables['joke']
         query = sqlalchemy.select([jokes.c.id]).where(jokes.c.title == joke_title)
         results = self.storage.execute(query)
         self.storage.disconnect()
@@ -166,11 +166,11 @@ class JokesScraper:
         return None
 
     def insert_joke_in_db(self, data):
-        self.storage.insert('jokes', data)
+        self.storage.insert('joke', data)
 
     def update_joke_in_db(self, joke_id, joke_data):
         self.storage.connect()
-        jokes = meta.tables['jokes']
+        jokes = meta.tables['joke']
         query = sqlalchemy.update(jokes).where(jokes.c.id==joke_id).values(joke_data)
         print query
         self.storage.execute(query)
@@ -178,7 +178,7 @@ class JokesScraper:
 
     def joke_in_category(self, joke_id, category):
         self.storage.connect()
-        jokes_categories = meta.tables['jokes_categories']
+        jokes_categories = meta.tables['joke_category']
         query = sqlalchemy.select([jokes_categories.c.id]).where(
               and_(
                 jokes_categories.c.joke_id == joke_id,
@@ -233,7 +233,7 @@ class JokesScraper:
 
     def get_category_id(self, storage, name):
         storage.connect()
-        categories = meta.tables['categories']
+        categories = meta.tables['category']
         query = sqlalchemy.select([categories.c.id]).where(categories.c.name == name)
         results = storage.execute(query)
         storage.disconnect()
@@ -248,7 +248,7 @@ class JokesScraper:
 
     def save_category_to_db(self, category, storage):
         storage.connect()
-        categories_table = meta.tables['categories']
+        categories_table = meta.tables['category']
         insert_data = {"name": category['name'],
                        "url": category['url']
                        }
@@ -261,7 +261,7 @@ class JokesScraper:
         category_id = self.get_category_id(storage, category['name'])
 
         storage.connect()
-        subcategories_table = meta.tables['subcategories']
+        subcategories_table = meta.tables['subcategory']
         for subcategory in category['subcategories']:
             query = sqlalchemy.insert(subcategories_table,
                                       {"name" : subcategory['name'], "url" : subcategory['url'],

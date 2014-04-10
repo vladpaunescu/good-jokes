@@ -2,9 +2,9 @@
 <!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
 <hibernate-reverse-engineering>
   <schema-selection match-catalog="jokes"/>
-  <table-filter match-name="jokes_categories"/>
-  <table-filter match-name="comments"/>
-  <table-filter match-name="categories"/>
-  <table-filter match-name="subcategories"/>
-  <table-filter match-name="jokes"/>
+  <table-filter match-name="joke_category"/>
+  <table-filter match-name="subcategory"/>
+  <table-filter match-name="comment"/>
+  <table-filter match-name="joke"/>
+  <table-filter match-name="category"/>
 </hibernate-reverse-engineering>

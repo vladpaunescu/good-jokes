@@ -20,7 +20,7 @@ class JokesXmlCreator:
 
     def load_jokes_from_db(self):
         self.storage.connect()
-        jokes = meta.tables['jokes']
+        jokes = meta.tables['joke']
         query = sqlalchemy.select([jokes.c.id,
                                    jokes.c.title,
                                    jokes.c.content,
@@ -39,9 +39,9 @@ class JokesXmlCreator:
         joke_data = dict(joke.items())
         joke_data['categories'] = []
 
-        jokes_categories = meta.tables['jokes_categories']
-        subcategories = meta.tables['subcategories']
-        categories = meta.tables['categories']
+        jokes_categories = meta.tables['joke_category']
+        subcategories = meta.tables['subcategory']
+        categories = meta.tables['category']
         query = sqlalchemy.select([subcategories.c.id.label("subcategory_id"),
                                    categories.c.id.label("category_id"),
                                    subcategories.c.name.label("subcategory_name"),

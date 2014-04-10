@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
 "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
-<!-- Generated Apr 9, 2014 12:57:17 AM by Hibernate Tools 3.6.0 -->
+<!-- Generated Apr 11, 2014 12:08:35 AM by Hibernate Tools 3.6.0 -->
 <hibernate-mapping>
-    <class name="ro.pub.cti.jokes.analyzer.db.JokesCategories" table="jokes_categories" catalog="jokes">
+    <class name="ro.pub.cti.jokes.db.JokeCategory" table="joke_category" catalog="jokes">
         <id name="id" type="java.lang.Integer">
             <column name="id" />
             <generator class="identity" />
         </id>
-        <many-to-one name="jokes" class="ro.pub.cti.jokes.analyzer.db.Jokes" fetch="select">
+        <many-to-one name="joke" class="ro.pub.cti.jokes.db.Joke" fetch="select">
             <column name="joke_id" not-null="true" />
         </many-to-one>
-        <many-to-one name="subcategories" class="ro.pub.cti.jokes.analyzer.db.Subcategories" fetch="select">
+        <many-to-one name="subcategory" class="ro.pub.cti.jokes.db.Subcategory" fetch="select">
             <column name="subcategory_id" not-null="true" />
         </many-to-one>
     </class>

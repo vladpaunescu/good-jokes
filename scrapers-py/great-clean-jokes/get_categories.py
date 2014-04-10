@@ -62,7 +62,7 @@ class CategoriesScraper:
 
     def get_category_id(self, storage, name):
         storage.connect()
-        categories = meta.tables['categories']
+        categories = meta.tables['category']
         query = sqlalchemy.select([categories.c.id]).where(categories.c.name == name)
         results = storage.execute(query)
         storage.disconnect()
@@ -77,7 +77,7 @@ class CategoriesScraper:
 
     def save_category_to_db(self, category, storage):
         storage.connect()
-        categories_table = meta.tables['categories']
+        categories_table = meta.tables['category']
         insert_data = {"name": category['name'],
                        "url": category['url']
                        }
@@ -90,8 +90,8 @@ class CategoriesScraper:
         category_id = self.get_category_id(storage, category['name'])
 
         storage.connect()
-        subcategories_table = meta.tables['subcategories']
-        for subcategory in category['subcategories']:
+        subcategories_table = meta.tables['subcategory']
+        for subcategory in category['subcategory']:
             query = sqlalchemy.insert(subcategories_table,
                                       {"name" : subcategory['name'], "url" : subcategory['url'],
                                        "category_id": category_id})

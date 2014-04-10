@@ -43,7 +43,7 @@ if __name__ == "__main__":
 
     storage = Storage()
     storage.connect()
-    domains = meta.tables['categories']
+    domains = meta.tables['category']
     # query = sqlalchemy.select([domains.c.id, domains.c.domain_id, domains.c.name])
     # results = storage.execute(query)
     # for result in results:

@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
 "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
-<!-- Generated Apr 9, 2014 12:57:17 AM by Hibernate Tools 3.6.0 -->
+<!-- Generated Apr 11, 2014 12:08:35 AM by Hibernate Tools 3.6.0 -->
 <hibernate-mapping>
-    <class name="ro.pub.cti.jokes.analyzer.db.Comments" table="comments" catalog="jokes">
+    <class name="ro.pub.cti.jokes.db.Comment" table="comment" catalog="jokes">
         <id name="id" type="java.lang.Integer">
             <column name="id" />
             <generator class="identity" />
@@ -11,7 +11,7 @@
         <property name="timestamp" type="string">
             <column name="timestamp" length="256" />
         </property>
-        <many-to-one name="jokes" class="ro.pub.cti.jokes.analyzer.db.Jokes" fetch="select">
+        <many-to-one name="joke" class="ro.pub.cti.jokes.db.Joke" fetch="select">
             <column name="joke_id" />
         </many-to-one>
         <property name="content" type="string">
