@@ -8,7 +8,6 @@ package ro.pub.cti.jokes.db;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
-import org.hibernate.SQLQuery;
 import org.hibernate.Session;
 
 /**
@@ -48,6 +47,8 @@ public class DbTests {
                 }
             }
         }
+        JokesHibernateUtil.getSessionFactory().close();
+        
     }
 }
 
