@@ -9,6 +9,14 @@ public class Constants {
 	public static final String[] consideredVerbPOS = {"VB", "VBD", "VBG", "VBN", "VBP", "VBZ"};
 	public static final String[] consideredAdverbPOS = {"RB", "RBR", "RBS"};
 	public static final String[] consideredAdjectivePOS = {"JJ", "JJR", "JJS"};
+	
+	public static final String[][] POScategories = {consideredNounPOS, consideredVerbPOS, consideredAdverbPOS, consideredAdjectivePOS};
+	public static final int nrPOSCategories = 4;
+	
+	public static final int nounCategoryID = 0;
+	public static final int verbCategoryID = 1;
+	public static final int adverbCategoryID = 2;
+	public static final int adjectiveCategoryID = 3;
   	
 	public static final String[] sexualConnotationWords = {"sex", "sexual", "sexuality"};
 	
@@ -42,6 +50,15 @@ public class Constants {
 			if (pos.equals(Constants.consideredAdverbPOS[i]))
 				return true;
 		return false;
+	}
+	
+	public static int getPOSCategoryID(String pos) {
+		for(int i=0; i<Constants.nrPOSCategories; i++) {
+			for(int j=0; j<Constants.POScategories[i].length; j++)
+				if (pos.equals(Constants.POScategories[i][j]))
+					return i;
+		}
+		return -1;
 	}
 	
 

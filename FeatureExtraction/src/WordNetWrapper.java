@@ -150,7 +150,6 @@ public class WordNetWrapper {
 		return -1;
 	}
 	
-	
 	public int detectProfessionalCommunityAdverb(String word) {
 		int r;
 		AdverbSynset adverbSynset;
@@ -187,5 +186,50 @@ public class WordNetWrapper {
 				return r;
 		}
 		return -1;
+	}
+	
+	public int detectProfessionalCommunityByPOS(String word, int POSCategoryID) {
+		switch (POSCategoryID) {
+			case Constants.nounCategoryID: 
+				return detectProfessionalCommunityNoun(word);
+			case Constants.verbCategoryID: 
+				return detectProfessionalCommunityVerb(word);
+			case Constants.adverbCategoryID: 
+				return detectProfessionalCommunityAdverb(word);
+			case Constants.adjectiveCategoryID: 
+				return detectProfessionalCommunityAdjective(word);
+			default: 
+				return -1;
+		}
+	}
+
+	public boolean checkIfMultipleMeaningsByPOS(String word, int POSCategoryID) {
+		switch (POSCategoryID) {
+			case Constants.nounCategoryID: 
+				return checkIfMultipleMeaningsNoun(word);
+			case Constants.verbCategoryID: 
+				return checkIfMultipleMeaningsVerb(word);
+			case Constants.adverbCategoryID: 
+				return checkIfMultipleMeaningsAdverb(word);
+			case Constants.adjectiveCategoryID: 
+				return checkIfMultipleMeaningsAdjective(word);
+			default: 
+				return false;
+		}
+	}
+	
+	public boolean checkIfSexualConnotationByPOS(String word, int POSCategoryID) {
+		switch (POSCategoryID) {
+		case Constants.nounCategoryID: 
+			return checkIfSexualConnotationNoun(word);
+		case Constants.verbCategoryID: 
+			return checkIfSexualConnotationVerb(word);
+		case Constants.adverbCategoryID: 
+			return checkIfSexualConnotationAdverb(word);
+		case Constants.adjectiveCategoryID: 
+			return checkIfSexualConnotationAdjective(word);
+		default: 
+			return false;
+	}
 	}
 }

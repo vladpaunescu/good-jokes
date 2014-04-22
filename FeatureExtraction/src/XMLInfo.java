@@ -33,7 +33,7 @@ public class XMLInfo {
 		this.filename = filename;
 		
 		getOutputFilename();
-		
+				
 		getDocument();	
 		getOutputDocument();
 		
@@ -83,10 +83,14 @@ public class XMLInfo {
 	}
 
 	private void getOutputFilename() {
-		int index;
+	/*	int index;
 		index = this.filename.lastIndexOf(".");
 		this.outputFilename = this.filename.substring(0, index);
-		this.outputFilename += "_out.xml";
+		this.outputFilename += "_out.xml";*/
+	
+		int index;
+		index = this.filename.lastIndexOf("\\");
+		this.outputFilename = this.filename.substring(0, index) + "\\Out" + this.filename.substring(index);		
 	}
 	
 	private Element constrElement(String name, String text) {
@@ -124,24 +128,24 @@ public class XMLInfo {
 		rootElement.appendChild(constrElement("QA", this.joke.getIsQA()));
 		
 		// nouns with sexual connotations
-		rootElement.appendChild(constrElement("nouns_with_sexual_connotations", this.joke.getNounsWithSexualConnotations()));
+		rootElement.appendChild(constrElement("nouns_with_sexual_connotations", this.joke.getPOSWithSexualConnotations(Constants.nounCategoryID)));
 		// nouns with multiple meanings
-		rootElement.appendChild(constrElement("nouns_with_multiple_meanings", this.joke.getNounsWithMultipleMeanings()));
+		rootElement.appendChild(constrElement("nouns_with_multiple_meanings", this.joke.getPOSWithMultipleMeanings(Constants.nounCategoryID)));
 		
 		// verbs with sexual connotations 
-		rootElement.appendChild(constrElement("verbs_with_sexual_connotations", this.joke.getVerbsWithSexualConnotations()));
+		rootElement.appendChild(constrElement("verbs_with_sexual_connotations", this.joke.getPOSWithSexualConnotations(Constants.verbCategoryID)));
 		// verbs with multiple meanings
-		rootElement.appendChild(constrElement("verbs_with_multiple_meanings", this.joke.getVerbsWithMultipleMeanings()));
+		rootElement.appendChild(constrElement("verbs_with_multiple_meanings", this.joke.getPOSWithMultipleMeanings(Constants.verbCategoryID)));
 		
 		// adjectives with sexual connotations
-		rootElement.appendChild(constrElement("adjectives_with_sexual_connotations", this.joke.getAdjectivesWithSexualConnotations()));
+		rootElement.appendChild(constrElement("adjectives_with_sexual_connotations", this.joke.getPOSWithSexualConnotations(Constants.adverbCategoryID)));
 		// adjectives with multiple meanings
-		rootElement.appendChild(constrElement("adjectives_with_multiple_meanings", this.joke.getAdjectivesWithMultipleMeanings()));
+		rootElement.appendChild(constrElement("adjectives_with_multiple_meanings", this.joke.getPOSWithMultipleMeanings(Constants.adverbCategoryID)));
 		
 		// adverb with sexual connotations
-		rootElement.appendChild(constrElement("adverbs_with_sexual_connotations", this.joke.getAdverbsWithSexualConnotations()));
+		rootElement.appendChild(constrElement("adverbs_with_sexual_connotations", this.joke.getPOSWithSexualConnotations(Constants.adjectiveCategoryID)));
 		// adverbs with multiple meanings
-		rootElement.appendChild(constrElement("adverbs_with_multiple_meanings", this.joke.getAdverbsWithMultipleMeanings()));
+		rootElement.appendChild(constrElement("adverbs_with_multiple_meanings", this.joke.getPOSWithMultipleMeanings(Constants.adjectiveCategoryID)));
 		
 		// histogram for professional communities
 		rootElement.appendChild(constrElement("professional_communities_histogram", this.joke.getHistoProfessionalCommunities()));
