@@ -5,6 +5,7 @@ from db.database import Storage, meta
 from sqlalchemy.sql import and_, or_, not_
 import json
 import dicttoxml
+from sqlalchemy.sql import column
 
 class JokesXmlCreator:
     def __init__(self, out_dir):
@@ -14,7 +15,7 @@ class JokesXmlCreator:
     def save_jokes(self):
         jokes = self.load_jokes_from_db()
 
-        for idx, joke, in enumerate(jokes):
+        for idx, joke in  enumerate([joke for joke in jokes if not joke['content'].isspace()]):
             self.save_joke(idx, joke)
 
 
@@ -28,6 +29,7 @@ class JokesXmlCreator:
                                    jokes.c.votes,
                                    jokes.c.url,
                                    jokes.c.comments_count])
+
         results = self.storage.execute(query)
         self.storage.disconnect()
 
@@ -49,7 +51,9 @@ class JokesXmlCreator:
             and_(
                 joke["id"] == jokes_categories.c.joke_id,
                 jokes_categories.c.subcategory_id == subcategories.c.id,
-                subcategories.c.category_id == categories.c.id)
+                subcategories.c.category_id == categories.c.id
+                )
+
         )
 
         print query
@@ -57,6 +61,7 @@ class JokesXmlCreator:
         self.storage.disconnect()
 
         for result in results:
+            print result
             joke_data['categories'].append({'category_id': str(result['category_id']),
                                     'subcategory_id': str(result['subcategory_id']),
                                     'category_name': result['category_name'],
