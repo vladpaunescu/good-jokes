@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.0</rating>
+    <votes type="str">42</votes>
+    <title type="str">House Wife Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3540/house-wife-joke/</url>
+    <content type="str">A. one –   ONE!  That’s right you guessed it, it’s me! Why ME?! Do you think I have nothing better to do with my time?!  DO YOU THINK A HOUSE GETS CLEANED BY ITSELF???!! Is it my job to change the light bulb too?!
+I feel like I’m constantly running after everyone cleaning up their mess! HAVE YOU SEEN ME SIT DOWN ONCE THE WHOLE DAY?!
+And if anyone else in the family ever agrees to put in the light bulb, they complain the whole way through like I am squeezing there neck. It would just be easier for me to just do it myself. Being a housewife is the most under appreciated job in the world!
+ 
+ 
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">369</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">164</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">176</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Women Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">597</length>
+    <POS_histogram type="str">0.147,0.015,0.059,0.029,0.088,0.088,0.132,0.0,0.015,0.074,0.029,0.0,0.294,0.0,0.029,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.636</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.103</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.9</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">1.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,1,</professional_communities_histogram>
+</root>

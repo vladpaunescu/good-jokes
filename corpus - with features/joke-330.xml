@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.6</rating>
+    <votes type="str">28</votes>
+    <title type="str">The Man Of The House Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3224/the-man-of-the-house-joke/</url>
+    <content type="str">A man was married to a woman whose commands to her husband were as  sharp as the bite of a barracuda. 
+It wasn’t so much that he was a coward, or too timid to talk back, but you know how it is…let’s keep peace in the family.
+One day the wife invited a group from the local women’s club to her house for tea and discussions.  To make sure that her husband did not interrupt the goings-on, she ordered him into the closet and sternly told him to stay there until the last lady had left.
+During their bridge game, the ladies of the club spoke of the authority they wielded over respective husbands.  Not to be outdone, the hostess informed the others that not only had she ordered her husband into the closet, but she could order him to come out, at will.  
+“I’ll prove it,” she boasted.
+“Bob!” she commanded, “come out of that closet!”
+No response.
+“Bob!” she called in a louder voice, “come out of that closet this instant!”
+Nothing.
+“Bob!” she screamed at the top of her lungs, “I order you to get out of that closet this instant!”
+“No, I won’t!” came her husband’s muffled cry from inside the closet.  “I’ll show you who’s boss in this house!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">331</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">158</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">162</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Relationship Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">1145</length>
+    <POS_histogram type="str">0.124,0.168,0.0,0.035,0.018,0.018,0.124,0.009,0.0,0.062,0.0,0.0,0.345,0.071,0.027,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.8</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.098</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.467</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.429</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,7,</professional_communities_histogram>
+</root>

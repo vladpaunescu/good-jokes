@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.5</rating>
+    <votes type="str">152</votes>
+    <title type="str">Eye Doctor Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2503/eye-doctor-joke-2/</url>
+    <content type="str">I was very scared about going to the eye doctor to get a certain procedure done on my eyes. The doctor tried to put me at ease but to no avail. It was after he finished with my first eye that I nearly jumped out of the chair. “There there”, he said “only one eye left!”
+</content>
+    <comments_count type="str">4</comments_count>
+    <id type="str">53</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">120</subcategory_id>
+            <category_id type="str">116</category_id>
+            <subcategory_name type="str">Doctor Jokes</subcategory_name>
+            <category_name type="str">Doctor Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">121</subcategory_id>
+            <category_id type="str">116</category_id>
+            <subcategory_name type="str">Hospital Jokes</subcategory_name>
+            <category_name type="str">Doctor Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">122</subcategory_id>
+            <category_id type="str">116</category_id>
+            <subcategory_name type="str">Medical Jokes</subcategory_name>
+            <category_name type="str">Doctor Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">270</length>
+    <POS_histogram type="str">0.074,0.259,0.037,0.037,0.0,0.0,0.111,0.0,0.0,0.111,0.0,0.0,0.333,0.037,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.9</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.667</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">2,2,0,</professional_communities_histogram>
+</root>

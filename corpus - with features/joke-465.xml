@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">32</votes>
+    <title type="str">Door Bell Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2966/2966/</url>
+    <content type="str">Everyone loved Priest John. He was a happy jolly fellow always willing to help or lend a hand. One time John was walking down the street humming a tune when he saw a little boy trying to reach the doorbell of a nearby house.  “Hey there sonny” said John “let me help you out”, and with that  John reached out and pressed the bell. “Anything else I can do for you,” asked John with a smile. “Yes” said the boy. “Run! We’ve only got a few seconds before they come!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">466</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">173</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Cute Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">464</length>
+    <POS_histogram type="str">0.115,0.192,0.058,0.0,0.038,0.0,0.058,0.0,0.0,0.115,0.0,0.0,0.269,0.019,0.135,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.773</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.095</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.167</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,3,2,</professional_communities_histogram>
+</root>

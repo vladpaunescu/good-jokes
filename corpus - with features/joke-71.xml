@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.1</rating>
+    <votes type="str">50</votes>
+    <title type="str">Cold Turkey Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2689/cold-turkey-joke/</url>
+    <content type="str">Lady – “So do you drink?”
+Man – “I used to drink a lot, but I quit cold turkey.
+Lady – “Wow, that must take a lot of self control.”
+Man – “Well I found out I was allergic to it, every time I drank I broke out in handcuffs.”
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">72</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">126</subcategory_id>
+            <category_id type="str">117</category_id>
+            <subcategory_name type="str">Beer Jokes</subcategory_name>
+            <category_name type="str">Drunk Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">127</subcategory_id>
+            <category_id type="str">117</category_id>
+            <subcategory_name type="str">Drunk Jokes</subcategory_name>
+            <category_name type="str">Drunk Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">166</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Puns</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">224</length>
+    <POS_histogram type="str">0.125,0.25,0.0,0.0,0.042,0.0,0.042,0.0,0.0,0.083,0.0,0.0,0.417,0.042,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.909</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.1</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,1,</professional_communities_histogram>
+</root>

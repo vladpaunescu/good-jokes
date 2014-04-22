@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.6</rating>
+    <votes type="str">29</votes>
+    <title type="str">Good News Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3388/good-news-joke/</url>
+    <content type="str">Sam and Thomas had been business partners for the past 50 years.  They were in the wholesale clothing business and lately business was not as glorious as it had been. They had recently bought 400 polka dot dresses and no one seemed the slightest bit interested in them.
+After holding on to the dresses for almost a year, the two had piratically given up hope on them, when a middle aged women walked into their showroom.  
+After seeing the dresses she was so excited about the polka dot design that she wanted to purchase all 400 dresses on the spot.  
+Totally elated,  Sam tried to play it cool and negotiated a great price with the women.  When they were just about ready to close the deal she mentioned the she would need to get approval by her boss before continuing.  
+Being that it was close to the end of the day, she said she would phone them by 9:30 the next morning if there was a problem.  Otherwise the deal would be on.  After a sleepless night, Sam and Thomas stood anxiously by the phone the next day.  At 9:28 the phone rang and Thomas breathlessly answered the call while Sam waited anxiously.  “Good news!” Said Thomas.  “It was your wife saying your mom just died!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">579</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">204</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Work Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">1185</length>
+    <POS_histogram type="str">0.059,0.195,0.042,0.034,0.0,0.0,0.11,0.0,0.0,0.136,0.0,0.008,0.271,0.068,0.076,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.816</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.128</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.949</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.385</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.294</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,3,5,</professional_communities_histogram>
+</root>

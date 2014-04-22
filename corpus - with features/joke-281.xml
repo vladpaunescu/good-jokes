@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.4</rating>
+    <votes type="str">114</votes>
+    <title type="str">Birthday Invitation Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2631/birthday-invitation-joke/</url>
+    <content type="str">Birthday Invitation:
+What?  You are invited to Cathy’s birthday party.
+Where?  1424 Maple Dr. (you will need to be buzzed in, so dial our number with your nose and you will then be buzzed in. Once, you’re in the building, press the button for the elevator with your nose. Then press floor number 12 with your nose. We are the door on the left hand side.)
+Can’t wait to see you!
+P.S. You will be pushing with your nose, because your hands will be too busy holding the presents.
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">282</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">147</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Birthday Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">477</length>
+    <POS_histogram type="str">0.143,0.0,0.041,0.061,0.061,0.0,0.102,0.0,0.0,0.041,0.0,0.0,0.429,0.041,0.082,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.037</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.926</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.8</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,0,0,</professional_communities_histogram>
+</root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.0</rating>
+    <votes type="str">66</votes>
+    <title type="str">Good Church Excuse</title>
+    <url type="str">http://www.greatcleanjokes.com/94/religous-joke/</url>
+    <content type="str">A friend of mine was in front of me coming out of church one day, and the vicar was standing at the door, as  always , to shake hands with the worshipers. He grabbed my friend by the hand and pulled him aside. The vicar said to him, “You need to join the army of the Lord.” My friend replied, “I’m already in the army of the Lord, Father.”So the vicar inquired, “Then how come I only see you  at Christmas and at Easter?”
+My friend whispered  back, “I’m in the secret service.”
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">454</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">183</subcategory_id>
+            <category_id type="str">127</category_id>
+            <subcategory_name type="str">Church Jokes</subcategory_name>
+            <category_name type="str">Religious Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">478</length>
+    <POS_histogram type="str">0.043,0.17,0.043,0.021,0.085,0.0,0.128,0.0,0.0,0.021,0.0,0.0,0.34,0.043,0.106,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.882</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.833</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,2,2,</professional_communities_histogram>
+</root>

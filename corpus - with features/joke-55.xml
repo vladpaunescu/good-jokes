@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.0</rating>
+    <votes type="str">102</votes>
+    <title type="str">Just Being Practical</title>
+    <url type="str">http://www.greatcleanjokes.com/1339/just-being-practical/</url>
+    <content type="str">A man wasn’t feeling well so he went to the doctor.  After examining him the doctor took his wife aside, and said, “your husband has a very sensitive heart. I am afraid he’s not going to make it, unless you treat him like a king, which means you are at his every beck and call, 24 hours a day and that he doesn’t have to do anything himself. On the way home the husband asked with a note of concern “what did he say?” “Well”, the lady responded, “he said it looks like you probably won’t make it.”
+</content>
+    <comments_count type="str">2</comments_count>
+    <id type="str">56</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">120</subcategory_id>
+            <category_id type="str">116</category_id>
+            <subcategory_name type="str">Doctor Jokes</subcategory_name>
+            <category_name type="str">Doctor Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">498</length>
+    <POS_histogram type="str">0.115,0.154,0.058,0.0,0.038,0.096,0.154,0.0,0.0,0.038,0.0,0.0,0.327,0.019,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.722</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.25</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">2,3,1,</professional_communities_histogram>
+</root>

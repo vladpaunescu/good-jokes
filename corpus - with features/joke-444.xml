@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.3</rating>
+    <votes type="str">194</votes>
+    <title type="str">Lord Or No Lord?</title>
+    <url type="str">http://www.greatcleanjokes.com/1106/lord-or-no-lord/</url>
+    <content type="str">A religious women upon waking up each morning would open her front door stand on the porch and scream, “Praise the lord.” This infuriated her atheist neighbor who would always make sure to counter back, “there is no Lord.” One morning the atheist neighbor overheard his neighbor praying for food, thinking it would be funny, he went and bought her all sorts of groceries and left them on her porch. The next morning the lady screamed, “praise the Lord, who gave me this food.” The neighbor laughing so hard he could barely get the words out screamed “it wasn’t the Lord, it was me.” The lady without missing a beat screamed “praise the Lord for not only giving me food but making the atheist pay for it!!” 
+</content>
+    <comments_count type="str">6</comments_count>
+    <id type="str">445</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">182</subcategory_id>
+            <category_id type="str">127</category_id>
+            <subcategory_name type="str">Atheist Jokes</subcategory_name>
+            <category_name type="str">Religious Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">707</length>
+    <POS_histogram type="str">0.139,0.153,0.097,0.014,0.0,0.014,0.111,0.0,0.0,0.069,0.0,0.0,0.306,0.056,0.042,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.793</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.133</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.767</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.75</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.2</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">2,1,1,</professional_communities_histogram>
+</root>

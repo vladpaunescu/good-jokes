@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.7</rating>
+    <votes type="str">80</votes>
+    <title type="str">Poor Husband Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2852/poor-husband-joke/</url>
+    <content type="str">Sally walked in to the Dentist office to make an appointment. “How much do you charge to pull out a tooth?” She asked.” “It’s $130″, was the prompt reply. “$130!” gasped Sally, that’s ridiculous! There must be a way for you to go cheaper.” “Well,” said the Dentist thoughtfully, I suppose if we don’t numb it, we could knock off $30.” “Only $30?,” countered Sally, “that’s still $100, you’ve got to make it cheaper.” “Well,” said the Dentist after a long pause, “I suppose if we take it out with a wrench we could knock it down to $50.” “Perfect”, said Sally happily. “I would like to make an appointment for next Tuesday, for my husband Jack.”
+</content>
+    <comments_count type="str">6</comments_count>
+    <id type="str">62</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">122</subcategory_id>
+            <category_id type="str">116</category_id>
+            <subcategory_name type="str">Medical Jokes</subcategory_name>
+            <category_name type="str">Doctor Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">159</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">162</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Relationship Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">164</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">645</length>
+    <POS_histogram type="str">0.167,0.133,0.0,0.017,0.1,0.05,0.1,0.0,0.0,0.083,0.033,0.0,0.2,0.0,0.117,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.684</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.179</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.964</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.833</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.143</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">3,9,1,</professional_communities_histogram>
+</root>

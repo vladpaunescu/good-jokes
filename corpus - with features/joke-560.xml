@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.1</rating>
+    <votes type="str">82</votes>
+    <title type="str">Finding A Job Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3290/finding-a-job-joke/</url>
+    <content type="str">To see a video of someone telling this joke, click on the title of the joke. Please comment below if you like this video, and if you think such videos will enhance the site!
+Thanks!
+
+Bob Smith was sick of his job and was determined to find work elsewhere. But no matter how hard he tried, his reputation as someone who was not dedicated to the job, seemed to follow him around.
+One day the phone rang at his office. Although Bob did not usually pick up the phone, he picked it up and said hello. “Hi” said the man on the line, “I have an unusual question to ask you, I’m looking into a fellow Bob Smith for a position in my company. Do you know this fellow?”
+“Sure I know him”, responded Bob with a smile.
+“Tell me,” asked the man. “Is he consistent with his work? Does he always show up on time?”
+“Well I’ll be honest with you” Bob truthfully replied, “I’m not so consistent myself, but whenever I’m here he’s here!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">561</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">199</subcategory_id>
+            <category_id type="str">133</category_id>
+            <subcategory_name type="str">Clever Jokes</subcategory_name>
+            <category_name type="str">Witty Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">204</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Work Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">918</length>
+    <POS_histogram type="str">0.124,0.134,0.021,0.021,0.082,0.031,0.124,0.0,0.0,0.082,0.0,0.0,0.289,0.021,0.072,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.892</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.075</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.975</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,1,</professional_communities_histogram>
+</root>

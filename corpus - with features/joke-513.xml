@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.2</rating>
+    <votes type="str">86</votes>
+    <title type="str">Sometimes Its Better To Keep Quiet</title>
+    <url type="str">http://www.greatcleanjokes.com/278/teacher-joke/</url>
+    <content type="str">Student- I don’t think I deserved zero on this test!
+Teacher-I agree, but that’s the lowest mark I could give you!
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">514</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">189</subcategory_id>
+            <category_id type="str">129</category_id>
+            <subcategory_name type="str">Teacher Jokes</subcategory_name>
+            <category_name type="str">School Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">115</length>
+    <POS_histogram type="str">0.167,0.083,0.0,0.0,0.167,0.083,0.083,0.0,0.0,0.0,0.0,0.083,0.333,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.75</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.167</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.833</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">1.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,1,3,</professional_communities_histogram>
+</root>

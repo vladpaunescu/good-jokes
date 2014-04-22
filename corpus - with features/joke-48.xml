@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.7</rating>
+    <votes type="str">45</votes>
+    <title type="str">Hypochondriac Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3482/hypochondriac-joke/</url>
+    <content type="str">Brian, one of the worlds greatest hypochondriacs, bumped into his Dr. one day at the supermarket.  
+“Doc!” Brian exclaimed, “I’ve been meaning to tell you, remember those voices I kept on hearing in my head?  I haven’t heard them in over a week!”  
+“Wow!  What wonderful news Brian! I’m so happy for you!” his Dr. exclaimed.  
+“Wonderful?” asked a dismal looking Brian.  “There’s nothing wonderful about it. I’m afraid my hearing is starting to go now!
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">49</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">120</subcategory_id>
+            <category_id type="str">116</category_id>
+            <subcategory_name type="str">Doctor Jokes</subcategory_name>
+            <category_name type="str">Doctor Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">122</subcategory_id>
+            <category_id type="str">116</category_id>
+            <subcategory_name type="str">Medical Jokes</subcategory_name>
+            <category_name type="str">Doctor Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">453</length>
+    <POS_histogram type="str">0.043,0.064,0.064,0.064,0.106,0.043,0.064,0.0,0.0,0.128,0.0,0.021,0.191,0.064,0.149,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.632</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.111</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.667</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">3,2,1,</professional_communities_histogram>
+</root>

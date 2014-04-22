@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.2</rating>
+    <votes type="str">62</votes>
+    <title type="str">Travel Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2265/travel-joke/</url>
+    <content type="str">An older couple were walking on a beach when the husband tripped over a bottle and a genie came out. “You can each have one wish,” said the genie. The wife made her wish first “I would like to travel around the world, with my husband,”. Suddenly there appeared in her hand two tickets for travel around the world. Now it was the husbands turn, “Well” said the husband, with a naughty look on his face “I wish I can have a younger companion,” . The words were barely out of his mouth when poof, he aged 20 years! 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">307</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">152</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Genie Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">513</length>
+    <POS_histogram type="str">0.082,0.204,0.02,0.0,0.041,0.0,0.102,0.0,0.0,0.02,0.041,0.0,0.408,0.082,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.042</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.625</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.176</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,2,</professional_communities_histogram>
+</root>

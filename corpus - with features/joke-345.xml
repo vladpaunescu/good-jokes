@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.3</rating>
+    <votes type="str">36</votes>
+    <title type="str">Differences between Men and Women</title>
+    <url type="str">http://www.greatcleanjokes.com/3146/differences-between-men-and-women/</url>
+    <content type="str">• Women have more imagination than men. They need it to tell men how wonderful they are.
+• Women have a number of faults. Men have only two – everything they say and everything they do.
+• A successful man is one who makes more money than his wife can spend. A successful woman is one who can find such a man.
+• Men wake up as good-looking as they went to bed. Women somehow deteriorate during the night.
+• When women are depressed they either eat or go shopping. When men are depressed, they invade another country.
+• A man is a person who will pay £2 for a £1 item he wants. A woman, however, will pay £1 for a £2 item that she doesn’t want.
+• Diamonds are a girl’s best friend. Dogs are a man’s best friend. Now you know which sex is smarter.
+• It’s not true that men prefer foolish women. Rather they prefer women who can pretend to be foolish whenever necessary, which is the very core of intelligence.
+• Men always want to be a woman’s first love. Women have a more subtle instinct: What they like is to be a man’s last romance.
+• To be happy with a man, a woman must understand him a lot and love him a little. To be happy with a woman, a man must love her a lot and not try to understand her at all.
+• A woman marries a man expecting he will change, but he doesn’t. A man marries a woman expecting that she won’t change and she does.
+• Men marry because they are tired; women marry because they are curious. Both are disappointed.
+• A woman worries about the future until she gets a husband, while a man never worries about the future until he gets a wife.
+• A woman will always cherish the memory of the man who wanted to marry her; a man will always cherish the memory of the woman who he didn’t.
+• There are two times when a man doesn’t understand a woman – before marriage and after marriage.
+• Only two things are necessary for a man to do to keep his wife happy. One is to let her think she is having her own way, and the other is to let her have it.
+• Married men live longer than single men, but married men are a lot more willing to die.
+• Any married man should forget his mistakes – it’s no use two people remembering the same thing.
+• Some husbands are living proof that a woman can take a joke.
+• Husbands are like cars: all are good the first year.
+• A woman has the last word in any argument. Anything a man says after that is the beginning of a new argument.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">346</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">159</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">174</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Men Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">176</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Women Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">2382</length>
+    <POS_histogram type="str">0.121,0.01,0.017,0.01,0.104,0.09,0.069,0.014,0.0,0.107,0.007,0.007,0.353,0.09,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.023</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.766</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.108</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.98</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.583</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.429</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,5,23,</professional_communities_histogram>
+</root>

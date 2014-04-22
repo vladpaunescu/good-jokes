@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.1</rating>
+    <votes type="str">363</votes>
+    <title type="str">Blind Man Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/1683/blind-man-joke/</url>
+    <content type="str">Two men, Jim and John, were walking their dogs when they passed by a restaurant. “Let’s go in and get something to eat,” Jim suggested. “We can’t” responded John, “don’t you see the sign says NO PETS ALLOWED.” 
+“Aah that sign,” said Jim “don’t worry about it” and taking out a pair of sunglasses, he walked up to the door. As he tried walking  into the restaurant he got stopped at the door, “sorry no pets allowed.” Can’t you see” said Jim “I am blind, this is my seeing eye dog.” 
+But it’s a doberman pincher, who uses a doberman pincher as a seeing eye dog?” the man asked “Oh,” Jim responded “you must have not heard, this is the latest type of seeing eye dog, they do a very good job.” 
+Seeing that it worked,  John tried walking in with his Chihuahua. Even before he could open his mouth, the doorman said “don’t tell me that a Chihuahua is the latest type of seeing eye dog.”
+Thinking quickly John responded in a angry voice “You mean they gave me a Chihuahua?” 
+</content>
+    <comments_count type="str">7</comments_count>
+    <id type="str">438</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">199</subcategory_id>
+            <category_id type="str">133</category_id>
+            <subcategory_name type="str">Clever Jokes</subcategory_name>
+            <category_name type="str">Witty Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">970</length>
+    <POS_histogram type="str">0.07,0.14,0.088,0.035,0.07,0.053,0.079,0.0,0.0,0.035,0.0,0.018,0.254,0.044,0.114,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.681</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.058</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.333</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.167</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">4,9,1,</professional_communities_histogram>
+</root>

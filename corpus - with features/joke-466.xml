@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.5</rating>
+    <votes type="str">22</votes>
+    <title type="str">Boxing Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2507/boxing-joke/</url>
+    <content type="str">Trying to be a good dad and spend some time with my son, I used to pretend we were boxing. I would get into a fighter stance and jab with both of my fists saying one-two one-two. That all came to a rather abrupt end, when one day his teacher was handing something out to his class, and asked my son, “would you like one too?”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">467</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">173</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Cute Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">326</length>
+    <POS_histogram type="str">0.152,0.152,0.091,0.0,0.0,0.0,0.061,0.0,0.0,0.091,0.0,0.0,0.424,0.03,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.733</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,2,3,</professional_communities_histogram>
+</root>

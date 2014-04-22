@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">34</votes>
+    <title type="str">Outhouse Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/201/outhouse-humor/</url>
+    <content type="str">A man gathered all of his children together and said “Children when George Washington knocked down the cherry tree, he told his father honestly that it was him , now answer me honestly, Who knocked down the outhouse? Finally the youngest son admitted it was him, at which he received a lashing he wouldn’t soon forget. “Thats not fair” complained the son, “George Washington didn’t get punished when he told the truth.”
+“Son” replied the Father “The difference is, that George Washington’s  father wasn’t in the tree when he knocked it down!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">405</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">543</length>
+    <POS_histogram type="str">0.055,0.273,0.018,0.018,0.0,0.018,0.182,0.0,0.0,0.018,0.0,0.018,0.2,0.036,0.164,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.091</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.909</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.905</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,0,</professional_communities_histogram>
+</root>

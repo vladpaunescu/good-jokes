@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.2</rating>
+    <votes type="str">145</votes>
+    <title type="str">The Annoying Duck Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/1085/the-annoying-duck/</url>
+    <content type="str">A duck walks into a bar, and asks the bartender, “do you have any grapes?” “Nope” responded the bartender, “try somewhere else.” The duck walks out and back in, “do you sell grapes?” “I told you already I don’t” responded the bartender, “stop bothering me.” The duck walks back out and then back in again, “stop right where you are”  the bartender screams “you ask me again if I have grapes I will take a hammer and nail your feet to the floor.” The duck walks out  and then back in again, “do you sell nails?” he asks “No” responded the bartender.” “Do you sell grapes????” 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">446</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">199</subcategory_id>
+            <category_id type="str">133</category_id>
+            <subcategory_name type="str">Clever Jokes</subcategory_name>
+            <category_name type="str">Witty Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">576</length>
+    <POS_histogram type="str">0.129,0.065,0.016,0.0,0.129,0.097,0.242,0.0,0.0,0.0,0.0,0.0,0.21,0.113,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.75</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.111</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.6</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,2,1,</professional_communities_histogram>
+</root>

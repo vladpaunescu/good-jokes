@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.9</rating>
+    <votes type="str">59</votes>
+    <title type="str">Smelly Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2431/smelly-joke/</url>
+    <content type="str">Q. What did one eye say to the other?
+A. Between me and you something smells.
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">255</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">142</subcategory_id>
+            <category_id type="str">121</category_id>
+            <subcategory_name type="str">Laffy Taffy Jokes</subcategory_name>
+            <category_name type="str">Kids Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">78</length>
+    <POS_histogram type="str">0.0,0.125,0.0,0.0,0.125,0.125,0.0,0.0,0.0,0.125,0.0,0.0,0.375,0.0,0.125,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.25</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,0,</professional_communities_histogram>
+</root>

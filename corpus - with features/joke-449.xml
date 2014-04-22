@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.4</rating>
+    <votes type="str">85</votes>
+    <title type="str">Teachers Gotta Be Smart</title>
+    <url type="str">http://www.greatcleanjokes.com/437/teachers-gotta-be-smart-clever-jokes/</url>
+    <content type="str">There were four teenagers who played hooky one morning. Upon coming to class in the afternoon, they reported that their lateness was because their car got a flat tire. That’s fine the teacher said much to the students relief. But there was an oral test this morning which you boys have to make up, so please have a seat and take out a piece of paper. “Now for the first question, which tire was flat!” 
+
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">450</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">189</subcategory_id>
+            <category_id type="str">129</category_id>
+            <subcategory_name type="str">Teacher Jokes</subcategory_name>
+            <category_name type="str">School Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">199</subcategory_id>
+            <category_id type="str">133</category_id>
+            <subcategory_name type="str">Clever Jokes</subcategory_name>
+            <category_name type="str">Witty Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">404</length>
+    <POS_histogram type="str">0.095,0.19,0.024,0.0,0.024,0.024,0.071,0.0,0.0,0.143,0.0,0.0,0.357,0.071,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.778</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.267</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.667</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.167</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.667</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,2,5,</professional_communities_histogram>
+</root>

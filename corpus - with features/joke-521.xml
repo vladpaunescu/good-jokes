@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.5</rating>
+    <votes type="str">18</votes>
+    <title type="str">Whoops!</title>
+    <url type="str">http://www.greatcleanjokes.com/504/woops-old-people-joke/</url>
+    <content type="str">I ran into a store leaving my elderly mother in the car. I was surprised when at the cashier I saw my mother there. What are you doing here I asked I left the car running? Don’t worry she said I locked the doors!
+
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">522</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">190</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Old People Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">214</length>
+    <POS_histogram type="str">0.04,0.28,0.12,0.04,0.08,0.0,0.12,0.0,0.0,0.04,0.0,0.0,0.24,0.04,0.0,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.667</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,0,</professional_communities_histogram>
+</root>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">48</votes>
+    <title type="str">Flying Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2744/flying-joke-2/</url>
+    <content type="str">Larry was a photographer for the N.Y. Times, and was scheduled to meet a plane on the runway to take him on a job. “Hit it,” said Larry climbing into the first plane he saw on the runway. The pilot took off, and was soon in the air. “OK,” said Larry, “fly low over the trees over there, I want to take a few pictures.” “What do you mean?” asked the pilot. Larry looked at the pilot and answered a little annoyed, “I need to take some pictures for the N.Y. Times, so please…..”   There was a long pause, before the pilot asked in a shaky voice, “you mean you’re not my pilot instructor?”
+ 
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">280</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">146</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Airplane Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">146</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Airplane Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">169</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Thoughts</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">589</length>
+    <POS_histogram type="str">0.125,0.188,0.016,0.016,0.078,0.0,0.078,0.0,0.0,0.094,0.0,0.0,0.219,0.047,0.141,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.692</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.185</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.4</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,2,4,</professional_communities_histogram>
+</root>

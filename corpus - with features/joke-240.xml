@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.6</rating>
+    <votes type="str">76</votes>
+    <title type="str">Crying Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3548/crying-joke/</url>
+    <content type="str">Knock, knock.
+Who’s there?
+Boo.
+Boo who?
+Please don’t cry. It’s only a joke.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">241</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">141</subcategory_id>
+            <category_id type="str">121</category_id>
+            <subcategory_name type="str">Knock Knock Jokes</subcategory_name>
+            <category_name type="str">Kids Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">77</length>
+    <POS_histogram type="str">0.417,0.0,0.0,0.0,0.0,0.167,0.167,0.0,0.0,0.0,0.0,0.0,0.083,0.0,0.167,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.333</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,2,0,</professional_communities_histogram>
+</root>

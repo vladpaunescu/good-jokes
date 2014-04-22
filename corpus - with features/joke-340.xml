@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.0</rating>
+    <votes type="str">21</votes>
+    <title type="str">Men? Romance?</title>
+    <url type="str">http://www.greatcleanjokes.com/55/marriage-humor/</url>
+    <content type="str">After I waited patiently while my husband played a round of golf on our 18th wedding anniversary he and I went out to dinner at a lovely restaurant. We discussed many happy memories we’ve shared during the years. Then I said “Want to go for another 18?” “no” he  replied “I think it’s too dark now.” -Mary Leach
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">341</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">158</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">196</subcategory_id>
+            <category_id type="str">132</category_id>
+            <subcategory_name type="str">Golf Jokes</subcategory_name>
+            <category_name type="str">Sports Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">312</length>
+    <POS_histogram type="str">0.03,0.182,0.0,0.03,0.061,0.03,0.152,0.0,0.0,0.182,0.0,0.0,0.212,0.061,0.061,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.455</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.091</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.909</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.8</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.167</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,2,1,</professional_communities_histogram>
+</root>

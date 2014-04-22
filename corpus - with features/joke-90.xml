@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">6</votes>
+    <title type="str">The Helpful Husband Cartoon</title>
+    <url type="str">http://www.greatcleanjokes.com/4009/helpful-husband-cartoon/</url>
+    <content type="str">
+
+Wife – I’m only 40 years old but I look like I’m over 55. My face is all wrinkly, my back is bent over, and my hair i stating to thin!
+Husband – At least your eyesight seems to still be working fine!
+ 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">91</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">128</subcategory_id>
+            <category_id type="str">118</category_id>
+            <subcategory_name type="str">Funny Cartoons</subcategory_name>
+            <category_name type="str">Fun Stuff</category_name>
+        </item>
+    </categories>
+    <length type="str">204</length>
+    <POS_histogram type="str">0.042,0.0,0.083,0.0,0.125,0.125,0.125,0.0,0.0,0.125,0.0,0.042,0.25,0.042,0.042,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.5</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.667</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,1,</professional_communities_histogram>
+</root>

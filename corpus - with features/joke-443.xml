@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.9</rating>
+    <votes type="str">93</votes>
+    <title type="str">One Way To Save Money</title>
+    <url type="str">http://www.greatcleanjokes.com/1330/one-way-to-save-money/</url>
+    <content type="str">A man named Marty called his son. “Harry I have news to tell you, I know it’s going to upset you but I have made up my mind and there is nothing you can do about it. I have decided to divorce your mother.” “But dad how can that be “the son asked “you have been married for 40 years, and you always seemed to get along? What happened suddenly?” “Son, I have made up my mind, and I don’t want you to try to convince me out of it.” “OK” the son responded “but promise me you won’t do anything until I come and talk to you in person, and I am going to ask all of the siblings to fly in also.”Alright” said the father hanging up “you have my word. “Well” said Marty, turning to his wife “I got them all to come in and I didn’t even have to pay for the tickets.” 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">444</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">199</subcategory_id>
+            <category_id type="str">133</category_id>
+            <subcategory_name type="str">Clever Jokes</subcategory_name>
+            <category_name type="str">Witty Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">758</length>
+    <POS_histogram type="str">0.179,0.115,0.051,0.077,0.154,0.026,0.09,0.0,0.0,0.0,0.0,0.0,0.192,0.038,0.077,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.625</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.213</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.979</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.429</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,3,3,</professional_communities_histogram>
+</root>

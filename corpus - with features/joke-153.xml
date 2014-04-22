@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.6</rating>
+    <votes type="str">78</votes>
+    <title type="str">Retired Husband Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2320/retired-husband-joke/</url>
+    <content type="str">A retired husband is often a wife’s full-time job.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">154</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">134</subcategory_id>
+            <category_id type="str">119</category_id>
+            <subcategory_name type="str">Cute Quotes</subcategory_name>
+            <category_name type="str">Funny Quotes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">191</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Retirement Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">192</subcategory_id>
+            <category_id type="str">131</category_id>
+            <subcategory_name type="str">One Liners</subcategory_name>
+            <category_name type="str">SMS Jokes -</category_name>
+        </item>
+    </categories>
+    <length type="str">51</length>
+    <POS_histogram type="str">0.0,0.0,0.0,0.0,0.0,0.143,0.143,0.0,0.0,0.286,0.0,0.0,0.429,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.333</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,0,</professional_communities_histogram>
+</root>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">441</votes>
+    <title type="str">Can You Hear Me??????</title>
+    <url type="str">http://www.greatcleanjokes.com/282/funny-speach-opener-2/</url>
+    <content type="str">An old man went to the Doctor complaining that his wife could barely hear. The Doctor suggested a test to find out the extent of the problem. “Stand far behind her and ask her a question, and then slowly move up and see how far away you are when she first responds.” The old man excited to finally be working on a solution for the problem, runs home and sees his wife preparing supper. ” Honey” the man asks standing around 20 feet away “whats for supper?” After receiving no response he tried it again 15 feet away, and again no response. Then again at 10 feet away and again no response. Finally he was 5 feet away “honey whats for supper?”
+She replies “For the fourth time it’s lasagna!”  
+
+</content>
+    <comments_count type="str">10</comments_count>
+    <id type="str">7</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">112</subcategory_id>
+            <category_id type="str">113</category_id>
+            <subcategory_name type="str">Good Jokes</subcategory_name>
+            <category_name type="str">Best Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">158</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">167</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Speech Openers</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">190</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Old People Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">694</length>
+    <POS_histogram type="str">0.091,0.052,0.065,0.013,0.013,0.078,0.26,0.0,0.0,0.039,0.0,0.0,0.299,0.078,0.013,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.867</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.042</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.958</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.8</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.667</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">3,1,0,</professional_communities_histogram>
+</root>

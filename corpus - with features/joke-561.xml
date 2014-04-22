@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.5</rating>
+    <votes type="str">42</votes>
+    <title type="str">Money Or Your Life Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3373/money-or-your-life-joke/</url>
+    <content type="str">Two thugs walked into a Mexican bank and demanded that the teller hand over all she had.  “No comprendo” (I don’t understand) was her innocent response.  
+Unsure of how to proceed, one of the thugs held out his gun and screamed “anyone hear speak Spanish?”  Hesitantly, a young man approached.  With his gun to the teller’s head, the thug had his now interpreter demand of the teller “hand over all the money you have!”  “I have none” was her nervous response.  “It’s all locked up!”  
+“Ask her where the key is!”  the thug demanded the interpreter, now with his gun even closer to the teller’s head.  
+“It’s in the bottom right drawer!” responded the teller immediately.  
+“She said she will not tell you where the key is, and you can even pull the trigger on her!” Responded the greedy interpreter.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">562</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">199</subcategory_id>
+            <category_id type="str">133</category_id>
+            <subcategory_name type="str">Clever Jokes</subcategory_name>
+            <category_name type="str">Witty Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">801</length>
+    <POS_histogram type="str">0.09,0.154,0.0,0.026,0.038,0.051,0.103,0.013,0.0,0.103,0.0,0.0,0.385,0.026,0.013,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.818</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.143</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.556</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.125</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,2,</professional_communities_histogram>
+</root>

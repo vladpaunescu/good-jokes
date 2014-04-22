@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.2</rating>
+    <votes type="str">106</votes>
+    <title type="str">String Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2237/st/</url>
+    <content type="str">A string walks into a bar. “Excuse me,” he asks “can I please have a drink?” “Nope” replies the bartender “we don’t serve strings.” Upset at the racism the string asks a fellow at the bar to buy him a drink. Seeing this the bartender picks him up and throws him out of the bar. The string walks over to a curb rubs himself against it and ties himself in a knot, then walks back into the bar. “Excuse me, can I please have a drink?” “Aren’t you the string that was just here?” asks the bartender. “No” came the answer, “I’m a frayed knot.” 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">195</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">139</subcategory_id>
+            <category_id type="str">121</category_id>
+            <subcategory_name type="str">Cheesy Jokes</subcategory_name>
+            <category_name type="str">Kids Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">540</length>
+    <POS_histogram type="str">0.148,0.037,0.019,0.037,0.056,0.185,0.111,0.0,0.0,0.0,0.0,0.0,0.37,0.037,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.864</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.077</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.962</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.667</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,5,2,</professional_communities_histogram>
+</root>

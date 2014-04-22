@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">22</votes>
+    <title type="str">Son In Law Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3281/son-in-law-joke/</url>
+    <content type="str">Sam was the owner of a worldwide branch of stores and a multi-millionaire.
+ When his daughter Sandy got engaged to a very religious young man he called the future Groom into his office. 
+“So tell me,” said Sam, sitting the young man down. “What are your plans for the future?” 
+“Well”, said the Groom. “I plan on studying holy works all of my life.”
+“And how exactly do you plan on supporting my daughter if you are studying all day?” questioned Sam. 
+“I am sure The Lord will provide.” Answered the young man.
+“And what about your kids? How do you plan on supporting them?”
+“The Lord will provide” answered the young man again.
+“How did it go?” asked Sam’s wife after they finished talking.
+“It went great” Sam replied. “I had just met the young fellow and already he thinks I’m the Lord!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">330</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">158</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">174</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Men Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">791</length>
+    <POS_histogram type="str">0.071,0.143,0.071,0.048,0.083,0.012,0.083,0.0,0.0,0.143,0.0,0.0,0.179,0.048,0.119,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.034</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.69</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.028</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.972</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.714</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.167</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,3,</professional_communities_histogram>
+</root>

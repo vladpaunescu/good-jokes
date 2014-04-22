@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.8</rating>
+    <votes type="str">39</votes>
+    <title type="str">Cordless Phone Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2473/cordless-phone-joke/</url>
+    <content type="str">Due to the fact that my elderly mother was constantly losing her cordless phone I bought her a phone with a clip. I was taken by surprise the next afternoon to find her standing in the kitchen holding her pants by her ear. “What are you staring at?” she snapped at me, “I couldn’t figure out how to undue this silly clip you bought me!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">519</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">190</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Old People Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">337</length>
+    <POS_histogram type="str">0.063,0.156,0.094,0.031,0.031,0.0,0.063,0.0,0.0,0.188,0.0,0.0,0.344,0.031,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.917</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.083</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,1,</professional_communities_histogram>
+</root>

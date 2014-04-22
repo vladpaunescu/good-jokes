@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">100</votes>
+    <title type="str">Death Preparation Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2761/death-preparation-joke/</url>
+    <content type="str">Barry and Hannah, an old married couple,  are sitting on the couch watching TV. On the show they were speaking about how to prepare in case of death etc. “Honey,” says Barry, turning to his wife with a serious expression, “I want you to promise me, that if there ever comes a time that I am dependent on just machines and bottled fluid, that you will make sure to  put an end to it.” “No problem hun,” said Hannah, and she promptly got up, turned off the TV, and poured his beer down the drain.
+</content>
+    <comments_count type="str">6</comments_count>
+    <id type="str">334</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">158</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">190</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Old People Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">495</length>
+    <POS_histogram type="str">0.082,0.102,0.082,0.0,0.061,0.041,0.061,0.0,0.0,0.122,0.0,0.0,0.327,0.02,0.102,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.727</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.056</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.833</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,3,1,</professional_communities_histogram>
+</root>
