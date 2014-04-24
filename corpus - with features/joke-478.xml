@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.3</rating>
+    <votes type="str">27</votes>
+    <title type="str">Men And Directions</title>
+    <url type="str">http://www.greatcleanjokes.com/118/one-liner-6/</url>
+    <content type="str">The children of Israel wandered around the desert for 40 years. Even in biblical times, men wouldn’t ask for directions.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">479</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">174</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Men Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">192</subcategory_id>
+            <category_id type="str">131</category_id>
+            <subcategory_name type="str">One Liners</subcategory_name>
+            <category_name type="str">SMS Jokes -</category_name>
+        </item>
+    </categories>
+    <length type="str">121</length>
+    <POS_histogram type="str">0.083,0.083,0.0,0.0,0.0,0.0,0.167,0.0,0.0,0.083,0.0,0.0,0.083,0.417,0.083,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.143</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.857</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.5</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">1.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,1,</professional_communities_histogram>
+</root>

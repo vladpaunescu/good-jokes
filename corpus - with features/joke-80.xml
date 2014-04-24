@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.2</rating>
+    <votes type="str">42</votes>
+    <title type="str">Nasty Wife Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3001/nasty-wife-joke/</url>
+    <content type="str">A cop pulled over a car and finds a young couple in the front seat.  “Where’s your seat belt young man?” asked the cop.  “Oh, I just took if off now when you were walking up to the car”, responded the man.  “No you didn’t!” exclaimed his wife, “you never wear your seat belt!”.  A little taken aback, the cop asked to see his license.  “Aw shucks!” cried the man, “I must have left it home!” “Yeah right!” screamed his wife, “You know it expired 3 months ago!”  At a loss for words, the cop asked the woman “are you always so tough on him?!” “No” responded the young woman, “only when he had too much to drink!”.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">81</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">127</subcategory_id>
+            <category_id type="str">117</category_id>
+            <subcategory_name type="str">Drunk Jokes</subcategory_name>
+            <category_name type="str">Drunk Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">162</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Relationship Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">164</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">613</length>
+    <POS_histogram type="str">0.058,0.203,0.014,0.029,0.043,0.029,0.188,0.0,0.0,0.101,0.0,0.0,0.304,0.029,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.739</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.192</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.962</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.846</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.286</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,4,</professional_communities_histogram>
+</root>

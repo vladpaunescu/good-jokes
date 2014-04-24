@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.1</rating>
+    <votes type="str">63</votes>
+    <title type="str">Best Friend Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3535/best-friend-joke/</url>
+    <content type="str">Mark was passing by the bar on the way home from  work when he sees his good friend Tom gulping down one shot after another.
+Fearing the worst, Mark charged into the bar and confronted Tom.
+“Tom what’s going on?” Mark asked.
+“It’s my wife Beckie,” Tom replied. “She ran off with my best friend!”
+“Hey wait a second! Said Mark “Aren’t I your best friend?”
+“Not any more,” Tom said with a happy smile.
+“He is!”
+ 
+ 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">66</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">125</subcategory_id>
+            <category_id type="str">117</category_id>
+            <subcategory_name type="str">Bar Jokes</subcategory_name>
+            <category_name type="str">Drunk Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">413</length>
+    <POS_histogram type="str">0.021,0.146,0.083,0.0,0.021,0.083,0.042,0.021,0.0,0.063,0.0,0.063,0.229,0.0,0.229,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.818</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.941</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.333</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.667</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,5,4,</professional_communities_histogram>
+</root>

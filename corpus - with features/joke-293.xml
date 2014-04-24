@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.0</rating>
+    <votes type="str">62</votes>
+    <title type="str">Leftovers Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3986/leftovers-joke/</url>
+    <content type="str">“Oh no! not leftovers again!” complained my older sister when she saw the leftover meatloaf on the table from last nights supper.
+“Young lady” responded my father sternly, “do you know how many people would love to have a delicious supper like this?! You should be ashamed of yourself! Now before we start eating I want to hear you say grace thanking the Lord for this delicious meal!”
+“Thank you Lord for this delicious supper”, muttered my sister submissively “….again!”
+ 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">294</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">150</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Food Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">475</length>
+    <POS_histogram type="str">0.125,0.083,0.042,0.0,0.083,0.0,0.125,0.0,0.0,0.146,0.021,0.0,0.25,0.063,0.063,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.889</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.188</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.875</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.167</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.125</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,0,</professional_communities_histogram>
+</root>

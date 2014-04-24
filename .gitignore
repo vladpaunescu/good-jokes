@@ -5,7 +5,6 @@
 bin/
 
 *.zip
-*.jar
 
 *.iml
 

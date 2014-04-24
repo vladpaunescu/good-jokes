@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.7</rating>
+    <votes type="str">237</votes>
+    <title type="str">Millionaire Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/1681/millionaire-joke/</url>
+    <content type="str">A fellow walked into a bank in New York City asking for a loan for $4000 dollars. “Well, before we lend you the money we are going to need some kind of security” the bank teller said. “No problem” the man responded here are the keys to my car “you’ll see it, it’s a black Porsche parked in the back of the parking lot.”
+A few weeks later the man returned to pay off his loan. While he was paying it up, along with the interest of $11 dollars, the manager came over, “sir, we are very happy to have you’re business, but if you don’t mind me asking, after you left we looked into you and found out that you are a millionaire, why would you need to borrow $4000 dollars?”   
+“Well, the fellow responded it’s quite simple, where else can I park my car for three weeks in New York for $11 dollars?” 
+</content>
+    <comments_count type="str">5</comments_count>
+    <id type="str">439</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">199</subcategory_id>
+            <category_id type="str">133</category_id>
+            <subcategory_name type="str">Clever Jokes</subcategory_name>
+            <category_name type="str">Witty Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">795</length>
+    <POS_histogram type="str">0.101,0.127,0.051,0.013,0.089,0.025,0.089,0.0,0.0,0.076,0.0,0.0,0.266,0.089,0.076,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.794</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.031</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.857</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,3,1,</professional_communities_histogram>
+</root>

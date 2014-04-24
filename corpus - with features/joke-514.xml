@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.7</rating>
+    <votes type="str">42</votes>
+    <title type="str">Aging Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3236/aging-joke/</url>
+    <content type="str">One day, while strolling down the boardwalk, John bumped into an old friend of his, Rob,  from high school.  “You look great John, how do you stay looking so young? Why you must be 60 already but you don’t look a day over 40!” Rob exclaimed.  
+“I feel like I’m 40 too!” replied John.  
+“That’s incredible” exclaimed Rob, “Does it run in the family?  How old was your dad when he passed?”  
+“Did I say he was dead?” asked John.  “He’s 81 and is more active then ever.  He just joined the neighborhood basketball team!” responded John.  
+“Whoa!  Well how old was your Grandfather when he died?”  
+“Did I say he died” asked John.  Rob was amazed.  “He just had his 105th birthday and plays golf and goes swimming each day!  He’s actually getting married this week!” 
+“Getting married?!” Rob asked.  If he’s 105, why on earth does he want to get married?!  
+John looked at Rob and replied, “Did I say he wanted to?”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">515</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">190</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Old People Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">912</length>
+    <POS_histogram type="str">0.057,0.217,0.047,0.028,0.075,0.085,0.094,0.009,0.0,0.104,0.0,0.0,0.16,0.0,0.123,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.633</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.037</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.944</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.727</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.636</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,1,</professional_communities_histogram>
+</root>

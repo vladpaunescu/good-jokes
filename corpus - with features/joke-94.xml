@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.3</rating>
+    <votes type="str">24</votes>
+    <title type="str">Funny Christmas Cartoon</title>
+    <url type="str">http://www.greatcleanjokes.com/3975/funny-christmas-cartoon/</url>
+    <content type="str">
+Do you know that Jesus is the real reason for Christmas?
+Not to be mean. But he is.
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">95</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">128</subcategory_id>
+            <category_id type="str">118</category_id>
+            <subcategory_name type="str">Funny Cartoons</subcategory_name>
+            <category_name type="str">Fun Stuff</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">136</subcategory_id>
+            <category_id type="str">120</category_id>
+            <subcategory_name type="str">Christmas Jokes</subcategory_name>
+            <category_name type="str">Holiday Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">85</length>
+    <POS_histogram type="str">0.182,0.0,0.0,0.0,0.091,0.182,0.091,0.0,0.0,0.182,0.0,0.0,0.091,0.0,0.182,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.667</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.2</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,1,</professional_communities_histogram>
+</root>

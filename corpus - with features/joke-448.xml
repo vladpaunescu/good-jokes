@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.6</rating>
+    <votes type="str">54</votes>
+    <title type="str">The Real Mother-In-Law</title>
+    <url type="str">http://www.greatcleanjokes.com/530/the-real-mother-in-law-mother-in-law-joke/</url>
+    <content type="str">Once two ladies came before King Solomon, fighting over a boy. “He’s my son-in law” one said “No he’s mine” countered the other. After thinking for a few minutes the King finally decided on a ruling. “Bring me my sword and we will cut the boy in half, they will each get half.” “No” the first lady screamed “don’t cut him in half I would rather the second lady get the whole son-in-law.” Ah Hah said King Solomon with a big smile I now know who is the real mother-in-law. For a only the real mother-in-law would stand quietly while her son-in-law gets cut in half.”     
+photo credit: jikatu
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">449</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">175</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Mother In Law Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">184</subcategory_id>
+            <category_id type="str">127</category_id>
+            <subcategory_name type="str">Jewish Jokes</subcategory_name>
+            <category_name type="str">Religious Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">592</length>
+    <POS_histogram type="str">0.091,0.091,0.03,0.015,0.03,0.061,0.106,0.0,0.0,0.152,0.0,0.0,0.318,0.03,0.076,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.536</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.048</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.857</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.4</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,8,2,</professional_communities_histogram>
+</root>

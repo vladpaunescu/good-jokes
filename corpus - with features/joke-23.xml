@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.9</rating>
+    <votes type="str">166</votes>
+    <title type="str">Relative Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2048/relative-joke/</url>
+    <content type="str">Wife – You hate my relatives!
+Husband – No, I don’t! In fact, I like your mother-in-law more than I like mine. 
+</content>
+    <comments_count type="str">2</comments_count>
+    <id type="str">24</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">117</subcategory_id>
+            <category_id type="str">115</category_id>
+            <subcategory_name type="str">Funny Comebacks</subcategory_name>
+            <category_name type="str">Disses</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">175</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Mother In Law Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">112</length>
+    <POS_histogram type="str">0.0,0.0,0.0,0.0,0.364,0.0,0.091,0.091,0.0,0.0,0.0,0.0,0.273,0.091,0.091,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.4</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.75</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,0,</professional_communities_histogram>
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.5</rating>
+    <votes type="str">22</votes>
+    <title type="str">Who’s There?</title>
+    <url type="str">http://www.greatcleanjokes.com/153/knock-knock-joke/</url>
+    <content type="str">knock knock
+who’s there,
+I don’t know get the door – Melvin
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">249</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">141</subcategory_id>
+            <category_id type="str">121</category_id>
+            <subcategory_name type="str">Knock Knock Jokes</subcategory_name>
+            <category_name type="str">Kids Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">60</length>
+    <POS_histogram type="str">0.4,0.0,0.0,0.0,0.1,0.1,0.2,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.5</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.167</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,2,0,</professional_communities_histogram>
+</root>

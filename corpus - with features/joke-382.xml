@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.6</rating>
+    <votes type="str">89</votes>
+    <title type="str">Prison Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3501/prison-joke/</url>
+    <content type="str">Brian hit rock bottom. He was going to jail for insider trading and it couldn’t get much worse than that.
+As the jail warden brought Brian to his cell, Brian’s worst fears were materialized. Sitting hunched over on a bed was his soon to be roommate. He was a hunk of a man wearing a sleeveless undershirt, with vicious looking tattoos on each arm.
+As Brian approached the prison cell the giant looked up at him and said in a deep booming voice, “hey man, what did you do to get yourself in here?”
+“White collar crime” responded Brian nervously.
+“Hey man, how about that? Me too,” the giant said.
+“Phew,” said Brian feeling his body relaxing, “To be honest I got a bit nervous when I saw you.”
+“Nah” responded the giant waving his hand “what’s there to be nervous about?”
+“So tell me,” questioned the giant “How many priest’s did you kill?”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">383</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">166</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Puns</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">840</length>
+    <POS_histogram type="str">0.074,0.191,0.064,0.021,0.011,0.011,0.085,0.0,0.0,0.106,0.011,0.011,0.309,0.021,0.085,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.026</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.564</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.057</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.943</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.75</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.25</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,7,0,</professional_communities_histogram>
+</root>

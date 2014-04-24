@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.8</rating>
+    <votes type="str">46</votes>
+    <title type="str">Loyal Secretary Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3091/loyal-secretary-joke/</url>
+    <content type="str">Bernice had been employed at the same office for over 50 years and was the boss’s top secretary.  Everyone was jealous of her. Every day when Bernice showed up for work she would open the drawer to her left, peek inside, and then lock it. When she finally died, her coworker Sandy, who was dying of curiosity, made it her mission to figure out what was in that drawer.  
+After days of searching she finally found the key. Sweating with excitement she slowly opened up the drawer. Inside was a folded piece of paper. Slowly she reached inside and took it out, while cautiously looking over her shoulder. After a few seconds of trepidation she opened it up. 
+It said the following “Put only one spoonful of sugar in the boss’s coffee.”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">567</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">201</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Boss Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">203</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Office Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">734</length>
+    <POS_histogram type="str">0.057,0.214,0.071,0.043,0.0,0.0,0.129,0.0,0.0,0.057,0.0,0.0,0.343,0.043,0.043,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.733</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.111</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.963</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.25</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,3,5,</professional_communities_histogram>
+</root>

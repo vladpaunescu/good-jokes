@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.1</rating>
+    <votes type="str">150</votes>
+    <title type="str">LOL Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2789/lol-joke/</url>
+    <content type="str">John angrily looked at the text he had just received from his Mom.  It read: “Professor called to say you failed the course.  LOL.  Mom. ”  How could he have failed?! … And all his Mom has to say is that she’s Laughing Out Loud?!  Fed up, he text-ed his Mom: “What was up with the LOL?”  his text said.   “I just wanted to send you Lot’s Of Love because I know how disappointed you must be.”
+</content>
+    <comments_count type="str">7</comments_count>
+    <id type="str">394</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">176</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Women Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">190</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Old People Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">392</length>
+    <POS_histogram type="str">0.116,0.209,0.023,0.047,0.023,0.07,0.116,0.0,0.0,0.047,0.0,0.0,0.233,0.0,0.116,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.067</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.467</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.19</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.905</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.8</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,6,4,</professional_communities_histogram>
+</root>

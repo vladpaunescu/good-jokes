@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.0</rating>
+    <votes type="str">22</votes>
+    <title type="str">Adam and Eve Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3982/adam-eve-joke/</url>
+    <content type="str">Existence was so tranquil and peaceful for the young couple Adam and Eve, like straight out of a story book, until one unfortunate day when Adam showed up one hour late for supper.
+By the time Adam finally came home Eve was a nervous wreck, and her imagination was working overtime.
+“Honey, what happened? Why are you home so late?” Questioned Eve. “Oh I’m sorry! Adam responded with a wave of his hand, “I just lost track of the time.”
+Now Eve didn’t have a Mother or girlfriend around to calm her fears, after all it was just her and her Husband and despite Adam’s convincing act  her overactive imagination could not be calmed.
+That night after two hours of restlessly turning in her bed, enough was enough.
+“WHAT IN THE WORLD ARE YOU DOING!” Hollered Adam jumping out of bed.
+“YOU KNOW DARN WELL WHAT I’M DOING” Screamed Eve right back, “NOW YOU BETTER LAY STILL RIGHT NOW, AND LET ME FINISH COUNTING THOSE RIBS!
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">352</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">162</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Relationship Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">167</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Speech Openers</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">186</subcategory_id>
+            <category_id type="str">127</category_id>
+            <subcategory_name type="str">Religious Jokes</subcategory_name>
+            <category_name type="str">Religious Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">917</length>
+    <POS_histogram type="str">0.038,0.123,0.057,0.019,0.057,0.0,0.189,0.0,0.0,0.094,0.009,0.0,0.255,0.038,0.123,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.955</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.065</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.65</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.273</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,2,</professional_communities_histogram>
+</root>

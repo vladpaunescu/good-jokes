@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.1</rating>
+    <votes type="str">21</votes>
+    <title type="str">Floor Meme</title>
+    <url type="str">http://www.greatcleanjokes.com/3911/floor-meme/</url>
+    <content type="str">
+If you fall I will be there.
+- Floor
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">122</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">130</subcategory_id>
+            <category_id type="str">118</category_id>
+            <subcategory_name type="str">Funny Memes</subcategory_name>
+            <category_name type="str">Fun Stuff</category_name>
+        </item>
+    </categories>
+    <length type="str">38</length>
+    <POS_histogram type="str">0.25,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,1,</professional_communities_histogram>
+</root>

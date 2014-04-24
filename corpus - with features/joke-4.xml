@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">674</votes>
+    <title type="str">Heaven Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/497/497/</url>
+    <content type="str">A man died and went to The Judgment, they told him , “Before you meet with God,  I should tell you — we’ve looked over your life, and to be honest you really didn’t do anything particularly good or bad. We’re not really sure what to do with you. Can you tell us anything you did that can help us make a decision?”
+The newly arrived soul thought for a moment and replied, “Yeah, once I was driving along and came upon a person who was being harassed by a group of thugs. So I pulled over, got out a bat, and went up to the leader of the thugs. He was a big, muscular guy with a ring pierced through his lip. Well, I tore the  ring out of his lip, and told him he and his gang had better stop bothering this guy or they would have to deal with me!”
+“Wow that’s impressive, “When did this happen?”
+“About three minutes ago,” came the reply.
+</content>
+    <comments_count type="str">12</comments_count>
+    <id type="str">5</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">112</subcategory_id>
+            <category_id type="str">113</category_id>
+            <subcategory_name type="str">Good Jokes</subcategory_name>
+            <category_name type="str">Best Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">116</subcategory_id>
+            <category_id type="str">114</category_id>
+            <subcategory_name type="str">Heaven Jokes</subcategory_name>
+            <category_name type="str">Death Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">838</length>
+    <POS_histogram type="str">0.133,0.229,0.036,0.036,0.036,0.012,0.12,0.012,0.0,0.084,0.0,0.0,0.253,0.036,0.012,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.84</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.1</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.975</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.636</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.571</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,2,</professional_communities_histogram>
+</root>

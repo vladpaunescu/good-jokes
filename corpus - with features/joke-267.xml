@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.3</rating>
+    <votes type="str">273</votes>
+    <title type="str">Ten Things I know about you</title>
+    <url type="str">http://www.greatcleanjokes.com/3268/ten-things-i-know-about-you/</url>
+    <content type="str"> 1) You are reading this.
+2) You are human.
+3) You can’t say the letter ”P” without separating your lips.
+4) You just attempted to do it.
+6) You are laughing at yourself.
+7) You have a smile on your face and you skipped No. 5.
+8) You just checked to see if there is a No. 5.
+9) You laugh at this because you are a fun loving person &amp; everyone does it too.
+10) You are probably going to send this to see who else falls for it. 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">268</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">144</subcategory_id>
+            <category_id type="str">121</category_id>
+            <subcategory_name type="str">Silly Jokes</subcategory_name>
+            <category_name type="str">Kids Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">199</subcategory_id>
+            <category_id type="str">133</category_id>
+            <subcategory_name type="str">Clever Jokes</subcategory_name>
+            <category_name type="str">Witty Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">427</length>
+    <POS_histogram type="str">0.125,0.075,0.1,0.0,0.15,0.075,0.15,0.0,0.0,0.05,0.0,0.0,0.25,0.025,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.636</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.095</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.952</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.833</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,4,</professional_communities_histogram>
+</root>

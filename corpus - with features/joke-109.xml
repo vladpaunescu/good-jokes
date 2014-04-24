@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.5</rating>
+    <votes type="str">13</votes>
+    <title type="str">The Corny Doctor Cartoon</title>
+    <url type="str">http://www.greatcleanjokes.com/3853/funny-doctor-handwriting-cartoon/</url>
+    <content type="str">
+Did you hear about the student that flunked medical school? His handwriting was legible.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">110</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">128</subcategory_id>
+            <category_id type="str">118</category_id>
+            <subcategory_name type="str">Funny Cartoons</subcategory_name>
+            <category_name type="str">Fun Stuff</category_name>
+        </item>
+    </categories>
+    <length type="str">90</length>
+    <POS_histogram type="str">0.111,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.222,0.0,0.0,0.333,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.75</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,0,2,</professional_communities_histogram>
+</root>

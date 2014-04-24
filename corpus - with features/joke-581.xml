@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.8</rating>
+    <votes type="str">26</votes>
+    <title type="str">Bankruptcy Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3286/bankruptcy-joke/</url>
+    <content type="str">“I just can’t take it anymore” cried Larry to his Priest. “No matter how hard I try, I just can’t seem to put bread on the table!”
+“Larry, listen closely to what I am going to tell you” said the Priest. “Go to a quiet place outdoors where you can spend some time with the Lord. Sit down with the Bible in front of you and let the wind turn the pages. Close your eyes and think about the Lord. When you open your eyes, see what page the Bible is opened to, and there you will find your message.”
+Three months later the Priest was walking up the church steps when he spotted Larry speeding by in a brand new Lexus. “Larry!” screamed the priest incredulously. “What happened? Let me hear your story!”
+“Well,” said Larry “it was just as you said. I sat in a quiet place, closed my eyes, and when I opened them the answer was right in front of me. It was opened to Chapter 11!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">582</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">204</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Work Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">873</length>
+    <POS_histogram type="str">0.167,0.156,0.022,0.022,0.044,0.011,0.122,0.0,0.0,0.044,0.0,0.0,0.211,0.067,0.133,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.811</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.026</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.545</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">1.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,7,1,</professional_communities_histogram>
+</root>

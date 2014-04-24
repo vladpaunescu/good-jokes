@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.7</rating>
+    <votes type="str">118</votes>
+    <title type="str">Secretary Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/1552/secretary-joke/</url>
+    <content type="str">A man walked into the office in a school. “Excuse me,” he said to the secretary “I would like to come to school, I want to learn to read and write.” “OK,” the secretary responded in a bored voice, “just fill out this form.”   
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">512</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">189</subcategory_id>
+            <category_id type="str">129</category_id>
+            <subcategory_name type="str">Teacher Jokes</subcategory_name>
+            <category_name type="str">School Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">204</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Work Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">227</length>
+    <POS_histogram type="str">0.333,0.143,0.0,0.0,0.048,0.0,0.048,0.0,0.0,0.048,0.0,0.0,0.381,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,6,</professional_communities_histogram>
+</root>

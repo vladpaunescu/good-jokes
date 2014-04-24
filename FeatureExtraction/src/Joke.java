@@ -3,6 +3,7 @@ import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
+import edu.stanford.nlp.trees.Dependency;
 import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreeCoreAnnotations.TreeAnnotation;
 import edu.stanford.nlp.util.CoreMap;
@@ -56,26 +57,16 @@ public class Joke {
 	//  TODO: more to be considered
 	private int histoProfessionalCommunities[];
 	
-	// nouns related
-	private double nounsWithMultipleMeanings;
-//	private double nounsWithMultiplePronunciations;
-	private double nounsWithSexualConnotations;
 	
-	// verbs related
-	private double verbsWithMultipleMeanings;
-//	private double verbsWithMultiplePronunciations;
-	private double verbsWithSexualConnotations;
+	// count words with multiple meanings, organized by POS
+	private double POSCategoriesWithMultipleMeanings[];
 	
-	// adjectives related
-	private double adjectivesWithMultipleMeanings;
-//	private double adjectivesWithMultiplePronunciations;
-	private double adjectivesWithSexualConnotations;
+	// count words with sexual connotations, organized by POS
+	private double POSCategoriesWithSexualConnotations[];
 	
-	// adverbs related
-	private double adverbsWithMultipleMeanings;
-//	private double adverbsWithMultiplePronunciations;
-	private double adverbsWithSexualConnotations;
-	
+	// count words with sexual connotations, organized by POS
+	// private double POSCategoriesWithMultiplePronunciations[];
+
 	// if there is a dialogue in the joke 
 //	private boolean isDialogue;
 	
@@ -85,7 +76,7 @@ public class Joke {
 	// histogram - part of speech
 	// noun, verb, adjective, adverb ...
 	// TODO: more to be considered
-	private int histoPOS[];
+	private double histoPOS[];
 	
 	// TODO: add histogram (meanings)
 	
@@ -117,14 +108,8 @@ public class Joke {
 		partOfSpeechAnalyze();
 	}
 	
-	private void partOfSpeechAnalyze() {
-		int totalNouns = 0, totalNounsWithSexualConnotations = 0, totalNounsWithMultipleMeanings = 0;
-		int totalVerbs = 0, totalVerbsWithSexualConnotations = 0, totalVerbsWithMultipleMeanings = 0;
-		int totalAdverbs = 0, totalAdverbsWithSexualConnotations = 0, totalAdverbsWithMultipleMeanings = 0;
-		int totalAdjectives = 0, totalAdjectivesWithSexualConnotations = 0, totalAdjectivesWithMultipleMeanings = 0;
-		int profCom;
-		
-		this.histoPOS = new int[Constants.POSConsidered.length];
+	public void init() {
+		this.histoPOS = new double[Constants.POSConsidered.length];
 		for(int i=0; i<this.histoPOS.length; i++)
 			histoPOS[i] = 0;
 		
@@ -132,7 +117,24 @@ public class Joke {
 		for(int i=0; i<this.histoProfessionalCommunities.length; i++)
 			histoProfessionalCommunities[i] = 0;
 		
+		this.POSCategoriesWithMultipleMeanings = new double[Constants.nrPOSCategories];
+		this.POSCategoriesWithSexualConnotations = new double[Constants.nrPOSCategories];
+		for(int i=0; i<Constants.nrPOSCategories; i++)
+			this.POSCategoriesWithMultipleMeanings[i] = this.POSCategoriesWithSexualConnotations[i] = 0;
+		
+	}
+	
+	private void partOfSpeechAnalyze() {
+		int totalPOS[] = new int[Constants.nrPOSCategories];
+		int totalPOSMultipleMeanings[] = new int[Constants.nrPOSCategories];
+		int totalPOSSexualConnotations[] = new int[Constants.nrPOSCategories];
+		int profCom = 0, totalRelevantWords = 0;
 		boolean isQMark = false, isNonQMark = false;
+		
+		init();
+		
+		for(int i=0; i<Constants.nrPOSCategories; i++)
+			totalPOS[i] = totalPOSMultipleMeanings[i] = totalPOSSexualConnotations[i] = 0;
 		
 		for(CoreMap sentence: sentences) {
 			String lastWord = "";
@@ -156,39 +158,18 @@ public class Joke {
 		        
 		        lastWord = word;
 		        profCom = -1;
-		        if (Constants.isNounPOS(pos)) {
-		        	profCom = this.wordNet.detectProfessionalCommunityNoun(lemma);
-		        	totalNouns++;
-		        	if (this.wordNet.checkIfSexualConnotationNoun(lemma))
-		        		totalNounsWithSexualConnotations++;
-		        	if (this.wordNet.checkIfMultipleMeaningsNoun(lemma))
-		        		totalNounsWithMultipleMeanings++;
-		        }
-		        else if (Constants.isVerbPOS(pos)) {
-		        	profCom = this.wordNet.detectProfessionalCommunityVerb(lemma);
-		        	totalVerbs++;
-		        	if (this.wordNet.checkIfSexualConnotationVerb(lemma))
-		        		totalVerbsWithSexualConnotations++;
-		        	if (this.wordNet.checkIfMultipleMeaningsVerb(lemma))
-		        		totalVerbsWithMultipleMeanings++;
-		        }
-		        else if (Constants.isAdjectivePOS(pos)) {
-		        	profCom = this.wordNet.detectProfessionalCommunityAdjective(lemma);
-		        	totalAdjectives++;
-		        	if (this.wordNet.checkIfSexualConnotationAdjective(lemma))
-		        		totalAdjectivesWithSexualConnotations++;
-		        	if (this.wordNet.checkIfMultipleMeaningsAdjective(lemma))
-		        		totalAdjectivesWithMultipleMeanings++;
-		        }
-		        else if (Constants.isAdverbPOS(pos)) {
-		        	profCom = this.wordNet.detectProfessionalCommunityAdverb(lemma);
-		        	totalAdverbs++;
-		        	if (this.wordNet.checkIfSexualConnotationAdverb(lemma))
-		        		totalAdverbsWithSexualConnotations++;
-		        	if (this.wordNet.checkIfMultipleMeaningsAdverb(lemma))
-		        		totalAdverbsWithMultipleMeanings++;
-		        }
 		        
+		        int POSCategoryID = Constants.getPOSCategoryID(pos);
+		        if (POSCategoryID!=-1) {
+		        	totalRelevantWords++;
+		        	totalPOS[POSCategoryID]++;
+		        	if (this.wordNet.checkIfMultipleMeaningsByPOS(lemma, POSCategoryID))
+		        		totalPOSMultipleMeanings[POSCategoryID]++;
+		        	if (this.wordNet.checkIfSexualConnotationByPOS(lemma, POSCategoryID))
+		        		totalPOSSexualConnotations[POSCategoryID]++;
+		        	profCom = this.wordNet.detectProfessionalCommunityByPOS(lemma, POSCategoryID);
+		        }
+		
 		        if (profCom!=-1) {
 		        	this.histoProfessionalCommunities[profCom]++;
 		        	System.out.println(profCom+" "+lemma +" "+word);
@@ -201,43 +182,29 @@ public class Joke {
 			else 
 				isNonQMark = true;
 			
-			
+		
 		//	Tree tree = sentence.get(TreeAnnotation.class);
-			
-			
-			
+		//	processTree(tree);
 		}
 		
 		this.isQA = isQMark && isNonQMark;
 		
-		if (totalNouns!=0) {
-			this.nounsWithSexualConnotations = 1.0 * totalNounsWithSexualConnotations / totalNouns;
-			this.nounsWithMultipleMeanings = 1.0 * totalNounsWithMultipleMeanings / totalNouns;
+		for(int i=0; i<Constants.nrPOSCategories; i++) {
+			if (totalPOS[i]!=0) {
+				this.POSCategoriesWithMultipleMeanings[i] = 1.0 * totalPOSMultipleMeanings[i] / totalPOS[i];
+				this.POSCategoriesWithSexualConnotations[i] = 1.0 * totalPOSSexualConnotations[i] / totalPOS[i];
+			}
+			else 
+				this.POSCategoriesWithMultipleMeanings[i] = this.POSCategoriesWithSexualConnotations[i] = 0;
 		}
-		else 
-			this.nounsWithSexualConnotations = this.nounsWithMultipleMeanings = 0;
 		
-		if (totalVerbs!=0) {
-			this.verbsWithSexualConnotations = 1.0 * totalVerbsWithSexualConnotations / totalVerbs;
-			this.verbsWithMultipleMeanings = 1.0 * totalVerbsWithMultipleMeanings / totalVerbs;
+		if (totalRelevantWords!=0) {
+			for(int i=0; i<Constants.POSConsidered.length; i++)
+				histoPOS[i] /= totalRelevantWords;
 		}
-		else 
-			this.verbsWithMultipleMeanings = this.verbsWithSexualConnotations = 0;
-		
-		if (totalAdjectives!=0) {
-			this.adjectivesWithSexualConnotations = 1.0 * totalAdjectivesWithSexualConnotations / totalAdjectives;
-			this.adjectivesWithMultipleMeanings = 1.0 * totalAdjectivesWithMultipleMeanings / totalAdjectives;
-		}
-		else 
-			this.adjectivesWithMultipleMeanings = this.adjectivesWithSexualConnotations = 0;
-		
-		if (totalAdverbs!=0) {
-			this.adverbsWithSexualConnotations = 1.0 * totalAdverbsWithSexualConnotations / totalAdverbs;
-			this.adverbsWithMultipleMeanings = 1.0 * totalAdverbsWithMultipleMeanings / totalAdverbs;
-		}
-		else 
-			this.adverbsWithMultipleMeanings = this.adverbsWithSexualConnotations = 0;
 	}
+	
+	
 	
 	
 	private void computeLength() {
@@ -251,7 +218,7 @@ public class Joke {
 	public String getHistoPOS() {
 		String str = "";
 		for(int i=0; i<this.histoPOS.length; i++) {
-			str += this.histoPOS[i]+",";
+			str += (double)Math.round(this.histoPOS[i] * 1000) / 1000+",";
 		}
 		return str;
 	}
@@ -271,35 +238,12 @@ public class Joke {
 			return "0";
 	}
 	
-	public String getNounsWithSexualConnotations() {
-		return this.nounsWithSexualConnotations+"";
+	public String getPOSWithSexualConnotations(int POSCategoryID) {
+		return (double)Math.round(this.POSCategoriesWithSexualConnotations[POSCategoryID] * 1000) / 1000 + "";
 	}
 	
-	public String getVerbsWithSexualConnotations() {
-		return this.verbsWithSexualConnotations+"";
-	}
+	public String getPOSWithMultipleMeanings(int POSCategoryID) {
+		return (double)Math.round(this.POSCategoriesWithMultipleMeanings[POSCategoryID] * 1000) / 1000 + "";
+	} 
 	
-	public String getAdverbsWithSexualConnotations() {
-		return this.adverbsWithSexualConnotations+"";
-	}
-	
-	public String getAdjectivesWithSexualConnotations() {
-		return this.adjectivesWithSexualConnotations+"";
-	}
-	
-	public String getNounsWithMultipleMeanings() {
-		return this.nounsWithMultipleMeanings+"";
-	}
-	
-	public String getVerbsWithMultipleMeanings() {
-		return this.verbsWithMultipleMeanings+"";
-	}
-	
-	public String getAdverbsWithMultipleMeanings() {
-		return this.adverbsWithMultipleMeanings+"";
-	}
-	
-	public String getAdjectivesWithMultipleMeanings() {
-		return this.adjectivesWithMultipleMeanings+"";
-	}
 }

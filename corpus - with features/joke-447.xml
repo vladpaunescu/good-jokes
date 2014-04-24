@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.3</rating>
+    <votes type="str">19</votes>
+    <title type="str">Men? Fathers?</title>
+    <url type="str">http://www.greatcleanjokes.com/539/men-fathers-men-joke/</url>
+    <content type="str">A couple had their first baby. After a week or so the mother thought she could use a break and went shopping leaving the little baby with the proud father. It was only a short while before the baby started to cry. The perplexed father tried all of the tricks that he remembered his wife doing but to no avail. Finally after a half hour  in desperation he went to the doctor. After checking all of the regular things the doctor  discovered it was just a dirty diaper.
+“I don’t understand “the perplexed father said “I knew it was dirty, but the diaper package said specifically that it was good up to 8 pounds!” 
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">448</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">174</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Men Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">612</length>
+    <POS_histogram type="str">0.048,0.242,0.048,0.0,0.016,0.0,0.097,0.0,0.0,0.177,0.0,0.0,0.323,0.048,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.87</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.091</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.667</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.636</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">2,4,0,</professional_communities_histogram>
+</root>

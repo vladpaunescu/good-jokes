@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.6</rating>
+    <votes type="str">151</votes>
+    <title type="str">Iron Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/1584/1584/</url>
+    <content type="str">A blond man entered the emergency room with his two ears burned. “What happened?” asked the doctor. “Well”, the man explained, “my wife was ironing clothing, behind my chair while I was watching TV. She put down the iron next to the phone and when the phone rang I answered the iron.” 
+“Wow that is terrible” responded the doctor, and what happened to your other ear?” 
+“Well” the blond guy responded “Right afterwards, the phone rang again!”  
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">61</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">121</subcategory_id>
+            <category_id type="str">116</category_id>
+            <subcategory_name type="str">Hospital Jokes</subcategory_name>
+            <category_name type="str">Doctor Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">172</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Blonde Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">445</length>
+    <POS_histogram type="str">0.0,0.279,0.047,0.047,0.0,0.023,0.07,0.0,0.0,0.116,0.0,0.0,0.395,0.023,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.889</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.941</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.333</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">2,1,0,</professional_communities_histogram>
+</root>

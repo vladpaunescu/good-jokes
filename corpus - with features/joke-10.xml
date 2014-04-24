@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.6</rating>
+    <votes type="str">79</votes>
+    <title type="str">Dying Fears Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3742/dying-fears-joke/</url>
+    <content type="str">Adam woke up suddenly, sweating all over.  ”What’s the problem”, asked his wife.  ”Are you OK?”   “I just dreamed that I died!”  responded a shaken Adam.  ”And it was so bad up there, and that’s why you’re sweating all over?”  asked his wife.  ”You bet!”  exclaimed Adam.  ”I got up there, and was right in front of G-d himself, when he suddenly sneezed…..and I didn’t know what to say to him!  Whoa was that traumatic!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">11</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">114</subcategory_id>
+            <category_id type="str">114</category_id>
+            <subcategory_name type="str">Death Jokes</subcategory_name>
+            <category_name type="str">Death Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">116</subcategory_id>
+            <category_id type="str">114</category_id>
+            <subcategory_name type="str">Heaven Jokes</subcategory_name>
+            <category_name type="str">Death Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">421</length>
+    <POS_histogram type="str">0.047,0.302,0.0,0.023,0.07,0.047,0.209,0.0,0.0,0.047,0.0,0.0,0.14,0.0,0.116,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.455</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.048</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.952</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.889</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,0,</professional_communities_histogram>
+</root>

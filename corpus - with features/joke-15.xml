@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.6</rating>
+    <votes type="str">49</votes>
+    <title type="str">Deathbed Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3101/deathbed-joke/</url>
+    <content type="str">Edward was lying on his deathbed and the family was taking turns spending time with him.    As he was speaking to his young granddaughter Emily, Edward suddenly smelled an all too familiar smell.  Why it was his favorite – apple pie!  His wife Sandy must have been baking it for him to enjoy this one last time.  “Emily dear,” asked Edward.  “Would you please go ask Grandma for a slice of that Apple Pie?  It’s smells so delicious!”  Emily ran off to fulfill her dying Grandfather’s last wish.  A moment later, Emily returned empty handed.  “Where’s my pie?”  questioned Edward.  “Grandma said it’s not for now” responded Emily, “it’s for the funeral”.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">16</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">114</subcategory_id>
+            <category_id type="str">114</category_id>
+            <subcategory_name type="str">Death Jokes</subcategory_name>
+            <category_name type="str">Death Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">654</length>
+    <POS_histogram type="str">0.082,0.151,0.082,0.014,0.0,0.055,0.096,0.0,0.0,0.11,0.0,0.0,0.205,0.014,0.192,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.567</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.071</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.857</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.125</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,1,</professional_communities_histogram>
+</root>

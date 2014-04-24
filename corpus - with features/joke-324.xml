@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.4</rating>
+    <votes type="str">55</votes>
+    <title type="str">Cute Pick Up Line</title>
+    <url type="str">http://www.greatcleanjokes.com/3498/cute-pick-up-line-2/</url>
+    <content type="str">OH MY GOODNESS!! You are not going to believe it, I saw the cutest thing in a store window. I was going to buy it for you but then I realized that it was my reflection!!
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">325</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">157</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Funny Pick Up Lines</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">157</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Funny Pick Up Lines</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">170</length>
+    <POS_histogram type="str">0.1,0.2,0.1,0.0,0.05,0.0,0.1,0.0,0.0,0.0,0.0,0.05,0.35,0.0,0.05,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.625</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">1.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,0,</professional_communities_histogram>
+</root>

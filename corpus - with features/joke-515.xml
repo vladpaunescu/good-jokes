@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.4</rating>
+    <votes type="str">47</votes>
+    <title type="str">Too Old To Date Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2928/too-old-to-date-joke/</url>
+    <content type="str">The neighbors thought it was odd, but 93 year old Morton was dating again.  One Monday morning Morton woke up with a funny feeling that something important happened last night.  It was during breakfast, that Morton finally remembered what it was.  He had proposed to his date Greta. But what she answered he just couldn’t seem to remember.  Morton picked up the phone and dialed.  ”Hi Greta”, said Morton, “I have a funny question for you, do you remember last night when I proposed?”  ”Oh my gosh” gushed Greta, “I’m so glad you called, I knew I said yes to somebody but I just couldn’t recall who it was!”
+</content>
+    <comments_count type="str">4</comments_count>
+    <id type="str">516</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">190</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Old People Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">608</length>
+    <POS_histogram type="str">0.061,0.258,0.015,0.045,0.045,0.0,0.106,0.0,0.0,0.121,0.0,0.0,0.197,0.015,0.136,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.435</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.107</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.571</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.25</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,3,1,</professional_communities_histogram>
+</root>
