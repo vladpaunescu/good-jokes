@@ -14,7 +14,7 @@ import org.hibernate.Session;
  *
  * @author vlad.paunescu
  */
-public class DbTests {
+public class DbConnection {
 
     public List<Category> listCategorieses() {
         Session session = JokesHibernateUtil.getSessionFactory().openSession();
@@ -34,7 +34,7 @@ public class DbTests {
     }
     
     public static void main(String[] args){
-        DbTests dbTests = new DbTests();
+        DbConnection dbTests = new DbConnection();
         List<Category> categories = dbTests.listCategorieses();
         for (Category category : categories){
             System.out.println(category.getName());
