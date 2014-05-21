@@ -13,11 +13,6 @@ The complete source code can be found at:
 https://github.com/vladpaunescu/good-jokes
 
 
-This archive contains:
-
-	- presentations for all the project stages
-	- project journal
-	- application demo that uses already created and processed corpus (the features are already added)
 
 Instructions to run the demo applications:
 =========================================
