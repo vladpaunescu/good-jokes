@@ -1,0 +1,296 @@
+
+Vocabulary size: 3237
+======================
+
+Total words count: 28614
+========================
+
+Top Words:
+==========
+
+1514 the
+982 a
+760 to
+535 i
+525 and
+444 you
+357 of
+345 was
+309 in
+276 he
+255 his
+240 my
+231 for
+224 said
+222 it
+212 is
+208 that
+188 on
+161 with
+
+Categories count 22
+===================
+
+Total subcategories 94
+======================
+
+Avg # of subcategories / categ: 4.2727275
+=========================================
+
+Total joke count 586
+====================
+
+Jokes with most categories
+==========================
+
+6 Grandma Joke
+6 Can You Hear Me??????
+5 Woops Sorry About That
+5 Horse Joke
+4 Drunk Driving Joke
+4 Feeling Pregnant Joke
+4 Girl Friend Joke
+4 Used Clothing Joke
+4 Bar Excuse Joke
+4 Poor Husband Joke
+4 Adam and Eve Joke
+4 Differences between Men and Women
+4 Who’s Wearing The Pants?
+4 Wife Insult Joke
+3 Get A Raise Joke
+3 Lawyers Daughter Joke
+
+
+Total comments 716
+==================
+
+Total votes 51403
+=================
+
+Average rating 3.4902742
+========================
+
+Jokes with most comments
+========================
+
+22 Thinking Tongue Twister
+19 Woops Sorry About That
+17 Clean Restaurant Joke
+16 Swimming Pool Joke
+15 A Thinking Joke (See If You Could Follow It )
+14 One Letter Makes A Big Difference
+14 Elevator Riddle
+14 I’m Not Drunk Joke
+12 Heaven Joke
+12 Homework Joke
+12 Pillow Joke
+11 Adoption Joke
+11 A Husband Is Like A Bar Of Soap
+10 Midget Joke
+10 Drunk Driving Joke
+10 Hilarious Video –  About Phobias
+10 Raise Joke
+10 Kiss Joke
+10 The Bathroom Joke
+10 Can You Hear Me??????
+10 Joy Of Marriage Joke
+9 Pinocchio’s Nose Riddle (Think)
+7 Success Joke
+7 LOL Joke
+7 Age Riddle
+7 Ark Joke
+7 The Execution Joke
+7 Blind Man Joke
+6 Funny Therapist Video
+6 Lord Or No Lord?
+6 Poor Husband Joke
+6 Funny Spelling Bee Video
+6 Corn Joke
+6 The Menu Joke
+6 Ear Joke
+6 Death Preparation Joke
+5 Millionaire Joke
+5 Rang A Bell Joke
+5 The Tricky Wife Joke
+5 Robin Joke
+5 Crazy Drunk Joke
+5 God Joke
+5 OOPS?
+5 Enjoy Life Joke
+5 Surgery Joke
+5 Being Polite Joke
+5 Walk The Line Joke
+
+
+Jokes with highest rating
+=========================
+
+
+4.7 April Fools Day Prank
+4.5 Ethics Joke
+4.4 Olden Day Doctors Cartoon
+4.4 Winter Bloopers Video
+4.4 Time!
+4.4 Cute Pick Up Line
+4.4 The Reason I’m Tired!
+4.4 Funny Cat Meme
+4.4 Husband Wife Cartoon
+4.3 Men? Fathers?
+4.3 Hilarious Video –  About Phobias
+4.3 Men And Directions
+4.3 Funny Marshmallow Meme
+4.3 Too Cute – Cute Kid Trying To Drink From A Hose
+4.3 The Men’s Rules
+4.3 Lord Or No Lord?
+4.3 Master Of The House Joke
+4.3 Thinking Tongue Twister
+4.3 Conversation Differences Between Men And Women
+4.3 The Perfect Joke
+4.3 Funny Prank Video
+4.3 Public Education Joke
+4.3 Present Joke
+4.3 Poker Joke
+4.3 Woops Sorry About That
+4.3 Funny Christmas Cartoon
+4.3 Fisherman Tongue Twister
+4.3 Funny Drive Through Video
+4.3 Differences between Men and Women
+4.3 Ten Things I know about you
+4.3 Who’s Worse?
+4.2 Get A Raise Joke
+4.2 The Helpful Husband Cartoon
+4.2 Outhouse Joke
+4.2 Happiness In Marriage?
+4.2 Lawyers Lie Joke
+4.2 One Letter Makes A Big Difference
+4.2 Who can Relate To This?!
+4.2 Marriage Quote
+4.2 Marital Bliss Joke
+4.2 Funny Chicken Meme
+4.2 Burglar Joke
+4.2 Speeding Ticket Joke
+4.2 The Corny Football Joke
+4.2 Bear Joke
+4.2 Swimming Pool Joke
+4.2 The Bathroom Joke
+4.2 Ark Joke
+4.2 An Honest What?
+4.2 I’m Busy Insult
+4.2 Flying Joke
+4.2 Puzzle Joke
+4.2 Heaven Joke
+4.2 Too Corny
+4.2 Be Careful What You Wish For
+4.2 OCD Joke
+4.2 Eyebrows Joke
+4.2 Good Looks Insult
+4.2 Parenting In A Nutshell Joke
+4.2 Can You Hear Me??????
+4.2 Cristmas Musings
+4.2 Homework Joke
+4.2 Interview Joke
+4.2 Charlie Bit Me Cute Video
+4.2 Take Turns Joke
+4.2 The Execution Joke
+4.1 Soap Joke
+4.1 Drunk Driving Joke
+4.1 Stop Complaining!!!
+4.1 Clock Joke
+4.1 The Tricky Wife Joke
+4.1 Enough Is Enough
+4.1 Girl Friend Joke
+4.1 The Appeal
+4.1 Hurdle Joke
+4.1 Amish Joke
+4.1 Talking Bird Joke
+4.1 Frisbee Joke
+4.1 Parking Fine Joke
+4.1 The Real Secret To A Happy Marriage
+4.1 Memory Problems Joke
+4.1 Good for who?
+4.1 Bright Joke
+4.1 Madam Foot
+4.1 Floor Meme
+4.1 Funny Snowman Meme
+4.1 Funny Dad Cartoon
+4.1 Cow Joke
+4.1 The Confused Drunk
+4.1 Funny Dog Picture
+4.1 Dont Argue With A Fool
+4.1 A Thinking Joke (See If You Could Follow It )
+4.1 Wife Insult Joke
+4.1 Stuffed Turkey Joke
+4.1 Blind Man Joke
+4.1 Cheese Thought
+4.0 Men Vs. Woman Joke #2
+4.0 Funny Mother In Law Cartoon
+4.0 Pencil Thought
+4.0 Beautiful Stone Joke
+
+Jokes with most votes
+=====================
+
+1078 Elevator Riddle
+861 Twins Riddle
+724 One Letter Makes A Big Difference
+712 Woops Sorry About That
+674 Heaven Joke
+655 Worlds Best Riddles
+653 Homework Joke
+612 Shadow Joke
+579 Pinocchio’s Nose Riddle (Think)
+566 A Thinking Joke (See If You Could Follow It )
+534 Midget Joke
+525 Clean Restaurant Joke
+504 Corn Joke
+498 Seagull Joke
+484 Best Riddle Of All Time!
+448 The Bathroom Joke
+441 Can You Hear Me??????
+414 Owl Joke
+411 Penguin Joke
+411 Injury Joke
+402 Egg Roll Joke
+391 Lawyers Daughter Joke
+389 Dirty Joke
+380 Adoption Joke
+363 Blind Man Joke
+358 Ground Beef Joke
+350 Drunk Driving Joke
+349 Robin Joke
+343 Age Riddle
+342 Snowman Joke
+336 Garbage Truck Joke
+298 Ear Joke
+296 Thinking Tongue Twister
+296 Pillow Joke
+293 Enough Is Enough
+282 The Execution Joke
+278 Swimming Pool Joke
+273 Ten Things I know about you
+266 Clock Joke
+260 Nacho Cheese Joke
+259 Kidnapping Joke
+258 Anti-Semitism Joke
+258 Kangaroo Joke
+245 Grandma Joke
+237 Millionaire Joke
+236 Surgery Joke
+232 Car Door Joke
+228 Getting Overpaid Joke
+224 Get A Raise Joke
+220 Pork Joke
+212 The Real Secret To A Happy Marriage
+207 Peanut Joke
+205 The Tricky Wife Joke
+202 Fly Joke
+200 Top Ten One Liners
+198 Toilet Joke
+196 Lost Joke
+195 Wanna Date Comeback
+194 Lord Or No Lord?
+193 Dance Refusal Comeback
+192 Bright Joke
+191 Banana Joke
+191 Memory Problems Joke
+

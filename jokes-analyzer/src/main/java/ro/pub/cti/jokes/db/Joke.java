@@ -3,6 +3,7 @@ package ro.pub.cti.jokes.db;
 
 
 import java.util.HashSet;
+import java.util.Objects;
 import java.util.Set;
 
 /**
@@ -106,6 +107,64 @@ public class Joke  implements java.io.Serializable {
     
     public void setComments(Set comments) {
         this.comments = comments;
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 23 * hash + Objects.hashCode(this.id);
+        hash = 23 * hash + Objects.hashCode(this.title);
+        hash = 23 * hash + Objects.hashCode(this.content);
+        hash = 23 * hash + Objects.hashCode(this.rating);
+        hash = 23 * hash + Objects.hashCode(this.votes);
+        hash = 23 * hash + Objects.hashCode(this.likes);
+        hash = 23 * hash + Objects.hashCode(this.url);
+        hash = 23 * hash + Objects.hashCode(this.commentsCount);
+        hash = 23 * hash + Objects.hashCode(this.jokeCategories);
+        hash = 23 * hash + Objects.hashCode(this.comments);
+        return hash;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Joke other = (Joke) obj;
+        if (!Objects.equals(this.id, other.id)) {
+            return false;
+        }
+        if (!Objects.equals(this.title, other.title)) {
+            return false;
+        }
+        if (!Objects.equals(this.content, other.content)) {
+            return false;
+        }
+        if (!Objects.equals(this.rating, other.rating)) {
+            return false;
+        }
+        if (!Objects.equals(this.votes, other.votes)) {
+            return false;
+        }
+        if (!Objects.equals(this.likes, other.likes)) {
+            return false;
+        }
+        if (!Objects.equals(this.url, other.url)) {
+            return false;
+        }
+        if (!Objects.equals(this.commentsCount, other.commentsCount)) {
+            return false;
+        }
+        if (!Objects.equals(this.jokeCategories, other.jokeCategories)) {
+            return false;
+        }
+        if (!Objects.equals(this.comments, other.comments)) {
+            return false;
+        }
+        return true;
     }
 
 
