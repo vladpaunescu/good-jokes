@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">25</votes>
+    <title type="str">Interview Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3386/interview-joke/</url>
+    <content type="str">Always self conscious of his lack of ears, whenever Bob would interview a future employee, he would as him “what do you notice different about me?”.  If the employee would mention his lack of ears (which often they did), it would be a for sure “no” for the job.  However if the employee would mention something else, he would hire the guy.  
+One year, at the yearly Holiday business party, Bob approached his most recent hireling and asked him if he remembered the last question he had asked him when interviewing him for the job.  “Sure I do” was his reply. “You asked me what was different about you and I said that you were wearing contact lenses.”  “Of all things to answer”, Bob questioned curiously, “why was that the thing you noticed?”  “Well, to be honest, it was quite simple.  How could you possibly be wearing glasses if you don’t have any ears!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">580</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">204</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Work Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">859</length>
+    <POS_histogram type="str">0.125,0.175,0.038,0.013,0.038,0.0,0.113,0.0,0.013,0.138,0.0,0.0,0.225,0.075,0.05,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.75</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.065</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.8</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.545</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,2,1,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.35,0.388,0.125,0.138,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.249</quote>
+</root>

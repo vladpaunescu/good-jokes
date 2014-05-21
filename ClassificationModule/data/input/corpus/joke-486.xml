@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.0</rating>
+    <votes type="str">51</votes>
+    <title type="str">Exercise Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2842/exercise-joke/</url>
+    <content type="str">At the urging of Harry’s wife and doctor, 50 year old Harry finally made it to the gym. After consulting with one of the trainers, Harry decided to try out a steep treadmill. “Ok”, said the trainer “I’m going to set it for ten minutes, if you want to go longer just press start again.” At first Harry was doing fine but after 5 seconds he started getting tired, and after a minute he jumped off gasping for breath. Walking to the side to sit down, he passed by a friend of his. “Man”, said Harry. “I could barely last a full minute on that treadmill.” “Alright alright”, said his buddy, “no reason to brag!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">517</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">190</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Old People Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">608</length>
+    <POS_histogram type="str">0.127,0.143,0.111,0.0,0.032,0.0,0.079,0.0,0.0,0.111,0.0,0.0,0.27,0.048,0.079,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.64</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.038</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.923</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.6</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.429</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,5,1,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.397,0.413,0.079,0.111,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.122</quote>
+</root>

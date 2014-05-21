@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.4</rating>
+    <votes type="str">125</votes>
+    <title type="str">Grandmother Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2723/grandmother-joke/</url>
+    <content type="str">It was Timmy’s 5th birthday and he was joyfully opening all the presents he received. He saved the biggest for last, so it took a while until he got to opening Grandma’s present. “Wow” Timmy exclaimed in delight, upon seeing the mini drum set that his Grandmother got for him. “Thanks Grandma this is just what I wanted.” It was after Timmy went to bed that Timmy’s mother approached her mother. “Ma, I’m surprised at you, don’t you remember how it used to drive you crazy when we used to play the drums in the house growing up?” Grandma smiled and then said “I remember, of course I remember.” 
+</content>
+    <comments_count type="str">2</comments_count>
+    <id type="str">395</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">596</length>
+    <POS_histogram type="str">0.033,0.246,0.066,0.016,0.098,0.016,0.066,0.0,0.0,0.082,0.0,0.016,0.148,0.066,0.148,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.5</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.034</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.167</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,1,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.361,0.475,0.066,0.098,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.435</quote>
+</root>

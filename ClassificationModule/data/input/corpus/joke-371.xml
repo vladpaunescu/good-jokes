@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.0</rating>
+    <votes type="str">135</votes>
+    <title type="str">Landlord Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3582/landlord-joke/</url>
+    <content type="str">“Sir you have got to help!” said the tearful man at the door. “There is a family that I know very well that is in desperate need of money. The Father has been out of a job for over a year, they have five kids at home with barely a bit of food to eat. The worst part is, that they are about to kicked out of the house and they will be left on the streets without a roof over their heads!” The man concluded with one last heart wrenching sob.  
+“Well,” said the man at the door, “that really is a sad story.  Why don’t you come inside and we’ll talk about it a little more.”
+“So how much money is needed exactly?” asked the man when they were both seated.
+“Oh it’s really terrible”, said the man starting up again, “why just for the rent $3000 is needed by tomorrow otherwise they’ll be kicked out onto the streets.”
+“How do you know so much about this situation?” asked the man as he reached for his check book.
+“Well,” said the man breaking down once more “they are my tenants.”
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">391</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">979</length>
+    <POS_histogram type="str">0.058,0.078,0.019,0.087,0.087,0.078,0.146,0.01,0.0,0.078,0.01,0.01,0.272,0.049,0.019,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.029</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.119</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.976</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.813</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.2</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,5,3,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.34,0.408,0.155,0.097,</simple_POS_histo>
+    <insulting type="str">0.01</insulting>
+    <quote type="str">0.326</quote>
+</root>

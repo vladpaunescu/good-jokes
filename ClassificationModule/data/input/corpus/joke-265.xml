@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.3</rating>
+    <votes type="str">69</votes>
+    <title type="str">Happy Birthday Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/1949/happy-birthday-joke/</url>
+    <content type="str">After much convincing from my husband, I finally agreed to call an old family friend to sing her happy birthday. It was only after I finished singing, that the voice at the other end of the line informed me, that it was the wrong number.
+“Oh I’m sorry” I said, embarrassed. “It’s ok”, the voice said “you can use all of the practice you can get!” 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">283</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">147</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Birthday Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">348</length>
+    <POS_histogram type="str">0.114,0.2,0.0,0.0,0.029,0.029,0.057,0.0,0.0,0.229,0.0,0.0,0.343,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.833</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.25</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,3,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.343,0.371,0.057,0.229,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.101</quote>
+</root>

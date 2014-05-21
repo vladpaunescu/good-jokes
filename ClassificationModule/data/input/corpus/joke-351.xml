@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.3</rating>
+    <votes type="str">32</votes>
+    <title type="str">Jury Duty Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2972/jury-duty-joke/</url>
+    <content type="str">It was Sally’s first time going for jury duty and she was a little bit apprehensive. “I would just like you to know” said Sally as soon as she was in front of the judge “that I feel very strongly that capital punishment is morally unjust and incorrect.” “That’s OK , said the judge “capital punishment is not a possibility in this case so it’s perfectly fine for you to serve on this jury.” “What’s the case about?” Asked Sally. “Well Mrs. Smith is filing a suit against her husband for gambling away the money she had saved for remodeling her bathroom”, replied the judge. “Alright” replied Sally “I’ll serve on this one, I may have been wrong about the capital punishment thing after all.”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">371</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">164</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">176</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Women Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">692</length>
+    <POS_histogram type="str">0.068,0.11,0.055,0.041,0.014,0.082,0.11,0.0,0.0,0.151,0.0,0.0,0.274,0.0,0.096,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.778</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.148</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.926</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.625</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.364</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,13,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.37,0.37,0.11,0.151,</simple_POS_histo>
+    <insulting type="str">0.014</insulting>
+    <quote type="str">0.246</quote>
+</root>

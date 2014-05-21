@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">27</votes>
+    <title type="str">Marital Bliss Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3256/marital-bliss-joke/</url>
+    <content type="str">“So Grandpa” asked Dave at his engagement party “your marriage to Grandma is legendary everyone talks about how you two get along so well and never fight, what’s the secret to your marital success?”
+“Well” said Grandpa Joe after taking a deep puff on his cigar “it all started on the way home from our wedding, we hadn’t gone but a mile when the horse started giving us trouble I gave the horse a little whip and that’s when I heard your Grandma say in a low voice “that’s strike one.” A bit later the horse stopped again “that’s strike two” she said. The third time it stopped she grabbed my shotgun out of my holster and shot it in the head.
+I was in shock!  “What in the world was that all about?” I had protested at the time.  “That’s strike one!”  she said back to me.  ”And that is what I owe our marital success to.”
+ 
+ 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">344</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">159</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">163</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Wedding Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">828</length>
+    <POS_histogram type="str">0.012,0.193,0.024,0.024,0.024,0.084,0.096,0.0,0.0,0.084,0.0,0.0,0.386,0.012,0.06,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.763</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.2</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.75</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.429</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">2,7,2,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.458,0.361,0.096,0.084,</simple_POS_histo>
+    <insulting type="str">0.012</insulting>
+    <quote type="str">0.281</quote>
+</root>

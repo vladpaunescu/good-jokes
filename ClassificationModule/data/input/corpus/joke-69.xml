@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.6</rating>
+    <votes type="str">150</votes>
+    <title type="str">The Bar Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/615/confused-drunk/</url>
+    <content type="str">A man walks into a bar obviously stone drunk, and asks for a drink. Sorry the bartender but you obviously already had a little to much to drink. Fuming mad the drunk walks out the front door and walks into the side door. “Can I have a drink please.”  “Sorry” the bartender says “but you can’t have a drink here.” The drink walks out and goes in through the back door. “Can I please have a drink.” “Enough!” The bartender screamed “I told You No Drinks!” The Drunk looks at the bartender closely and exclaimed “Darn! how many bars you work at.”   
+</content>
+    <comments_count type="str">2</comments_count>
+    <id type="str">71</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">125</subcategory_id>
+            <category_id type="str">117</category_id>
+            <subcategory_name type="str">Bar Jokes</subcategory_name>
+            <category_name type="str">Drunk Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">547</length>
+    <POS_histogram type="str">0.105,0.053,0.018,0.018,0.018,0.14,0.105,0.0,0.0,0.175,0.0,0.0,0.281,0.018,0.053,0.018,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.762</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.2</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.333</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.1</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,0,</professional_communities_histogram>
+    <racist_slur type="str">0.035</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.368,0.351,0.105,0.175,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.274</quote>
+</root>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.6</rating>
+    <votes type="str">179</votes>
+    <title type="str">Pony Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/1872/pony-joke/</url>
+    <content type="str">Q. What did the pony say when it had a sore throat?
+A. I apologize, I am a little horse!
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">212</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">140</subcategory_id>
+            <category_id type="str">121</category_id>
+            <subcategory_name type="str">Corny Jokes</subcategory_name>
+            <category_name type="str">Kids Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">89</length>
+    <POS_histogram type="str">0.0,0.154,0.0,0.0,0.231,0.0,0.0,0.0,0.0,0.154,0.0,0.0,0.308,0.0,0.154,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.667</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.2</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,1,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.462,0.385,0.0,0.154,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

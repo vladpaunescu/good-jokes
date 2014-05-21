@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.8</rating>
+    <votes type="str">39</votes>
+    <title type="str">Restaurant Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3528/restaurant-joke/</url>
+    <content type="str">Sarah, Rosemary, and Anne went to a restaurant together to celebrate old times.
+“I’ll take some Tom Yum soup” said Sarah to the waiter. “Nah” said the waiter waving his hand “you probably won’t like it, it’s way too spicy! Why don’t you  try the Garden Vegetable Soup?  ”Alright,” said Sarah. “You know better than me, after all you are the waiter!”
+“And how about you Ma’am?” said the waiter turning to Rosemary. “I think I’ll take the poached fish,” said Rosemary, after carefully examining the menu.  ”I don’t really think you’ll like it,” said the waiter, “it’s very bland. Why don’t you try the Rib Steak with Garlic Marinade? “OK, I’ll take that instead,”  said Rosemary.
+“And how about you?” said the waiter turning to Anne. “I don’t know, I can’t decide,” said Anne looking up from the menu, “what do you recommend?”
+“Recommend?” said the waiter with a surprised look on his face, “who has time to recommend stuff smack in the middle of dinner hour!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">295</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">150</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Food Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">959</length>
+    <POS_histogram type="str">0.124,0.105,0.048,0.0,0.105,0.029,0.124,0.0,0.0,0.048,0.01,0.0,0.229,0.01,0.171,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.721</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.14</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.977</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.538</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,15,4,</professional_communities_histogram>
+    <racist_slur type="str">0.029</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.41,0.41,0.124,0.057,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.4</quote>
+</root>

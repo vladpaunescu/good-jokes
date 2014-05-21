@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.1</rating>
+    <votes type="str">212</votes>
+    <title type="str">The Real Secret To A Happy Marriage</title>
+    <url type="str">http://www.greatcleanjokes.com/885/the-real-secret-to-a-happy-marriage/</url>
+    <content type="str">Jerry was at a marriage seminar, and the leader of the seminar, a lady, was asking everybody how long they were married for. When it was Jerry’s turn Jerry said that he was married for almost 50 years. “Wow”  the leader gushed “that’s amazing, perhaps you can take a few minutes to share some insights with everybody, how you stay married to the same woman for so long. “Well,” Jerry said after thinking for a few moments, “I try to treat her nice, buy her presents, take her on trips…………. and best of all, for our 25th anniversary I took her to the Bahamas.” “Well that’s really beautiful, and a true inspiration for all of us” the lady said “maybe you can tell us what you are going to do for your 50th anniversary” she said with a smile “Well” Jerry said “I’m thinking of going back to the Bahamas to pick her up.”
+</content>
+    <comments_count type="str">3</comments_count>
+    <id type="str">338</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">158</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">818</length>
+    <POS_histogram type="str">0.1,0.138,0.063,0.05,0.05,0.025,0.1,0.0,0.0,0.113,0.0,0.013,0.188,0.075,0.063,0.025,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.571</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.088</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.625</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.3</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,8,7,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.35,0.425,0.1,0.125,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.214</quote>
+</root>

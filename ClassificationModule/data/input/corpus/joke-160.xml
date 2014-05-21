@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">120</votes>
+    <title type="str">Dear Santa Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2545/dear-santa-joke/</url>
+    <content type="str">Dear santa,
+For this year I’m requesting, a fat bank account, and a small body.
+P.S. This year, please don’t mix them up, like you did last year!
+</content>
+    <comments_count type="str">2</comments_count>
+    <id type="str">178</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">136</subcategory_id>
+            <category_id type="str">120</category_id>
+            <subcategory_name type="str">Christmas Jokes</subcategory_name>
+            <category_name type="str">Holiday Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">146</length>
+    <POS_histogram type="str">0.105,0.053,0.053,0.0,0.105,0.0,0.053,0.0,0.0,0.158,0.0,0.0,0.316,0.0,0.158,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.778</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,3,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.474,0.316,0.053,0.158,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

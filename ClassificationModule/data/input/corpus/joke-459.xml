@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">8</votes>
+    <title type="str">Casino Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2959/casino-joke/</url>
+    <content type="str">Did you hear the story about the middle aged lady who went to the casino?  Sandy went to the casino for the first time and ended up by a table playing roulette.  ”How does one decide which number to pick?”  She wondered aloud.  ”I picked my age” suggested an older gentleman on her left.  So Sandy decided to pick the number thirty two.  The Croupier gave the wheel a spin, it landed on forty seven, and Sandy fell over in a faint.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">490</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">176</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Women Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">432</length>
+    <POS_histogram type="str">0.071,0.262,0.024,0.0,0.024,0.024,0.048,0.0,0.0,0.095,0.024,0.0,0.333,0.0,0.095,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.778</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.059</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.6</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">2,0,1,</professional_communities_histogram>
+    <racist_slur type="str">0.048</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.429,0.405,0.048,0.119,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

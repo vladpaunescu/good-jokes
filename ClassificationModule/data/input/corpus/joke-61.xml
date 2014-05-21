@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.5</rating>
+    <votes type="str">169</votes>
+    <title type="str">Old Age Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/1590/old-age-joke/</url>
+    <content type="str">An Old man went to the doctor complaining of a terrible pain in his leg. “I am afraid it’s just old age”, replied the doctor, “there is nothing we can do about it.” “That can’t be” fumed the old man, “you don’t know what you are doing.” “How can you possibly know I am wrong?” countered the doctor. “Well it’s quite obvious,” the old man replied, “my other leg is fine, and it’s the exact same age!”         
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">63</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">122</subcategory_id>
+            <category_id type="str">116</category_id>
+            <subcategory_name type="str">Medical Jokes</subcategory_name>
+            <category_name type="str">Doctor Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">409</length>
+    <POS_histogram type="str">0.061,0.102,0.041,0.0,0.102,0.102,0.102,0.0,0.0,0.245,0.0,0.0,0.245,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.1</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.9</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.6</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">3,1,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.245,0.408,0.102,0.245,</simple_POS_histo>
+    <insulting type="str">0.02</insulting>
+    <quote type="str">0.359</quote>
+</root>

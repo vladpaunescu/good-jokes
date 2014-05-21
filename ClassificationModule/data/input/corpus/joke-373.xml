@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.0</rating>
+    <votes type="str">69</votes>
+    <title type="str">Bitter Divorce Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2874/bitter-divorce-joke/</url>
+    <content type="str">It was a bitter divorce, after four years of marriage and two children it was over. Sam showed up in court together with his ex to see what the verdict would be. Finally after a long court case the verdict was decided. “Ok”, said the judge, turning to Sam, “I am rewarding your ex-wife Ann $470 dollars a month.” “That’s really kind of you, and I really appreciate it” said Sam “I’ll try to send her a little bit from time to time myself.”
+</content>
+    <comments_count type="str">2</comments_count>
+    <id type="str">393</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">174</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Men Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">440</length>
+    <POS_histogram type="str">0.087,0.13,0.022,0.022,0.043,0.022,0.109,0.0,0.0,0.087,0.0,0.0,0.326,0.065,0.087,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.045</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.591</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,9,1,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.478,0.326,0.109,0.087,</simple_POS_histo>
+    <insulting type="str">0.022</insulting>
+    <quote type="str">0.23</quote>
+</root>

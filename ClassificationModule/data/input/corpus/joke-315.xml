@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">47</votes>
+    <title type="str">Flower Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2737/flower-joke/</url>
+    <content type="str">Harry and Barbra’s marriage has been on the rocks for a while, so when they hear about a marriage seminar being given in their neighborhood they decide to attend. “One of the most important things in marriage”, said the speaker, “is to get to really know your spouse well. For example,” continued the speaker, “How many of you know what’s your wife’s favorite type of flower?” Harry leaned over to Barbara and whispered, “it’s gold medal all-purpose flour isn’t it?”
+</content>
+    <comments_count type="str">2</comments_count>
+    <id type="str">335</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">158</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">159</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">467</length>
+    <POS_histogram type="str">0.061,0.082,0.02,0.041,0.061,0.102,0.082,0.0,0.02,0.082,0.0,0.0,0.327,0.041,0.082,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.545</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.222</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.944</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.8</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.25</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,1,2,</professional_communities_histogram>
+    <racist_slur type="str">0.02</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.449,0.367,0.102,0.082,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.375</quote>
+</root>

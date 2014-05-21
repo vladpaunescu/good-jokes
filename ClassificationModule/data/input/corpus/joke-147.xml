@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.9</rating>
+    <votes type="str">10</votes>
+    <title type="str">Enjoy Life!</title>
+    <url type="str">http://www.greatcleanjokes.com/272/funny-qoutes-2/</url>
+    <content type="str">Do not take life too seriously – you will never get out of it alive.
+ Elbert Hubbard
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">165</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">134</subcategory_id>
+            <category_id type="str">119</category_id>
+            <subcategory_name type="str">Cute Quotes</subcategory_name>
+            <category_name type="str">Funny Quotes</category_name>
+        </item>
+    </categories>
+    <length type="str">85</length>
+    <POS_histogram type="str">0.273,0.0,0.0,0.0,0.0,0.0,0.364,0.0,0.0,0.091,0.0,0.0,0.091,0.0,0.182,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.667</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.333</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.75</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">1.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,1,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.273,0.273,0.364,0.091,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

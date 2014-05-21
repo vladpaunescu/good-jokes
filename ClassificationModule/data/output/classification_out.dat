@@ -1,0 +1,25 @@
+@relation data/input/test/
+
+@attribute length numeric
+@attribute QA numeric
+@attribute n_sexual_con numeric
+@attribute n_multiple_me numeric
+@attribute v_sexual_con numeric
+@attribute v_multiple_me numeric
+@attribute adj_sexual_con numeric
+@attribute adj_multiple_me numeric
+@attribute adv_sexual_con numeric
+@attribute adv_multiple_me numeric
+@attribute racist_slur numeric
+@attribute sexism numeric
+@attribute insulting numeric
+@attribute quote numeric
+@attribute comments numeric
+@attribute class {GOOD_JOKE,BAD_JOKE}
+
+@data
+526,0,0,0.65,0.136,0.955,0,0.818,0,0.6,0.017,0,0,0.369,0,BAD_JOKE
+873,1,0,0.811,0.026,1,0,0.545,0,1,0,0,0,0.216,0,BAD_JOKE
+375,0,0,0.955,0,0.889,0,0.333,0,0,0,0,0,0.179,0,BAD_JOKE
+2565,1,0,0.81,0.102,0.972,0,0.684,0,0.286,0.027,0,0.008,0.019,7,GOOD_JOKE
+485,0,0,0.773,0.2,0.867,0,1,0,0.286,0,0,0.021,0.208,0,BAD_JOKE

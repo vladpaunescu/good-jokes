@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.3</rating>
+    <votes type="str">296</votes>
+    <title type="str">Thinking Tongue Twister</title>
+    <url type="str">http://www.greatcleanjokes.com/2718/thinking-tongue-twister/</url>
+    <content type="str">I thought a thought.
+But the thought I thought wasn’t the thought I thought I thought.
+If the thought I thought I thought had been the thought I thought, I wouldn’t have thought so much.
+</content>
+    <comments_count type="str">22</comments_count>
+    <id type="str">151</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">133</subcategory_id>
+            <category_id type="str">118</category_id>
+            <subcategory_name type="str">Tongue Twisters</subcategory_name>
+            <category_name type="str">Fun Stuff</category_name>
+        </item>
+    </categories>
+    <length type="str">187</length>
+    <POS_histogram type="str">0.048,0.429,0.0,0.095,0.0,0.0,0.19,0.0,0.0,0.0,0.0,0.0,0.238,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.167</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,8,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.238,0.571,0.19,0.0,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

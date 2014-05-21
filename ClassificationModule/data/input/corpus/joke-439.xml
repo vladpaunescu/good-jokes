@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.7</rating>
+    <votes type="str">27</votes>
+    <title type="str">Seal Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2433/seal-joke/</url>
+    <content type="str">I was eagerly drinking in the attention in my grandson’s second grade class telling them what it was like to be a Navy Seal. My bubble was soon burst when I asked if their are any questions. “So” questioned one girl, “can you balance a ball on your nose?”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">469</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">173</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Cute Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">256</length>
+    <POS_histogram type="str">0.077,0.192,0.038,0.0,0.038,0.0,0.115,0.0,0.0,0.038,0.0,0.0,0.385,0.038,0.077,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.923</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.333</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,2,</professional_communities_histogram>
+    <racist_slur type="str">0.038</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.5,0.346,0.115,0.038,</simple_POS_histo>
+    <insulting type="str">0.038</insulting>
+    <quote type="str">0.098</quote>
+</root>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">96</votes>
+    <title type="str">Speeding Ticket Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3144/speeding-ticket-joke/</url>
+    <content type="str">So there was this female business executive who was late for a meeting.
+She is going 65 on a street where the speed limit is 40.
+A cop pulls her over and says “ma’am, can I please see your license?”
+She says “I’m sorry, officer, but I got it revoked two years ago for drunk driving.”
+His brow furrows and he straightens up. “Well, can I please see the registration of your car?”
+She says “I stole the car and I killed the driver; he’s in the trunk.”
+“Ma’am, DON’T MOVE, I’m calling for backup.”
+He mutters furiously into his walkie-talkie…
+Five minutes later, half the squad pulls up, the Chief of Police walks over to the woman’s window.
+“Ma’am, can I see your license?” he asks sternly.
+“Of course, officer,” she smiles demurely and pulls out a license from her purse.
+He squints warily at it. “This looks legitimate,” he mumbles.
+“Can I see the registration to this car?”
+She pulls it out of the glove compartment and hands it to him.
+“Ma’am, stand back!”
+He bangs open the trunk of the car and flinches: but it was completely empty…
+The woman brandishes a finger at the first cop and says accusingly, “And I’ll bet that liar told you I was speeding too!!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">322</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">155</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Police Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">190</subcategory_id>
+            <category_id type="str">130</category_id>
+            <subcategory_name type="str">Old People Jokes</subcategory_name>
+            <category_name type="str">Senior Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">1160</length>
+    <POS_histogram type="str">0.072,0.081,0.027,0.0,0.027,0.198,0.099,0.0,0.0,0.081,0.0,0.0,0.351,0.036,0.027,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.826</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.022</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.978</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.545</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.111</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,6,5,</professional_communities_histogram>
+    <racist_slur type="str">0.027</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.414,0.405,0.099,0.081,</simple_POS_histo>
+    <insulting type="str">0.018</insulting>
+    <quote type="str">0.439</quote>
+</root>

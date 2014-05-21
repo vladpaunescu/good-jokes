@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">112</votes>
+    <title type="str">Wise Guy Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2833/wise-guy-joke/</url>
+    <content type="str">As a 7th grade biology teacher, I was teaching my class about the flow of blood in the body. After my lecture I asked the class the following: “Why is it that if I would turn upside down, my face would turn red since the blood would flow to my head, but when I stand upright my feet don’t turn red?” I was taken aback when a boy blurted out, “that’s cuz your feet aint empty!”.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">511</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">189</subcategory_id>
+            <category_id type="str">129</category_id>
+            <subcategory_name type="str">Teacher Jokes</subcategory_name>
+            <category_name type="str">School Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">378</length>
+    <POS_histogram type="str">0.098,0.098,0.024,0.024,0.049,0.049,0.098,0.0,0.0,0.122,0.0,0.0,0.39,0.049,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.889</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.071</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.929</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,7,</professional_communities_histogram>
+    <racist_slur type="str">0.146</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.439,0.341,0.098,0.122,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.524</quote>
+</root>

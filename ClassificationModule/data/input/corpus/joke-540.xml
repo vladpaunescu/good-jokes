@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.8</rating>
+    <votes type="str">62</votes>
+    <title type="str">How A Lawyer Bills Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2254/sneeky-lawyer-joke/</url>
+    <content type="str">A doctor and a lawyer were both at a reception. The lawyer noticed that people were constantly coming over to the doctor. “Why are so many people coming over to you?” asked the lawyer. “It’s terrible,” sighed the doctor, “ever since I became a doctor I don’t have a moments peace, people are constantly coming over to me for medical advice.” “I’ll tell you what I do,” said the lawyer with a sneer , “I send them a bill in the mail.” The doctor agreed with the lawyer that this was a good solution. The next day upon mailing the bills he was surprised to see a letter from the lawyer, he was even more surprised when he opened it………….it was a bill!  
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">571</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">202</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Lawyer Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">651</length>
+    <POS_histogram type="str">0.045,0.197,0.061,0.015,0.076,0.015,0.091,0.015,0.0,0.091,0.0,0.0,0.318,0.076,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.731</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.037</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.857</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">6,10,4,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.394,0.409,0.106,0.091,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.28</quote>
+</root>

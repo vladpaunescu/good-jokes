@@ -14,6 +14,8 @@ public abstract class AbstractClassifier {
 	protected Classifier classifier;
 	protected Clusterer clusterer;
 	
+	public AbstractClassifier() {}
+	
 	/**
 	 * Creates classifier by loading it from file.
 	 * 

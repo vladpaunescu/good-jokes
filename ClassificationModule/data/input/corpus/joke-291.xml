@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">56</votes>
+    <title type="str">Good Men Are Hard To Find!</title>
+    <url type="str">http://www.greatcleanjokes.com/1046/good-men-are-hard-to-find/</url>
+    <content type="str">A lady rubbed a bottle and a genie  popped out. “You have one wish” said the genie. “Hey” countered the lady “I thought I get three wishes?” “Not from  me” said the genie “I’m not that powerful.” “OK” responded the lady taking out a map, “I am making a wish for  peace between this country……… .” “I’m really sorry” said the genie,  “but I am not powerful enough for that.”  “That’s fine” said the lady, “instead I would like to find a cool, caring man, who loves children, and cooking.” The genie sighed and said “alright….. let me see that map again.”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">310</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">152</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Genie Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">174</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Men Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">553</length>
+    <POS_histogram type="str">0.085,0.169,0.051,0.017,0.085,0.034,0.119,0.0,0.0,0.102,0.0,0.0,0.305,0.034,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.05</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.7</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.154</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.286</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.167</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,6,1,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.339,0.441,0.119,0.102,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.537</quote>
+</root>

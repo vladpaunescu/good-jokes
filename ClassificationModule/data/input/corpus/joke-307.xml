@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">113</votes>
+    <title type="str">Feeling Pregnant Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3733/feeling-pregnant-joke/</url>
+    <content type="str">“Ok everyone,” said the the instructor at the birthing class trying to get everyone’s attention. “We are going to do an exercise now, that’s purpose is to  help the men sympathize with their partners.”
+“We have here what’s called a pregnancy suit,” said the woman instructor, holding up an artificial stomach with a strap.  ”This imitates the feeling of being pregnant.” Which Husband volunteers to be the first one to try it on?”
+“I will” said one man, taking the suit and trying it on.  ”This isn’t too bad said the man walking around. I think I could get used to this.” “Ok”, said the instructor smiling, “now I would like you to bend down and pick up my pen from the floor.”
+“You want me to pick it up?”  he said hesitantly,  ”just as I would if I was pregnant?” “Yes!” said the instructor.
+“Honey,” said the man turning to his spouse “do you mind picking up that pen for me?”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">327</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">158</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">162</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Relationship Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">164</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">881</length>
+    <POS_histogram type="str">0.125,0.102,0.114,0.023,0.068,0.057,0.091,0.0,0.0,0.068,0.0,0.0,0.295,0.034,0.023,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.677</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.047</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.75</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,14,3,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.352,0.489,0.091,0.068,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.554</quote>
+</root>

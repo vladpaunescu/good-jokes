@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.7</rating>
+    <votes type="str">33</votes>
+    <title type="str">Employee Insults</title>
+    <url type="str">http://www.greatcleanjokes.com/3384/employee-insults/</url>
+    <content type="str">“Since my last report, this employee has reached rock bottom and has started to dig.”
+“I would not allow this employee to breed.”
+“Works well when under constant supervision and cornered like a rat in a trap.”
+“He would be out of his depth in a parking lot puddle.”
+“This employee is depriving a village somewhere of an idiot.”
+“This employee should go far, and the sooner he starts, the better.”
+“I would like to go hunting with him sometime.”
+“He brings a lot of joy whenever he leaves the room.”
+“When his I.Q. reaches 50, he should sell.”
+“If you see two people talking and one looks bored, he’s the other one.”
+“Donated his brain to science before he was done using it.”
+“If he were any more stupid, he’d have to be watered twice a week.”
+“If you gave him a penny for his thoughts, you’d get change.”
+“If you stand close enough to him, you can hear the ocean.”
+“Takes him two hours to watch 60 Minutes.”
+“The wheel is turning, but the hamster is dead.”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">28</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">118</subcategory_id>
+            <category_id type="str">115</category_id>
+            <subcategory_name type="str">Funny Insults</subcategory_name>
+            <category_name type="str">Disses</category_name>
+        </item>
+    </categories>
+    <length type="str">958</length>
+    <POS_histogram type="str">0.143,0.033,0.044,0.077,0.022,0.132,0.077,0.011,0.0,0.066,0.022,0.0,0.308,0.033,0.022,0.011,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.765</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.122</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.976</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.625</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,0,3,</professional_communities_histogram>
+    <racist_slur type="str">0.011</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.374,0.451,0.088,0.088,</simple_POS_histo>
+    <insulting type="str">0.044</insulting>
+    <quote type="str">0.498</quote>
+</root>

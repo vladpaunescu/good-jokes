@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.3</rating>
+    <votes type="str">31</votes>
+    <title type="str">Top Ten Things Men Understand About Women</title>
+    <url type="str">http://www.greatcleanjokes.com/1461/top-ten-things-men-understand-about-women/</url>
+    <content type="str">1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">492</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">176</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Women Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">31</length>
+    <POS_histogram type="str">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.0,0.0,0.0,0.0,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

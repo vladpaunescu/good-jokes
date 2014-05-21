@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.1</rating>
+    <votes type="str">15</votes>
+    <title type="str">The Appeal</title>
+    <url type="str">http://www.greatcleanjokes.com/1333/the-appeal/</url>
+    <content type="str">It was a Tuesday when the judge passed a verdict against a certain lawyers client. On Wednesday the lawyer rushed into the judges chambers. ” Your honor I just found out new information and I would like to file an appeal.” “What did you find out?”, asked the judge. After a few moments of silence the lawyer responded “well I found out my client has another $5000 dollars.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">574</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">202</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Lawyer Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">373</length>
+    <POS_histogram type="str">0.086,0.229,0.0,0.0,0.0,0.029,0.057,0.0,0.0,0.086,0.0,0.0,0.314,0.143,0.057,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.667</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.083</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.667</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,13,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.514,0.343,0.057,0.086,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.252</quote>
+</root>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.5</rating>
+    <votes type="str">157</votes>
+    <title type="str">Watch What You Say!</title>
+    <url type="str">http://www.greatcleanjokes.com/1722/watch-what-you-say/</url>
+    <content type="str">As a first grade teacher, I often hear from my students things going on in their family. Harry’s mother was expecting, and naturally Harry was very excited about it. When one day Harry stopped talking about it I was concerned and questioned him why. “Well”, Harry said, “my mother told me I could feel the baby moving in her stomach, I thing she ate it!” 
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">313</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">153</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Little Johnny Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">173</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Cute Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">356</length>
+    <POS_histogram type="str">0.029,0.229,0.114,0.029,0.029,0.0,0.086,0.0,0.0,0.057,0.0,0.0,0.257,0.057,0.114,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.733</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.133</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,3,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.429,0.429,0.086,0.057,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.053</quote>
+</root>

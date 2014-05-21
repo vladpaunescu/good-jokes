@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">50</votes>
+    <title type="str">Father In Law Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3645/father-law-joke/</url>
+    <content type="str">“Mom, Dad, sit down.  I have something very important to tell you,” said Samantha, upon her return home from college after graduation. “I met a guy  who lives near the college that I really like and we decided we are going to get married!”
+“Oh Samantha! I am so happy for you!” Gushed her Mom giving her a big hug, “I hope you two will be really happy together! I can’t wait to meet him!”
+“Tell us more about him” said her Dad, “does he have any money?”
+“Oh Dad! Is that all you men ever think about?
+That was the first question he asked me about you too!”
+ 
+ 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">353</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">162</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Relationship Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">561</length>
+    <POS_histogram type="str">0.123,0.123,0.035,0.018,0.105,0.053,0.14,0.0,0.0,0.088,0.018,0.0,0.211,0.018,0.07,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.529</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.115</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.875</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,3,2,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.298,0.456,0.14,0.105,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.439</quote>
+</root>

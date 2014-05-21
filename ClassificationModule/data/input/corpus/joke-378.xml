@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.4</rating>
+    <votes type="str">380</votes>
+    <title type="str">Adoption Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2648/adoption-joke/</url>
+    <content type="str">A woman has twins and gives them up for adoption.
+One of them goes to a family in Egypt and is named “Ahmal.”
+The other goes to a family in Spain; they name him “Juan.”
+Years later, Juan sends a picture of himself to his birth mother.
+Upon receiving the picture, she tells her husband that she wishes
+she also had a picture of Ahmal.  Her husband responds,
+They’re twins! If you’ve seen Juan, you’ve seen Ahmal.”
+</content>
+    <comments_count type="str">11</comments_count>
+    <id type="str">398</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">413</length>
+    <POS_histogram type="str">0.0,0.023,0.023,0.07,0.093,0.209,0.047,0.0,0.0,0.023,0.0,0.0,0.256,0.07,0.186,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.591</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.278</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,0,2,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.512,0.419,0.047,0.023,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.143</quote>
+</root>

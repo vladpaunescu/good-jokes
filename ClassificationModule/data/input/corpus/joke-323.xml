@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">42</votes>
+    <title type="str">Gambling Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3531/gambling-joke/</url>
+    <content type="str">John Sam and Abe, 3 retired friends,would get together every night, rain or shine, to play poker. It was a nice way to pass the time and the men enjoyed it immensely.
+John’s wife wasn’t so fond of her husband’s poker playing.  She thought it was a dirty and low way to fill his time, but she had long ago resigned herself to her sorry fate, although inside of her, there was  always a low flame on the back burner waiting to erupt.
+One Wednesday night, after a few nights of boring games, something exciting happened.  Sam watched in amusement as John and Abe, each convinced that they had the better hand,  slowly put their life savings into the pot. Things started to get really intense when John, running out of available cash, added  his car and house into the pot.
+When there was no money left to bet on they each showed their cards.  As soon as John saw Abe’s cards and realized he had lost, he had a heart attack and died.
+“Sam,” asked Abe “how are we going to tell his wife?” “Don’t worry I’ll take care of it” Abe replied.
+Abe knocked on John’s door. “John just lost all of your life savings in a poker game,” said Sam when the door was opened. “He’s afraid to come home.”
+John’s wife was fuming “HE DID WHAT?!” She screamed. “TELL HIM I DON’T WANT TO EVER SEE HIS FACE AGAIN! TELL HIM TO JUST DROP DEAD!”
+“Ok,” said Sam nodding his head, “I’ll tell him just that!”
+ 
+ 
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">343</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">159</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Husband Wife Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">1379</length>
+    <POS_histogram type="str">0.089,0.196,0.03,0.018,0.024,0.006,0.101,0.0,0.0,0.089,0.006,0.0,0.262,0.054,0.125,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.703</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.082</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.951</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.529</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.25</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,5,4,</professional_communities_histogram>
+    <racist_slur type="str">0.018</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.44,0.363,0.101,0.095,</simple_POS_histo>
+    <insulting type="str">0.012</insulting>
+    <quote type="str">0.16</quote>
+</root>

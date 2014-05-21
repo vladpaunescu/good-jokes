@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.5</rating>
+    <votes type="str">102</votes>
+    <title type="str">Love Letter Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2443/love-letter-joke/</url>
+    <content type="str">Dear Herbie,
+I know it was our joint decision for you to go off to the army for the year, but it’s so hard not having you here. We are married, doesn’t it make sense that we should be together? I’m so miserable without you, it’s almost like you’re still here.
+Love,
+Anne
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">349</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">160</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Love Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">271</length>
+    <POS_histogram type="str">0.091,0.03,0.03,0.03,0.121,0.091,0.273,0.0,0.0,0.091,0.0,0.0,0.152,0.0,0.091,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.125</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.75</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.231</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.667</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,1,</professional_communities_histogram>
+    <racist_slur type="str">0.03</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.242,0.394,0.273,0.091,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

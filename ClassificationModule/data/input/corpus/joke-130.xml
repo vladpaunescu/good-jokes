@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.3</rating>
+    <votes type="str">20</votes>
+    <title type="str">Hot Ice?</title>
+    <url type="str">http://www.greatcleanjokes.com/892/hot-ice/</url>
+    <content type="str">Q. What drink can’t freeze?
+
+
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">148</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">132</subcategory_id>
+            <category_id type="str">118</category_id>
+            <subcategory_name type="str">Funny Riddles</subcategory_name>
+            <category_name type="str">Fun Stuff</category_name>
+        </item>
+    </categories>
+    <length type="str">30</length>
+    <POS_histogram type="str">0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.5</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.5,0.25,0.25,0.0,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

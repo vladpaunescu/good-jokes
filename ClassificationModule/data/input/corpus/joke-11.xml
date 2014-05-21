@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.8</rating>
+    <votes type="str">47</votes>
+    <title type="str">Last Wishes Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3212/last-wishes-joke/</url>
+    <content type="str">Old Max had started out as a diamond cutter, and through hard work and good judgement he finally became the owner of a National chain of jewelry stores.  He was wealthy indeed.  
+But now, he lay dying, so he called his wife to his side. “Hannah,” he began, “I always meant to draw up a will but somehow I never got around to it.  So pay close to attention to my last wishes.”
+“Yes, Max, I am listening,” Hannah wept.  “Whatever you want, it will be done.”  
+“First of all, the business I leave to Harry.”
+“Oh, no, Max, not to Harry!”  his wife protested.  “With Harry it’s girl-girls-girls!  Leave the business better to Jerome.  He’s at least reliable and has a good head for figures.”
+“Alright, let it be Jerome,” sighed the dying man.  “To Harry I leave the stocks and bonds.”
+“Better you should leave me the stocks and bonds.  I should take care he doesn’t squander it on women or cards.”
+“Very well, in your name I leave the securities.  And the summer house I leave to our sweet Minnie.”
+“Minnie!”  exclaimed his wife.  “What for what does Minnie need another summer house?  Her husband didn’t buy her one last year?  Give it to Anna – her husband is a poor man.  After all she’s our flesh and blood too.”
+“Fine!  Anna gets the summer house,” he sighed resignedly.  “And to our youngest Abe, I leave the car and the warehouses.”
+“But Abe has already 2 cars.  What does he need with another one?  And he wants to be a musician – what would he do with warehouses?  Take my advice and give them to Louis.”
+That did it! Old Max had taken all he could of his wife’s interference.  Raising himself off the pillow and summoning his last ounce of strength, he snapped, “Hannah, you are a good women and have been a fine wife and mother.  But listen – who the hell is dying around here – you or me?”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">13</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">114</subcategory_id>
+            <category_id type="str">114</category_id>
+            <subcategory_name type="str">Death Jokes</subcategory_name>
+            <category_name type="str">Death Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">1797</length>
+    <POS_histogram type="str">0.087,0.098,0.027,0.022,0.049,0.066,0.093,0.005,0.0,0.077,0.005,0.011,0.24,0.082,0.137,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.512</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.156</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.984</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.778</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.471</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">2,4,9,</professional_communities_histogram>
+    <racist_slur type="str">0.005</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.459,0.35,0.098,0.093,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.347</quote>
+</root>

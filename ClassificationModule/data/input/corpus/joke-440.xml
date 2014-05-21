@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.5</rating>
+    <votes type="str">24</votes>
+    <title type="str">Keep Quiet Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2400/keep-quiet-joke/</url>
+    <content type="str">“You don’t look old at all,” I assured my 40 year old friend, who was going through a middle age crisis. I didn’t notice my 6 year old next to me, until he piped up “Well, parts of her do.”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">470</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">173</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Cute Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">190</length>
+    <POS_histogram type="str">0.091,0.182,0.045,0.0,0.091,0.0,0.091,0.0,0.0,0.227,0.0,0.0,0.227,0.045,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.8</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,2,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.273,0.409,0.091,0.227,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.863</quote>
+</root>

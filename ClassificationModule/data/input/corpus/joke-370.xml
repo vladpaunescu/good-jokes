@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.5</rating>
+    <votes type="str">71</votes>
+    <title type="str">Birth Control Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/3894/birth-control-joke/</url>
+    <content type="str">“Alright! I’ll drive them to the field trip tomorrow!” Sighed my neighbor resignedly. Sure enough the next day found her with a van full of  7 to 10 year olds.
+Clearly distracted, my neighbor  cruised right through a stop sign, “Don’t you know how to stop?” Screamed the exasperated crossing guard, running towards the car.
+My neighbor stopped her car, looked the crossing guard straight in the eye and said clearly upset, “what makes you think they are all mine?!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">390</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+    </categories>
+    <length type="str">466</length>
+    <POS_histogram type="str">0.04,0.12,0.06,0.04,0.08,0.02,0.16,0.0,0.0,0.12,0.0,0.0,0.34,0.02,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.889</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.167</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.625</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.167</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,2,1,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.36,0.36,0.16,0.12,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.487</quote>
+</root>

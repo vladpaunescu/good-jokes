@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.7</rating>
+    <votes type="str">62</votes>
+    <title type="str">God Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2712/god-joke/</url>
+    <content type="str"> A man, late for an important meeting, was searching desperately for a parking spot in a crowded lot. Looking up to the sky he entreated “Lord if you find me a parking spot, I promise to start going to church again.” The words were barely out of his mouth, when a spot opened up right in front of his car. The man looked back up, “never mind I found one.”
+</content>
+    <comments_count type="str">5</comments_count>
+    <id type="str">504</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">186</subcategory_id>
+            <category_id type="str">127</category_id>
+            <subcategory_name type="str">Religious Jokes</subcategory_name>
+            <category_name type="str">Religious Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">356</length>
+    <POS_histogram type="str">0.025,0.15,0.075,0.0,0.05,0.0,0.225,0.0,0.0,0.05,0.0,0.0,0.375,0.025,0.025,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.941</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.917</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.889</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.425,0.3,0.225,0.05,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.539</quote>
+</root>

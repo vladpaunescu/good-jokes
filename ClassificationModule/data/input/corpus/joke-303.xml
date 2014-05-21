@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.6</rating>
+    <votes type="str">90</votes>
+    <title type="str">Late Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2285/2285/</url>
+    <content type="str">I was upset but not too surprised when I saw flashing lights in my rearview mirror. “I’m terribly sorry officer” I said “I was just trying to make it to a meeting on time.” “That’s a shame” the officer said upon handing me my ticket, “what time is the meeting called for?” “Three o’clock” I said. The officer looked at his watch, “you could probably still make it if you hurry up!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">323</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">155</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Police Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">382</length>
+    <POS_histogram type="str">0.075,0.175,0.075,0.025,0.025,0.05,0.15,0.0,0.0,0.075,0.0,0.0,0.325,0.025,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.857</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.118</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.833</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,0,</professional_communities_histogram>
+    <racist_slur type="str">0.075</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.35,0.425,0.15,0.075,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.395</quote>
+</root>

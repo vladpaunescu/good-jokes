@@ -37,6 +37,8 @@ import weka.gui.visualize.VisualizePanel;
 public class MyClassifier extends AbstractClassifier {
 
 
+	public MyClassifier() {}
+	
 	public MyClassifier(Instances train, ClassificationType type)
 			throws Exception {
 		super(train, type);
@@ -132,7 +134,7 @@ public class MyClassifier extends AbstractClassifier {
 		final javax.swing.JFrame jf = new javax.swing.JFrame(
 				"C4.5 Tree Visualizer");
 
-		jf.setSize(1000, 900);
+		jf.setSize(1600, 1000);
 		jf.getContentPane().setLayout(new BorderLayout());
 		TreeVisualizer tv = new TreeVisualizer(null, tree.graph(),
 				new PlaceNode2());
@@ -197,7 +199,7 @@ public class MyClassifier extends AbstractClassifier {
 	    // taken from: ClustererPanel.visualizeClusterAssignments(VisualizePanel)
 	    String plotName = vp.getName();
 	    final javax.swing.JFrame jf = 
-	      new javax.swing.JFrame("Weka Clusterer Visualize: " + plotName);
+	      new javax.swing.JFrame("Visualize Clusters: " + plotName);
 	    jf.setSize(1000,900);
 	    jf.getContentPane().setLayout(new BorderLayout());
 	    jf.getContentPane().add(vp, BorderLayout.CENTER);

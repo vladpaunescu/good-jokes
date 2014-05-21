@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">224</votes>
+    <title type="str">Get A Raise Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/80/funny-story-3/</url>
+    <content type="str">One day an employee sends a letter  to his boss to increase his salary!!!
+In thi$ life, we all need $ome thing mo$t de$perately.  I think you  $hould be under$tanding of the need$ of u$ worker$ who have given $o much $upport including $weat and $ervice to your company.
+I am $ure you will gue$$ what I mean and re$pond $oon
+Your$ $incerely,
+Norman $oh
+The next day, the employee received this letter of reply:
+I kNOw  you have been working very hard. NOwadays, NOthing  much has changed. You must have NOticed  that our company is NOt  doing NOticeably  well .
+NOw  the newspaper are saying the world`s leading ecoNOmists  are NOt  sure if the United States may go into aNOther  recession. After the NOvember  presidential elections things may turn bad.
+I have NOthing  more to add NOw You kNOw  what I mean.
+Yours truly,
+Manager
+</content>
+    <comments_count type="str">4</comments_count>
+    <id type="str">409</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">201</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Boss Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">830</length>
+    <POS_histogram type="str">0.075,0.011,0.065,0.043,0.14,0.032,0.118,0.0,0.0,0.129,0.011,0.0,0.269,0.043,0.054,0.011,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.714</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.235</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.912</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.636</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.308</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,2,4,</professional_communities_histogram>
+    <racist_slur type="str">0.032</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.376,0.366,0.118,0.14,</simple_POS_histo>
+    <insulting type="str">0.011</insulting>
+    <quote type="str">0.0</quote>
+</root>

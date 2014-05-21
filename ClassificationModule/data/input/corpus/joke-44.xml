@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.9</rating>
+    <votes type="str">98</votes>
+    <title type="str">The Ugly Mama Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/167/knock-knock-joke-2/</url>
+    <content type="str">Yo mama is so ugly that they push her face into dough to make gorilla cookies.
+</content>
+    <comments_count type="str">2</comments_count>
+    <id type="str">46</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">119</subcategory_id>
+            <category_id type="str">115</category_id>
+            <subcategory_name type="str">Yo Mama Jokes</subcategory_name>
+            <category_name type="str">Disses</category_name>
+        </item>
+    </categories>
+    <length type="str">79</length>
+    <POS_histogram type="str">0.111,0.0,0.0,0.0,0.111,0.111,0.111,0.0,0.0,0.111,0.0,0.0,0.333,0.111,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.75</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.333</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">1.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,0,</professional_communities_histogram>
+    <racist_slur type="str">0.222</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.444,0.333,0.111,0.111,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

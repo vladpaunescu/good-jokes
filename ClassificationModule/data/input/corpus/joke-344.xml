@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.1</rating>
+    <votes type="str">36</votes>
+    <title type="str">Traveling Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2902/traveling-joke/</url>
+    <content type="str">So it was Jim’s first time leaving Europe, he was excited about visiting America and expanding his horizons. “Excuse me”, said a woman to him at the airport. “Do you happen to be traveling to America?” “As a matter of fact I am” responded Jim. “Do me a favor, my husband left to America 2 months ago and I haven’t seen or heard from him since. If you meet a fellow named John Dun, tell him to call his wife.” Jim happily complied and was on his way. He was barely in America for a hour when he saw a big building with the words Dun Watches, “Wow!” thought Jim “that was easy.” Jim walked into the building and asked the lady behind the desk “do you have a John here?” “Second door on the left,” was her reply. Jim saw a man walking out of the door drying his hands “are you Dun?” he asked. “Yes” came the mystified reply. “Call your wife,” said Jim, “she’s been waiting to hear from you.”
+</content>
+    <comments_count type="str">3</comments_count>
+    <id type="str">364</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">162</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Relationship Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">889</length>
+    <POS_histogram type="str">0.07,0.18,0.07,0.05,0.08,0.02,0.05,0.0,0.0,0.05,0.0,0.0,0.22,0.04,0.17,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.721</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.064</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.979</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.6</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.4</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,4,3,</professional_communities_histogram>
+    <racist_slur type="str">0.02</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.43,0.47,0.05,0.05,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.207</quote>
+</root>

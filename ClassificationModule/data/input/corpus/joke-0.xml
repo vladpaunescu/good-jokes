@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.3</rating>
+    <votes type="str">525</votes>
+    <title type="str">Clean Restaurant Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2779/roach-joke/</url>
+    <content type="str">So these two roaches, Tom and Oscar, are hanging out next to a dumpster enjoying a snack. “Hey Tom” said Oscar  to his friend, “You know that restaurant down the block? I went there yesterday to pick up some scraps, and I couldn’t believe how clean it was, I could practically see my reflection through the shiny waxed floor.” “Oscar” hollered Tom spitting the food out of his mouth, “please not while I am eating!!”
+</content>
+    <comments_count type="str">17</comments_count>
+    <id type="str">1</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">112</subcategory_id>
+            <category_id type="str">113</category_id>
+            <subcategory_name type="str">Good Jokes</subcategory_name>
+            <category_name type="str">Best Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">150</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Food Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">417</length>
+    <POS_histogram type="str">0.098,0.098,0.098,0.024,0.073,0.0,0.098,0.0,0.0,0.049,0.0,0.0,0.268,0.049,0.146,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.632</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.063</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,3,0,</professional_communities_histogram>
+    <racist_slur type="str">0.049</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.463,0.39,0.098,0.049,</simple_POS_histo>
+    <insulting type="str">0.024</insulting>
+    <quote type="str">0.221</quote>
+</root>

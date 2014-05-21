@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.7</rating>
+    <votes type="str">11</votes>
+    <title type="str">How To Be Popular</title>
+    <url type="str">http://www.greatcleanjokes.com/83/one-liner-2/</url>
+    <content type="str">Men are like bank accounts. Without a lot of money, they don’t generate much interest.
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">538</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">192</subcategory_id>
+            <category_id type="str">131</category_id>
+            <subcategory_name type="str">One Liners</subcategory_name>
+            <category_name type="str">SMS Jokes -</category_name>
+        </item>
+    </categories>
+    <length type="str">87</length>
+    <POS_histogram type="str">0.091,0.0,0.0,0.0,0.182,0.0,0.091,0.0,0.0,0.091,0.0,0.0,0.364,0.182,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">1.0</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.545,0.273,0.091,0.091,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

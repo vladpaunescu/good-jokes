@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.2</rating>
+    <votes type="str">61</votes>
+    <title type="str">Used Clothing Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/693/used-clothing/</url>
+    <content type="str">Always trying to save money, I often buy clothing for my kids from the garage sales. Recently, I purchased a new shirt from JC Penny for my 6 year old and was wondering why she was reluctant to wear it the next day. After asking her she responded,
+“Oh, the store has their own washing machine… that’s why we don’t have to wash it first?!”
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">306</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">151</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Garage Sale Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">153</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Little Johnny Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">173</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Cute Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">339</length>
+    <POS_histogram type="str">0.103,0.103,0.103,0.0,0.051,0.051,0.103,0.0,0.0,0.154,0.0,0.0,0.231,0.051,0.051,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.077</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.692</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.125</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.938</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.75</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,1,1,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.333,0.41,0.103,0.154,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

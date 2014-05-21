@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.8</rating>
+    <votes type="str">35</votes>
+    <title type="str">Stock Market Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2342/stock-market-joke/</url>
+    <content type="str">Q. What’s the best way to make a small fortune in the stock market?
+A. Start off with a big one!
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">291</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">149</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Economy Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">149</subcategory_id>
+            <category_id type="str">122</category_id>
+            <subcategory_name type="str">Economy Jokes</subcategory_name>
+            <category_name type="str">Life Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">97</length>
+    <POS_histogram type="str">0.077,0.0,0.0,0.0,0.0,0.077,0.0,0.0,0.0,0.154,0.0,0.077,0.462,0.0,0.154,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.75</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.5</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.333</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,0,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.615,0.154,0.0,0.231,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

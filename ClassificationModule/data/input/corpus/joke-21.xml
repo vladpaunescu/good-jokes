@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.5</rating>
+    <votes type="str">228</votes>
+    <title type="str">Getting Overpaid Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2053/getting-overpaid-joke/</url>
+    <content type="str">An employee approached his boss regarding a dispute on his pay-check…
+Employee – Sir, this is $100 less than my salary.
+Boss – I know. But last month, when you were overpaid $100, by mistake, you didn’t complain!
+Employee – Well, I don’t mind an occasional mistake, sir, but it seems to be becoming a habit, now! 
+</content>
+    <comments_count type="str">3</comments_count>
+    <id type="str">23</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">117</subcategory_id>
+            <category_id type="str">115</category_id>
+            <subcategory_name type="str">Funny Comebacks</subcategory_name>
+            <category_name type="str">Disses</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">204</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Work Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">314</length>
+    <POS_histogram type="str">0.091,0.091,0.061,0.03,0.061,0.061,0.091,0.0,0.0,0.061,0.03,0.0,0.333,0.0,0.091,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.643</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.077</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.923</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.333</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,2,</professional_communities_histogram>
+    <racist_slur type="str">0.03</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.424,0.394,0.091,0.091,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.0</quote>
+</root>

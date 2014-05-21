@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">2.6</rating>
+    <votes type="str">147</votes>
+    <title type="str">Vice President Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/1432/1432/</url>
+    <content type="str">In the year 2000 Joe Lieberman ran for president, being that he was the first potential Jew in high office he was given a lot of attention. After a disappointing loss Joe walked into his house. “Don’t worry” said his wife “in this house you’ll always be vice president!”    
+</content>
+    <comments_count type="str">0</comments_count>
+    <id type="str">389</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">167</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Speech Openers</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">168</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Funny Stories</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">184</subcategory_id>
+            <category_id type="str">127</category_id>
+            <subcategory_name type="str">Jewish Jokes</subcategory_name>
+            <category_name type="str">Religious Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">275</length>
+    <POS_histogram type="str">0.065,0.161,0.032,0.032,0.032,0.0,0.065,0.0,0.0,0.129,0.0,0.0,0.387,0.0,0.097,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.667</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.1</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.5</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.5</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,1,3,</professional_communities_histogram>
+    <racist_slur type="str">0.032</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.484,0.323,0.065,0.129,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.098</quote>
+</root>

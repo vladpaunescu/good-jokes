@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.8</rating>
+    <votes type="str">71</votes>
+    <title type="str">Who’s Wearing The Pants?</title>
+    <url type="str">http://www.greatcleanjokes.com/156/marriage-joke-2/</url>
+    <content type="str">A man died and went up to heaven. Upon arriving he noticed two signs One said “Men Who Are Bossed By Their wives,” the other one said “Men Not Bossed By Their Wives.” After closer inspection he noticed that while next to the first sign was a big line, by the second sign there was just one man. After getting even closer he realized it was his friend Harry. “Hey Harry” the man questioned “what in the world are you doing here? Your wife bosses you around more then anybody.” “I don’t know” Harry replied “my wife told me to stand here.” 
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">359</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">161</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Marriage Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">162</subcategory_id>
+            <category_id type="str">123</category_id>
+            <subcategory_name type="str">Relationship Jokes</subcategory_name>
+            <category_name type="str">Marriage Humor</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">171</subcategory_id>
+            <category_id type="str">124</category_id>
+            <subcategory_name type="str">Long Jokes</subcategory_name>
+            <category_name type="str">Other Joke Types</category_name>
+        </item>
+        <item type="dict">
+            <subcategory_id type="str">176</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Women Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">539</length>
+    <POS_histogram type="str">0.033,0.213,0.049,0.0,0.049,0.0,0.131,0.016,0.0,0.115,0.033,0.0,0.213,0.066,0.082,0.0,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.591</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.048</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.952</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.667</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.222</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">3,2,1,</professional_communities_histogram>
+    <racist_slur type="str">0.016</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.361,0.344,0.148,0.148,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.21</quote>
+</root>

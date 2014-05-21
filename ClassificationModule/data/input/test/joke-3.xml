@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">4.2</rating>
+    <votes type="str">120</votes>
+    <title type="str">Ark Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2836/ark-joke/</url>
+    <content type="str">In the year 2010, the Lord came unto Noah, who was now living in the United States, and said: Once again the earth has become wicked and over-populated, and I see the end of all flesh before me.
+Build another Ark and save 2 of every living thing long with a few good humans.
+He gave Noah the blueprints, saying: You have 6 months to build the Ark before I will start
+the unending rain for 40 days and 40 nights.
+Six months later, the Lord looked down and saw Noah weeping in his yard – but no Ark.
+Noah! He roared, I’m about to start the rain! Where is the Ark ?
+Forgive me, Lord, begged Noah, but things have changed.
+I needed a building permit.
+I’ve been arguing with the inspector about the need for a sprinkler system.
+My neighbors claim that I’ve violated the neighborhood zoning laws by building the Ark in my yard and exceeding the height limitations. We had to go to the Development Appeal Board for a decision.
+Then the Department of Transportation demanded a bond be posted for the future costs of moving power lines and other overhead obstructions, to clear the passage for the Ark ‘s move to the sea.
+I told them that the sea would be coming to us, but they would hear nothing of it.
+Getting the wood was another problem. There’s a ban on cutting local trees in order to save the spotted owl.
+I tried to convince the environmentalists that I needed the wood to save the owls – but no go!
+When I started gathering the animals, an animal rights group sued me.
+They insisted that I was confining wild animals against their will.
+They argued the accommodations were too restrictive, and it was cruel and inhumane to put so many animals in a confined space.
+Then the EPA ruled that I couldn’t build the Ark until they’d conducted an environmental impact study on your proposed flood.
+I’m still trying to resolve a complaint with the Human Rights Commission on how many minorities I’m supposed to hire for my building crew.
+Immigration is checking the status of most of the people who want to work.
+The trade unions say I can’t use my sons. They insist I have to hire only Union workers with Ark-building experience.
+To make matters worse, they seized all my assets, claiming I’m trying to leave the country illegally with endangered species.
+So, forgive me, Lord, but it would take at least 10 years for me to finish this ark.
+Suddenly the skies cleared, the sun began to shine, and a rainbow stretched across the sky.
+Noah looked up in wonder and asked, “You mean you’re not going to destroy the world?”
+“No,” said the Lord.
+“The government beat me to it.”
+</content>
+    <comments_count type="str">7</comments_count>
+    <id type="str">584</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">204</subcategory_id>
+            <category_id type="str">134</category_id>
+            <subcategory_name type="str">Work Jokes</subcategory_name>
+            <category_name type="str">Work Humor</category_name>
+        </item>
+    </categories>
+    <length type="str">2565</length>
+    <POS_histogram type="str">0.106,0.11,0.068,0.042,0.068,0.015,0.068,0.004,0.0,0.072,0.0,0.008,0.201,0.121,0.11,0.008,</POS_histogram>
+    <QA type="str">1</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.81</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.102</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">0.972</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.684</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.286</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">1,20,7,</professional_communities_histogram>
+    <racist_slur type="str">0.027</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.439,0.409,0.072,0.08,</simple_POS_histo>
+    <insulting type="str">0.008</insulting>
+    <quote type="str">0.019</quote>
+</root>

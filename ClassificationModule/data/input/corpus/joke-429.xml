@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rating type="float">3.1</rating>
+    <votes type="str">33</votes>
+    <title type="str">Fax Joke</title>
+    <url type="str">http://www.greatcleanjokes.com/2377/fax-joke/</url>
+    <content type="str">“Can you please fax over your resume?” asked the interviewer. “I’m sorry” responded the blonde, “it’s my only copy!” 
+</content>
+    <comments_count type="str">1</comments_count>
+    <id type="str">459</id>
+    <categories type="list">
+        <item type="dict">
+            <subcategory_id type="str">172</subcategory_id>
+            <category_id type="str">125</category_id>
+            <subcategory_name type="str">Blonde Jokes</subcategory_name>
+            <category_name type="str">People Jokes</category_name>
+        </item>
+    </categories>
+    <length type="str">118</length>
+    <POS_histogram type="str">0.167,0.167,0.0,0.0,0.083,0.083,0.0,0.0,0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,</POS_histogram>
+    <QA type="str">0</QA>
+    <nouns_with_sexual_connotations type="str">0.0</nouns_with_sexual_connotations>
+    <nouns_with_multiple_meanings type="str">0.333</nouns_with_multiple_meanings>
+    <verbs_with_sexual_connotations type="str">0.0</verbs_with_sexual_connotations>
+    <verbs_with_multiple_meanings type="str">1.0</verbs_with_multiple_meanings>
+    <adjectives_with_sexual_connotations type="str">0.0</adjectives_with_sexual_connotations>
+    <adjectives_with_multiple_meanings type="str">0.0</adjectives_with_multiple_meanings>
+    <adverbs_with_sexual_connotations type="str">0.0</adverbs_with_sexual_connotations>
+    <adverbs_with_multiple_meanings type="str">0.0</adverbs_with_multiple_meanings>
+    <professional_communities_histogram type="str">0,0,1,</professional_communities_histogram>
+    <racist_slur type="str">0.0</racist_slur>
+    <sexism type="str">0.0</sexism>
+    <simple_POS_histo type="str">0.25,0.5,0.0,0.25,</simple_POS_histo>
+    <insulting type="str">0.0</insulting>
+    <quote type="str">0.517</quote>
+</root>
