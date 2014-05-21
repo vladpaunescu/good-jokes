@@ -6,21 +6,34 @@ public class Main {
 	
 	public static void main(String args[]) {
 		
+		
+		int countTotalInsulting = 0;
+		int countTotalSexism = 0;
+		int countTotalRacist = 0;
+		
 		System.setProperty("wordnet.database.dir", args[1]);
 		
-	/*	String directory = "D:\\Master - semestrul II\\Good jokes project\\Corpus";
-		//for(int i=0; i<586; i++) {
-		for(int i=0; i<1; i++) {
+		
+		String directory = args[0];
+		
+		for(int i=0; i<555; i++) {
 			String filename = directory + "\\joke-"+i+".xml";
 			
-			xmlInfo = new XMLInfo(filename);
+			xmlInfo = new XMLInfo(filename, args[2], args[3]);
 			xmlInfo.printOutputXMLFile();
-		}*/
+			countTotalInsulting += xmlInfo.countInsulting;
+			countTotalSexism += xmlInfo.countSexism;
+			countTotalRacist += xmlInfo.countRacist;		
+		}
 		
-		System.setProperty("wordnet.database.dir", args[1]);
+		System.out.println("INSULTING "+ countTotalInsulting);
+		System.out.println("SEXSIM "+countTotalSexism);
+		System.out.println("RACIST "+countTotalRacist);
+		
+	/*	System.setProperty("wordnet.database.dir", args[1]);
 		
 		xmlInfo = new XMLInfo(args[0]);
-		xmlInfo.printOutputXMLFile();
+		xmlInfo.printOutputXMLFile();*/
 		
 	}
 

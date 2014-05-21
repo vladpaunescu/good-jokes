@@ -28,7 +28,11 @@ public class XMLInfo {
 	
 	private Joke joke;
 	
-	public XMLInfo(String filename) {
+	public int countRacist = 0;
+	public int countSexism = 0;
+	public int countInsulting = 0;
+	
+	public XMLInfo(String filename, String insultingWordsFilename, String racistWordsFilename) {
 		
 		this.filename = filename;
 		
@@ -38,7 +42,7 @@ public class XMLInfo {
 		getOutputDocument();
 		
 		getContent();
-		this.joke = new Joke(this.content);
+		this.joke = new Joke(this.content, insultingWordsFilename, racistWordsFilename);
 		this.joke.extractFeatures();
 		
 	}
@@ -150,6 +154,27 @@ public class XMLInfo {
 		// histogram for professional communities
 		rootElement.appendChild(constrElement("professional_communities_histogram", this.joke.getHistoProfessionalCommunities()));
 		
+		// percent of racist slur words
+		rootElement.appendChild(constrElement("racist_slur", this.joke.getRacistSlur()));
+		
+		// percent of sexist words
+		rootElement.appendChild(constrElement("sexism", this.joke.getSexism()));
+		
+		// simplified POS histo
+		rootElement.appendChild(constrElement("simple_POS_histo", this.joke.getSimplifiedHistoPOS()));
+		
+		// percent of insulting words
+		rootElement.appendChild(constrElement("insulting", this.joke.getInsulting())); 
+		
+		// percent of quotes
+		rootElement.appendChild(constrElement("quote", this.joke.getQuotePercent()));
+		
+		if (!this.joke.getInsulting().equals("0.0"))
+			this.countInsulting++;
+		if (!this.joke.getSexism().equals("0.0"))
+			this.countSexism++;
+		if (!this.joke.getRacistSlur().equals("0.0"))
+			this.countRacist++;
 	}
 	
 	

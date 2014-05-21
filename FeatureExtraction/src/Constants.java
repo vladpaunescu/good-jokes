@@ -1,5 +1,9 @@
 
 public class Constants {
+	
+	public static final boolean useSemanticTree = false;
+	public static final boolean useSynonyms = true;
+	
 	public static final String[] POSConsidered = {"VB", "VBD", "VBG", "VBN", "VBP", "VBZ",
 													"RB", "RBR", "RBS", 
 													"JJ", "JJR", "JJS",
@@ -23,6 +27,8 @@ public class Constants {
 	public static final String[][] professionalCommunities = {{"doctor", "medical", "dentist", "nurse", "medicine"},
 																{"justice", "magistrate", "jurist", "judge", "lawyer", "law"},
 																{"school", "university", "teacher", "student", "class"}};
+	
+	
 	
 	public static boolean isNounPOS(String pos) {
 		for(int i=0; i<Constants.consideredNounPOS.length; i++) 
