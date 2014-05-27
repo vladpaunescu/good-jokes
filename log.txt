@@ -1,0 +1,430 @@
+DaniilConstantin-wiki: joins the room
+Dragos_Diosteanu-wave: joins the room
+Andrei Stanciu - forum: joins the room
+Flavius Padina: joins the room
+Flavius Padina: leaves the room
+Flavius Padina - blog: joins the room
+BobricIleana - chat: joins the room
+DaniilConstantin-wiki: so, we are all here. welcome team
+Dragos_Diosteanu-wave: Hello everyone!
+BobricIleana - chat: Hello!
+Flavius Padina - blog: hello
+Andrei Stanciu - forum: hey team
+Andrei Stanciu - forum: are we all ready ?
+Dragos_Diosteanu-wave: What do we have in schedule for today?
+DaniilConstantin-wiki: I see that our company has been very successful this year, but in order to keep our position we have to usebettertechnologiesfor everyday tasks and communication
+BobricIleana - chat: we'll have to establish the technologies we will use from now on, so, where do we start?
+Andrei Stanciu - forum: fair enough
+DaniilConstantin-wiki: there are many things we can consider: wikis, google wave, forums, blogs, chat and many more
+Dragos_Diosteanu-wave: Let's begin with the description of our project
+DaniilConstantin-wiki: well, our software company has produced many applications for mobile phones and other mobile devices. so far we have many satisfied customers and employees, but we needmore
+Andrei Stanciu - forum: ok, so basicly we need to add some ways for our emplyess to comunicate better, in order to increase our productivity
+DaniilConstantin-wiki: exactly, one of the essential things we need is good collaboration between our staff members, and that includes everything from chit-chat to technical details
+Dragos_Diosteanu-wave: Ok and in order to do this we need to use the best technologies.
+BobricIleana - chat: and to improve our customer service support
+Dragos_Diosteanu-wave: You are all right
+Dragos_Diosteanu-wave: I propose to start by talking about the chat
+BobricIleana - chat: i agree
+Dragos_Diosteanu-wave: What can you say about this Ileana?
+DaniilConstantin-wiki: ok. that is indeed essentail
+BobricIleana - chat: it is a good techonolgy to obtain a real time conversation between out employees, this way they could decide and colaborate together easier
+Andrei Stanciu - forum: i think the chat application is essential actualy
+Flavius Padina - blog: but it'shard to keep a history
+DaniilConstantin-wiki: and due to the numerous chat programs, it shouldn't cost us anything to implement
+Dragos_Diosteanu-wave: Yes you are right and we can use it for fast communication between our staff
+BobricIleana - chat: we could provide a chat with more rooms, including a global one for the entire company, and also more roomsfor different departments
+Andrei Stanciu - forum: but not the "room" type, we need an instant messaging app.used fo 1on1
+DaniilConstantin-wiki: not necessarily, if we use a smart chat program that saves our logs and then we store them in a database
+BobricIleana - chat: we could have both
+Dragos_Diosteanu-wave: I propose to use Skype for this. It is very profi :)
+DaniilConstantin-wiki: the issues that need to be considered here are speed and security
+Andrei Stanciu - forum: well.. i dont know about that dragos
+Andrei Stanciu - forum: i mean, we should develop our own softwer
+BobricIleana - chat: yes, and the database could be accessed by member using theyr id and password. this way we providesecurity also
+Andrei Stanciu - forum: that's my oppinion though
+DaniilConstantin-wiki: I agree. that way we can have complete control of the application and upgrade it as we see fit
+Dragos_Diosteanu-wave: I think it is not a good point because that takes a lot of time to develop and there are many tools to do this
+Andrei Stanciu - forum: and we dont depend on other servers than our own
+Flavius Padina - blog: i agree with andrei, we should implement only what we need for chat
+BobricIleana - chat: skype could be annoying if everybody starts talking in a department
+Andrei Stanciu - forum: well, a lot of time or not, it is important to be in complete control
+Andrei Stanciu - forum: the skype servers could fail at some point, or they could be experiencing lag issues
+Andrei Stanciu - forum: we must not have to deal with that kind of problems
+DaniilConstantin-wiki: since we have many talented engineers and programmers we can easily take what is good from other chat programs and add to our own
+DaniilConstantin-wiki: I agree
+Dragos_Diosteanu-wave: I agree to with this point of view, but timeis also important for us
+Dragos_Diosteanu-wave: Why not use something that is available
+DaniilConstantin-wiki: We should give our employees privileges, and they will be able to make private / public chat rooms, invite others to chat, create conferences, use voice over IP, most things that a good chat program offers
+BobricIleana - chat: it is, indeed, but we could spare a little timeto make a goodproductthat would be specific for our needs
+DaniilConstantin-wiki: like ?
+Andrei Stanciu - forum: well, that may be, but in let's say, a year, we will wish we had spent a bit more time on a more reliableapplication
+DaniilConstantin-wiki: what would you suggest we use that would offer all the advantages we need
+DaniilConstantin-wiki: ?
+Dragos_Diosteanu-wave: Like any other chat programme: GTalk,Skype even messanger. They all have what you mentioned befonre
+Flavius Padina - blog: and they are relaible too
+Dragos_Diosteanu-wave: We do not want to invent the weel when someone allready done it
+BobricIleana - chat: we could also concern about their policy, a chat like that would not be totally private to us
+DaniilConstantin-wiki: I don't think being dependant on other servers is such a good idea. besides there are known flaws when it comes to security: for example how can you be truly invisible
+Dragos_Diosteanu-wave: I agree with you. You will never see these servers down
+BobricIleana - chat: but we wouldn't reinvent it actually, but adapt it
+Andrei Stanciu - forum: also, remember about privacy, if we develop our own chat, we can use it only in LAN, and then we can encript the communication between LANs as we see fit
+Andrei Stanciu - forum: privacy and information
+DaniilConstantin-wiki: I totally agree with that suggestion
+Andrei Stanciu - forum: security*
+DaniilConstantin-wiki: and you have to admit yahoo and google accounts can be hacked in numerous ways
+DaniilConstantin-wiki: you would be putting our clients' information at risk
+Dragos_Diosteanu-wave: You cannot intercept for example Yahoo chat conversation I've tryed it and it doesn't work
+DaniilConstantin-wiki: there are other better hackers out there :), and, like I said, an account can easily be hacked
+BobricIleana - chat: plus, it's better to make our chat because we can create our own specific rooms, rooms that aren't available in an application like skype
+Flavius Padina - blog: we could implement other technologies that are more usefull then chat
+BobricIleana - chat: but yahoocan
+DaniilConstantin-wiki: exactly
+Dragos_Diosteanu-wave: What do you suggest Flavius?
+Andrei Stanciu - forum: also think about other problemsthat come with public chat applications, like spamming flooding and such
+BobricIleana - chat: useful for what?
+Andrei Stanciu - forum: and also, we should havecompletecontrolon who our emplyees are able to talk to
+Flavius Padina - blog: for our company
+DaniilConstantin-wiki: The best thing to do, considering our elaborate employee database, is to create a chat program implementing the most common technologies that would be used internally
+DaniilConstantin-wiki: We can easily asses the costs and advantages and make a decision
+Dragos_Diosteanu-wave: I agree with you on security, but on a chat you do not givetop secret information.
+BobricIleana - chat: yes, and if we have time problems, we could offer a bonus for the employees that stay over time and implement that chat application
+Dragos_Diosteanu-wave: We can use it to announce events, meetings, tasks etc
+Andrei Stanciu - forum: well, top secret... is a bit.. dramatic, but there may be some sensitivedata
+DaniilConstantin-wiki: sometimes you do, that's why security is important
+DaniilConstantin-wiki: if a chat program is well made, that will not be an issue. that's why we need to make our own program
+DaniilConstantin-wiki: and there are many other ways to do that :)
+BobricIleana - chat: but employeescould use it to colaborate on different projects etc, this would be bad if the source codes would be given to other companyes
+Andrei Stanciu - forum: all in all, there are lots of downsides to public chatting apps. you have spam, flood, employees may get distracted easily, lower security,
+Dragos_Diosteanu-wave: Ok if you want to use this application in this scope we can make an internal one, but I mentioned earlier we have to think about time. A good and stable application takes time and our clients do not want us to waste it
+DaniilConstantin-wiki: that problem is common in our field, but we havesmartsecurity measures at the office that prevent employees from doing that
+BobricIleana - chat: like i said earlier, we could find a way to deal with time
+DaniilConstantin-wiki: how else do you think we have stayed in business :)
+Dragos_Diosteanu-wave: For this part I suggest something better like Goggle Wave or a SVN
+DaniilConstantin-wiki: chat would be excellent for meeting, discussion and other such topics, but we needmore. We have to admit that, since we use a lot of different technologies and even create our own programs, we need a good way to keep them organized. a wiki is ideal for this
+Andrei Stanciu - forum: or better yet, if time is a problem, we could simply buy such an app
+BobricIleana - chat: true, but if we would use a public application, like messenger, that would be a security breach
+DaniilConstantin-wiki: project can be created with wave and the technology behind them can be documented in a wiki
+Dragos_Diosteanu-wave: I agree with you on this. Good idea!
+DaniilConstantin-wiki: that's why our own chat program is the best idea
+Dragos_Diosteanu-wave: Let's go on what Andrei suggested
+BobricIleana - chat: ok, so do we all agree to make our own chat application?
+BobricIleana - chat: guess not :))
+DaniilConstantin-wiki: we will assess the costs. it may be better if we develop it ourselves cause we will have complete control over the code
+DaniilConstantin-wiki: then again, if time is truly a problem, we can buy on and update that
+Andrei Stanciu - forum: that is not a problem, if we decide to buy software, there are lots of companies that specialise in creating custom apps, that meet specific requirements
+DaniilConstantin-wiki: you mentioned wave for our projects
+BobricIleana - chat: and i don't think time would be such a big problem, because we don't have to develop a complicated application
+Andrei Stanciu - forum: so we can get pretty much anything we need
+DaniilConstantin-wiki: do you think it can offer us everything we need for our many different departments
+Dragos_Diosteanu-wave: Yes Constantin. Because we talked about internal communication, now let's talk about sharing code, documents etc
+Andrei Stanciu - forum: well, yes, because they work based on our specifications
+Flavius Padina - blog: I think that a program like wave will give us an advantege because we can use it and olso sell it
+Dragos_Diosteanu-wave: For thos we need an application like Google Wave that does all these things for us.
+BobricIleana - chat: but before we do that, let's establish what are we going to do with chat, are we going to buy it or develop it ourselves? i say we make it, who else does?
+DaniilConstantin-wiki: there are many ways to do that. google wave is indeed good for code and document sharing, and with a good wiki behind it where all the raw technical general data will be documented, our employees will be well organized
+Andrei Stanciu - forum: we could develop it ourselves, after all time is not such a big issue in this matter, our company worked well enough without a chat so far, it can go on for a bit longer without one
+Dragos_Diosteanu-wave: Yes we can use both for Specifications, tasks, schedules etc
+DaniilConstantin-wiki: We will assess the situation. If time is short we will buy an application and then upgrade it when need arises. If we have time we will develop it ourselves
+Andrei Stanciu - forum: fair enough
+Dragos_Diosteanu-wave: I agree with you on this
+DaniilConstantin-wiki: that is excellent for our needs. is there an upload limit, as in a limit to the information we can put on their servers?
+BobricIleana - chat: ok
+Dragos_Diosteanu-wave: No, the guys at Google are very generous with this stuff and is practically no limit
+DaniilConstantin-wiki: what about security problems?
+Dragos_Diosteanu-wave: And I think that goes the same for wikis
+Dragos_Diosteanu-wave: Every user has an account and you can make a wave public only to a part of them. We do not need the HR to know what the Dev Department is doing
+BobricIleana - chat: very well. and, is there a way to provide authentication for certain documents etc? some employees shouldn't be able to see all that's been shared
+BobricIleana - chat: 
+DaniilConstantin-wiki: exactly. a wiki is perfect for our technical needs. also, theyprovide a good way to keep our information organized and give us excellent security, cause we can decide who can and can't see the different articles
+BobricIleana - chat: and that answers my question :P
+Flavius Padina - blog: ok, what about real time?
+DaniilConstantin-wiki: I'm guessing we use google accounts ?
+Andrei Stanciu - forum: what exactly do you plan on using wikis for ?
+Dragos_Diosteanu-wave: Yes
+Andrei Stanciu - forum: i was thinking they could be usefull for sharing information with the public
+Andrei Stanciu - forum: like maybe having tutorials, specification, and things like that published
+Dragos_Diosteanu-wave: You are right. You can make one for every user and it is free
+Flavius Padina - blog: this goes better on a blog
+BobricIleana - chat: could they be a way to share/ technical documentation for our employees?
+DaniilConstantin-wiki: we use a lot of different technologies and even create some of our own. a wiki would be an excellent way to gather them all in one place. that way our employees will have a great online database to check whenever they have a problem
+BobricIleana - chat: i agree with you on this
+DaniilConstantin-wiki: that is excellent. and I'm guessing, since Google made it, the interface is smartly made and our employees will adjust to it easily
+Andrei Stanciu - forum: i think that would be a bit confusing... after all, we have the technical department for issues like that
+Dragos_Diosteanu-wave: Ok let's make a review now.
+Dragos_Diosteanu-wave: We will use waves for tasks, meetings, schedules etc
+DaniilConstantin-wiki: it is rather pointless for our staff to keep going to the technical department for most issues that they could look up for themselves, if they had a wiki
+BobricIleana - chat: if an employee need to access some documentation on an earlier release of a product, he shouldn't have to go to the technical department to solve it
+DaniilConstantin-wiki: can we also use it to planourprojects ?
+Andrei Stanciu - forum: the documentation is available in the databases
+DaniilConstantin-wiki: exactly
+Dragos_Diosteanu-wave: I suggest a wiki is good for documentation and requirements of projects
+Andrei Stanciu - forum: should he need et, he only has to open it
+Andrei Stanciu - forum: i highly disagree
+DaniilConstantin-wiki: not all of it. besides it is a lot easier to search a wiki then a database
+BobricIleana - chat: and also for technicals debates between employees
+Dragos_Diosteanu-wave: Of course we can use it
+Andrei Stanciu - forum: wikis, by deffinition, are made for public wide use
+DaniilConstantin-wiki: all major companies have wikis for their technologies. most people like to search wikis cause they provide accurate and easy to access information. Also, that way ourdatabase serverswon't be so used
+Dragos_Diosteanu-wave: You are wrong here, Costa can tell us more
+Andrei Stanciu - forum: yes, they have wikis that are publicly available, with public information, for the everyday user that takes an intrest in that company's products
+DaniilConstantin-wiki: not necessarily. we can restrict access to certain articles. that way our wiki will have some sections for the general public who want to find out some details about our technologies (what we are willing to share, of course) and some just for our employees
+BobricIleana - chat: then we could have to types of wikis, public and private
+Andrei Stanciu - forum: our employees need not read articles, they need a quick way to get to certain documents
+Dragos_Diosteanu-wave: We can use a wweb site or a blog for doing that Andrei.
+DaniilConstantin-wiki: besides there is no way that you can structure a database to make information easier to access that a wiki
+Flavius Padina - blog: i agree with you and we also can post news or updates for our proucts
+Dragos_Diosteanu-wave: A wiki is not good for our clients. We need something with richer content, more attractive....
+BobricIleana - chat: this way, we can interact with our customers, see what they think of our products, what they like and what they need
+DaniilConstantin-wiki: We can include that information in a wiki too. but I agree with Dragos's suggestion. Besides, the main purpose of our wiki would be to include technical details
+Dragos_Diosteanu-wave: Can we customize a blog to make it look very nice ?
+DaniilConstantin-wiki: That would be excellent. Having up to date information is the hallmark of a successful company
+Dragos_Diosteanu-wave: Exactly, only tehnical information for our emplyees
+Flavius Padina - blog: I think we should use wiki for us and a blog for customers
+Andrei Stanciu - forum: what kind of techincal information are you refering to ?
+DaniilConstantin-wiki: A blog or web-site is idea for day to day clients, the wiki can be accessed for those who want to find out more technical information about our company. sort of like application developers for Iphone want to find out more information about IOS
+Andrei Stanciu - forum: exactly !
+DaniilConstantin-wiki: everything from the technologies we use to those we implement. products and components, software programs, you name it
+DaniilConstantin-wiki: yup
+Andrei Stanciu - forum: that is what i have been saying this whole time
+Dragos_Diosteanu-wave: For example our projects need requirements that we receive from our clients. The developers need to have fast access to it as well as the QA to test if these requirements are implemented
+Andrei Stanciu - forum: we can't we just handle those requirements directly to the employees working on that project ?
+DaniilConstantin-wiki: That raises another problem. We need a way for the customers to contact us easily
+Andrei Stanciu - forum: and one other thing, we will definetely need an internal mailing client
+BobricIleana - chat: but we also needto find out what customers need and want
+Dragos_Diosteanu-wave: It is not a good point, because requirements change in time. There are added more or deleted.
+BobricIleana - chat: a blog is friendly and a good interface for the public
+Dragos_Diosteanu-wave: We can use a google wave to keep track of them. What do you say team?
+DaniilConstantin-wiki: indeed. and so many people are used to them, it will be good for our clients
+Andrei Stanciu - forum: by the way, our site will definetely need some king of forum
+DaniilConstantin-wiki: That would be excellent. That way they wouldn't take up extra space on our servers.
+Andrei Stanciu - forum: best way to keep track of the clients needs / complains
+DaniilConstantin-wiki: definitely
+Dragos_Diosteanu-wave: That is what I suggested before
+BobricIleana - chat: a forum could be very usefull for our technical support team
+Andrei Stanciu - forum: also, our technical support teamwill be ableto offer quick solutions to any problem people might have
+Dragos_Diosteanu-wave: Correct
+DaniilConstantin-wiki: we could also make a forumfor customers, one only for paying clients where we could solvetheirproblems and one for the staff members
+BobricIleana - chat: and we could also include a chat for that, if a client has more complex problems, he could be able to talk to one of our support technicians for solving it
+Andrei Stanciu - forum: i dont think it's so important to have one for staff members, since they will have the chat and mail to communicate to each other
+DaniilConstantin-wiki: and many people find over 50% of the answers they seek on different forums
+Dragos_Diosteanu-wave: Why should we use a forum for our stuff? We use a chat for that.
+DaniilConstantin-wiki: that may be true
+Flavius Padina - blog: we can have somebody to answer their problems 24/7
+Andrei Stanciu - forum: i dont think its necesary, if they have more complex problems, we have custommer support service via phone
+DaniilConstantin-wiki: indeed. that would indeed give the company a very good reputation
+Dragos_Diosteanu-wave: Yes and we can use a forum for that. The problems will be very organized and if someone has the same problem he will just have to search for it
+BobricIleana - chat: but sometimes phonecould beexpensive, think of our customers from other countryes
+Flavius Padina - blog: but i don't thinka forumis needed for our staff
+DaniilConstantin-wiki: but still, although answering problems by phone is good, having a support teamready 24/7 (with different people depending on the time interval of course) is a good idea
+DaniilConstantin-wiki: after seeing your arguments I totally agree.
+Andrei Stanciu - forum: yes, i just dont think a chat for this is highly needed
+Andrei Stanciu - forum: most likely, a simple forum will do just fine
+BobricIleana - chat: if it's not highly needed, it sure looks good on us
+BobricIleana - chat: it's always good to give people more alternatives
+DaniilConstantin-wiki: like Ileana said, it may be useful for customers from other countries. But still, a forumisa must. After all, that way problems that require some time to solve will never be forgotten; and the customer will know where to expect the answer
+Dragos_Diosteanu-wave: and the information will be well structured for other use
+Andrei Stanciu - forum: but think of anotherproblem, what if it gets over-used, how many people will we need to stay chatting? think that we have milions of custommers
+BobricIleana - chat: also it would spare some people time and money, if they search for their problem instead of calling already
+DaniilConstantin-wiki: Like I said, a forums is excellent for solving problems, cause that way a customer who has had a similar problems will find the result easily.
+Andrei Stanciu - forum: we need something that can help our techincal support team answer as fast as they can, but a chatwill require them to answer on the spot ! and if they are not available.. there goes our image down
+Dragos_Diosteanu-wave: Yes that is what I have suggested. A chat 24/7 needs more stuff and more money
+Andrei Stanciu - forum: its just an unnecesary risk
+DaniilConstantin-wiki: but having a chatoption in which limited number of customerscould have live chats with ourstaff regarding technicalproblemsisn't impossible
+Andrei Stanciu - forum: precisely
+Flavius Padina - blog: this is true
+BobricIleana - chat: we won't need that many, probably most of the solutions a slient needs can be found in the forum, but for some exceptions, the chatcould providethe rest of the support
+DaniilConstantin-wiki: quite
+Andrei Stanciu - forum: a simple forum, a contact phone number, and an email will sufice i belive
+Flavius Padina - blog: evreybody will ask on the chat because it will be easier
+DaniilConstantin-wiki: all major companies have that and it is indeed sufice
+DaniilConstantin-wiki: but there will be a waitingqueue, of course, so many will prefer the forums
+Dragos_Diosteanu-wave: Good point. I have never seen tech support on a chat.
+Dragos_Diosteanu-wave: :)
+BobricIleana - chat: and we could also have a way to tell the clients how may techniciansare available
+Andrei Stanciu - forum: yea, people are so lazy, if they can do something to avoid searching on a forum, or waiting for a response on the mail.. they will do that
+Flavius Padina - blog: it's way better with just forum and phone
+BobricIleana - chat: and cheaper than phone
+DaniilConstantin-wiki: and of the wiki is smartly made, some of the more experiencedusers (not necessarily customers but developers) would also findinformation there
+Andrei Stanciu - forum: fair enough
+BobricIleana - chat: but, it's also easier to look in forum before chat
+DaniilConstantin-wiki: indeed, but just a contactemail for businessopportunities for example is ok
+Dragos_Diosteanu-wave: Yes we can add a Q&A section on the wiki.
+BobricIleana - chat: it could be like that policy on forums, if a topic is already open on this debate, nobody will answer... that works with chat too, if the problem has a solution on forum, nobody will answer in chat
+Andrei Stanciu - forum: but still, you will needpeopleto check the chat
+Andrei Stanciu - forum: and im sure, there will be milions of requests to check
+Dragos_Diosteanu-wave: Ileana do you agree that a chat is not a good idea?
+DaniilConstantin-wiki: an excellent idea, and if a problem if very common we will just highlight a certain thread, or pin it as it is called
+BobricIleana - chat: well, our soft could do that for them, it could search the forum topics and see if the chat topic matches any of them
+DaniilConstantin-wiki: maybe not millions, give our programmers more credit :)
+Flavius Padina - blog: but the userwill whait for the answer and will get mad whent he won't get it and we can lose this customer
+Andrei Stanciu - forum: than it would be more like a search engine. and the forum will already have one
+BobricIleana - chat: ow well... since nobody wants it ... i won't insist anymore
+Andrei Stanciu - forum: exactly
+Dragos_Diosteanu-wave: Why use a chat topic? We can use a forum topic. In a forum other users can answer to similar problems and get answers
+DaniilConstantin-wiki: I agree. a good search engine is the key to success, wheatear we are talking about a forums, blog, database, wiki or even web-site
+Andrei Stanciu - forum: having a chat, is making a promise, that they will get a quick answer. and if we cant do that, it will look bad. better not to take the risk
+BobricIleana - chat: ok then, maybe discuss it in a future conference? :)
+DaniilConstantin-wiki: that depends, if we have a queue and the customer will see the number of people in front of him, he will estimate what to do
+Flavius Padina - blog: we all agree that for the moment the forum is the best way to solve problemes
+Dragos_Diosteanu-wave: Yes and all the arguments are in favour
+DaniilConstantin-wiki: Yes, and a blog + web-site the best way to give customers up-to-date information
+BobricIleana - chat: i didn't say we shouldn't have a forum, i totally agree that is the basic solution for this
+BobricIleana - chat: i just think that if we already consider a chat for our employees, why not for our customers too?
+DaniilConstantin-wiki: we will use wave and wiki for "project management" and technical details
+Dragos_Diosteanu-wave: a google wave for internal meetings and tasks
+DaniilConstantin-wiki: and we will have a chat program for our employees to use inside the company
+Andrei Stanciu - forum: and also remember we will need an internalmailingclient
+BobricIleana - chat: and a forum for technical support
+Andrei Stanciu - forum: we could incorporate that in the chat application, or have an independent one
+Andrei Stanciu - forum: but i suggest incorporating it with the chat, it makes for easier use i think
+DaniilConstantin-wiki: But what about securitypolicies. We need to establish clear policies about user accounts. Having a lot of applications will require a lot of accounts from each and every employee
+Dragos_Diosteanu-wave: Outlook is a great tool for emails
+Andrei Stanciu - forum: dragos, you have to agree that any self-respected company has their own internal mailing client
+DaniilConstantin-wiki: Indeed and if we buy many licenses we will get an advantageous discount
+Dragos_Diosteanu-wave: We can use the same user names+passwords for all of these applications.
+BobricIleana - chat: we should also have a wayto control what emailscan go out of the company
+Andrei Stanciu - forum: thats why internal mail is good
+Dragos_Diosteanu-wave: You are wronh here mail server not client
+BobricIleana - chat: we don't want important documents to be sold to the competition
+Andrei Stanciu - forum: no company related information can be sent outside
+Dragos_Diosteanu-wave: Correct
+BobricIleana - chat: ahh, ok
+DaniilConstantin-wiki: On one hand that is a terrific idea cause our staff won't be overwhelmed with data to remember yet on the other hand having one password for all these accounts is a security risk
+Flavius Padina - blog: not if we change it weekly or somting like that
+BobricIleana - chat: i don't think our smart and good employees will have problems remembering their passwords
+DaniilConstantin-wiki: We should at least make it compulsory to change passwords every month or so
+BobricIleana - chat: yes, that is a great idea
+Dragos_Diosteanu-wave: I was thinking at the same thing
+DaniilConstantin-wiki: oh sorry. you took the words out of my mouth :D
+BobricIleana - chat: and  also  force them to usespecialcharacters and digits too 
+DaniilConstantin-wiki: great idea
+DaniilConstantin-wiki: exactly
+Dragos_Diosteanu-wave: Ileana the user is the weekest link in security
+Andrei Stanciu - forum: haha, true
+BobricIleana - chat: true, but if they can't  remember a password, they can find it by asking the tech guys
+DaniilConstantin-wiki: that reminds me, we need administers for all the new technologies
+Andrei Stanciu - forum: the network administrators can do that
+Dragos_Diosteanu-wave: The IT department will take care of that
+DaniilConstantin-wiki: we can use a person or a team of people to handle the wiki posts, forums posts, wave documents and all the other important stuff
+Dragos_Diosteanu-wave: Yes
+DaniilConstantin-wiki: the only problem that still remains is that we need someone to check wiki articles, blog and forums posts so that classified data does not accidentally reach a "public" area
+Flavius Padina - blog: and another team for internel comuniction and security
+Dragos_Diosteanu-wave: We can use filters for that firewalls. That can save some money
+DaniilConstantin-wiki: saving money is always an excellent idea :)
+BobricIleana - chat:  but how can you  use a filter for a forum? 
+Andrei Stanciu - forum: well, mainly the tech dept. guys will do that, and i think we can count on them knowing what they are doing
+Andrei Stanciu - forum: i dont think they will accidentaly post source codes :)
+Dragos_Diosteanu-wave: We can add a database of private key words that do not have to go to the customers.
+DaniilConstantin-wiki: besides reading the posts, we can have restricted key-words (we can check our database and forbid staff members from posting certain data)
+DaniilConstantin-wiki: once again someone beat me to the punch :D
+Dragos_Diosteanu-wave: :))
+Andrei Stanciu - forum: that could prove a bit tricky, since it could get a bit to restrictive
+Andrei Stanciu - forum:  but i thinkitcan be done
+Dragos_Diosteanu-wave: It depends on the planning
+BobricIleana - chat: yes, and  also, if someonesells us out, he goes to jail :P 
+DaniilConstantin-wiki: although this may seem a clich?, it is better to be restrictive then over permissive :D
+Dragos_Diosteanu-wave: yes
+Andrei Stanciu - forum: or worse, he will get fired :D
+BobricIleana - chat: :))
+Dragos_Diosteanu-wave: Exactly
+DaniilConstantin-wiki: Apart from the actual development and implementation of these technologies, I don't think much training will be in order
+DaniilConstantin-wiki: I mean everyone of our employees knows how to use a wiki, forum blog and chat, and google wave has a extremely friendly interface
+BobricIleana - chat: we don't have to train that much our employees to develop these technologies
+Flavius Padina - blog: evrybody can use a chat , forum , bog or something like that
+DaniilConstantin-wiki: People all over the world edit wiki articles easily so that won't be a problem
+Dragos_Diosteanu-wave: Yes and google wave has a video tutorial that can help our users. So it is a good starting point
+BobricIleana - chat: it  could be harder for the  chat application,  but only for that
+DaniilConstantin-wiki: all we have to do is instruct them on the structure and security policy of our applications
+DaniilConstantin-wiki: that is excellenty
+Flavius Padina - blog: i totally agree with you
+DaniilConstantin-wiki: any other imporant technologies we should consider?
+Dragos_Diosteanu-wave: We can also use a SVN for our code. What do you think of this?
+DaniilConstantin-wiki: I have used it and was very pleased with it
+DaniilConstantin-wiki:  also, we can usenumerousprograms for crypting important data
+BobricIleana - chat: can you say a bit more about this idea?
+Dragos_Diosteanu-wave: The SVN uses a local server
+Andrei Stanciu - forum: something else, i think, for security resons, we should restrict web access in certain deparments
+Andrei Stanciu - forum: like per say, in the develpment areas
+Dragos_Diosteanu-wave: A svn is an open-source revision control system. Users can work on a version of the application code and commit it. If two users are working on the same thing when they commit a merge is made with the 2 versions
+BobricIleana - chat: web access? all the access to internet? why?
+DaniilConstantin-wiki: I agree. Every employee will have certain privileges depending of their job or department
+Flavius Padina - blog: i don't agree because at certaine point everybody will need web for researche or somtething
+DaniilConstantin-wiki: And we can have our own servers, such as an email and SVN
+Flavius Padina - blog: else
+Andrei Stanciu - forum: because we are talking about sensitive data that could cost us A LOT
+DaniilConstantin-wiki: Maybe not certain employees  but certain computers anyway 
+Andrei Stanciu - forum: how do you think piracy works? source codes get leacket
+Dragos_Diosteanu-wave: I agree. People working on different projects don't need access to all of them.
+Andrei Stanciu - forum: that's the last thing we need
+BobricIleana - chat: i agree with you on this, everybody needs access to different documentation, we can't provide everything for that
+DaniilConstantin-wiki: you know what they say, the best protection against sharks is not going into the water at all
+DaniilConstantin-wiki: I think we have analyzed the most useful technologies around, let's make a short review and that should cover it
+Dragos_Diosteanu-wave: So you agree with me?
+Andrei Stanciu - forum: i do
+BobricIleana - chat: i think a svn is a good idea, we should discuss it again in the future
+Andrei Stanciu - forum: the development area should be completely sealed off
+Andrei Stanciu - forum: and if somebody needs internet acces, they will have other terminals to use
+DaniilConstantin-wiki: yup
+BobricIleana - chat:  but what if theyneed to look up for something? 
+Dragos_Diosteanu-wave: Yes you are right
+Andrei Stanciu - forum: other terminals, computers in the same room even
+Flavius Padina - blog: i think it's way to restrictive
+Andrei Stanciu - forum:  but the computersused for development should be cut of from the outside world
+DaniilConstantin-wiki: they will use another machine. the restrictions will be only for certain computers
+Flavius Padina - blog: this is a better idea then "sealing" a departament
+DaniilConstantin-wiki: Ok, so we will use chat and google wave for project and activity management
+BobricIleana - chat: this could make them loose time...
+Dragos_Diosteanu-wave: I agree with you, niot all departments interact
+DaniilConstantin-wiki: yup
+BobricIleana - chat:  but if you all think this is the only way to provide the security we need, then i won't complain
+Dragos_Diosteanu-wave: Can you give more details?
+Andrei Stanciu - forum: that is a bit far-fetched, we are talking maybe about a few minutes lost a day
+DaniilConstantin-wiki: quite
+BobricIleana - chat: well...shifting computers for small things
+Dragos_Diosteanu-wave: You are right we should look at the big picture
+DaniilConstantin-wiki: I agree that may be costly,  but we  will only restrict the access of certaincomputers
+Andrei Stanciu - forum: they shouldn't need anything from the web, we provide anything they need
+BobricIleana - chat: for every function you don't remember in a programming language, you will have to move to other computer to find out...  but it'sok ... it wouldn't be a big problem i guess
+Flavius Padina - blog: not necesarly computers,you can change acounts
+DaniilConstantin-wiki: even better. excellent idea
+Flavius Padina - blog: on the same computer with different data and internet access
+Andrei Stanciu - forum: we have pros, with years of experience, that shouldn't happen very often
+Andrei Stanciu - forum: and i think it is worth, since it could save us A LOT of money
+BobricIleana - chat: that's true :)
+Dragos_Diosteanu-wave: Ok let's sum up.
+DaniilConstantin-wiki: indeed
+Dragos_Diosteanu-wave: I want everyone to say why their technology should be used
+DaniilConstantin-wiki: so we will use wave and chat for internal affairs such as project management, activity planning and collaboration
+DaniilConstantin-wiki: a wiki will be excellent for summing up the technolgoies / products we use or make
+BobricIleana - chat: well i think chat is important for our employees, it helps them talk and colaborate, spare time by not meeting in conferences that much, and be on track with all theit colleagues are doing
+Dragos_Diosteanu-wave: A google wave is the best sollution for time and task management. Moreover it can be used for sharing docs, xls, presentations etc
+Andrei Stanciu - forum: ok, and make sure we have a nice-looking site, with a good, well-organised forum, as a first line tech support
+Flavius Padina - blog: we should use a blog for posting update and information about products, get opinion from customers and interect with them
+Dragos_Diosteanu-wave: That is a must have. The way our clients "see" us is most important!
+DaniilConstantin-wiki: Indeed. Our companies image will grow if we have a forum, a blog, a wiki and a cool web-site that customers or developers can use
+BobricIleana - chat: and that will also be the blog's function too 
+DaniilConstantin-wiki: I totally agree. Image is important
+Andrei Stanciu - forum: in these thays, they are more important than the actual products :)
+Flavius Padina - blog: and we should use some plubicity for our products.the customers should know about them
+Dragos_Diosteanu-wave: Ok guys and girls I think that covers all the points of our debate
+BobricIleana - chat: so, this was a very productive meeting, i think we settled enough for today :)
+DaniilConstantin-wiki: that can be done in many way, no problem there :)
+DaniilConstantin-wiki: indeed
+DaniilConstantin-wiki: I foresee a very productive year for our company
+Andrei Stanciu - forum: sure hope so
+Dragos_Diosteanu-wave: Hope so too
+BobricIleana - chat: i'm sure all these will improve and help our company grow
+DaniilConstantin-wiki: Guess that wrap's everything up. Have a nice day team
+Flavius Padina - blog: see you on the next meeting with new ideas
+DaniilConstantin-wiki: leaves the room
+Andrei Stanciu - forum: good night guys, this went quite well
+BobricIleana - chat: 
+Dragos_Diosteanu-wave: Yes. Have a nice day too!
+BobricIleana - chat: good night everyone, and thank you for your collaboration:)
+Flavius Padina - blog: good night
+Andrei Stanciu - forum: leaves the room
+Flavius Padina - blog: leaves the room
+Dragos_Diosteanu-wave: Thank you too Ileana for your ideas
+BobricIleana - chat: leaves the room
+Dragos_Diosteanu-wave: Bye
+Dragos_Diosteanu-wave: leaves the room
